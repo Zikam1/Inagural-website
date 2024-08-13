@@ -14,6 +14,8 @@
         
           <li><NuxtLink to="/about" class="block px-4 py-2 hover:text-gray-300">About</NuxtLink></li>
         
+          <li><NuxtLink to="/publications" class="block px-4 py-2 hover:text-gray-300">Publications</NuxtLink></li>
+          <li><NuxtLink to="/research" class="block px-4 py-2 hover:text-gray-300">Research</NuxtLink></li>
           <li><NuxtLink to="/contact" class="block px-4 py-2 hover:text-gray-300">Contact</NuxtLink></li>
         </ul>
       </nav>

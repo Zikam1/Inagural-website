@@ -20,9 +20,6 @@
             <nuxt-link to="/about" class="text-gray-400 hover:text-white">About</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/portfolio" class="text-gray-400 hover:text-white">Portfolio</nuxt-link>
-          </li>
-          <li>
             <nuxt-link to="/contact" class="text-gray-400 hover:text-white">Contact</nuxt-link>
           </li>
         </ul>
@@ -65,7 +62,7 @@
         </div>
       </div>
     </div>
-    <div class="border-t border-gray-700 mt-8 pt-4 text-center text-gray-500">
+    <div class="border-t border-gray-700 mt-2 pt-2 text-center text-gray-500">
       &copy; 2024 Professor [Name]. All rights reserved.
     </div>
   </footer>

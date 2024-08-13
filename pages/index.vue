@@ -1,5 +1,10 @@
 <template>
-  <section class="bg-gray-100 p-8">
+  <section class="text-center py-20 bg-gray-100">
+    <h2 class="text-4xl font-bold mb-8">Welcome to the Professor's Portfolio</h2>
+    <p class="text-xl mb-8">Explore the research, publications, and more.</p>
+    <NuxtLink to="/about" class="bg-blue-900 text-white py-2 px-4 rounded hover:bg-blue-800">Learn More</NuxtLink>
+  </section>
+  <!-- <section class="bg-gray-100 p-8">
     <div class="container mx-auto text-center">
       <h1 class="text-5xl font-bold">Professor [Name]</h1>
       <p class="mt-4 text-xl text-gray-700">Leading Innovations in [Field/Discipline]</p>
@@ -8,7 +13,7 @@
         <nuxt-link to="/portfolio" class="bg-gray-600 text-white font-bold py-2 px-4 rounded hover:bg-gray-700 ml-4">View Portfolio</nuxt-link>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="container mx-auto p-8">
     <h2 class="text-3xl font-semibold text-center">Recent Work</h2>
@@ -28,4 +33,7 @@ const recentWorks = [
   { id: 2, title: 'Ethics of AI', description: 'A deep dive into the ethical considerations of AI development.' },
   { id: 3, title: 'Machine Learning Advances', description: 'Recent advancements in machine learning technologies.' },
 ];
+
+
+
 </script>
