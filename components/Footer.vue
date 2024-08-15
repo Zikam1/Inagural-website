@@ -5,7 +5,7 @@
       <div>
         <h3 class="text-xl font-bold">About</h3>
         <p class="mt-4 text-gray-400">
-          Professor [Name] is a leading expert in [Field/Discipline], with a career dedicated to research, teaching, and innovation. Learn more about her work and contributions to the field.
+          Dr. Eucharia Nwaichi is a seasoned academic with over 13 years of expertise in environmental management, leveraging her industry experience to drive student success and build strong university-industry collaborations.
         </p>
       </div>
 
