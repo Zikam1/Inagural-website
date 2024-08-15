@@ -32,17 +32,17 @@
           <li>
             Email: 
             <a href="mailto:professor@example.com" class="text-gray-400 hover:text-white">
-              professor@example.com
+              nodullm@yahoo.com
             </a>
           </li>
           <li>
             Phone: 
             <a href="tel:+1234567890" class="text-gray-400 hover:text-white">
-              +1 (234) 567-890
+              +234 805 603 1989
             </a>
           </li>
           <li>
-            Office: [University Name], [Building], [Room Number]
+            Department of Biochemistry, Faculty of Science, University of Port Harcourt, P.M.B.5323 Rivers State Nigeria 
           </li>
         </ul>
 
@@ -53,7 +53,7 @@
               <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c13 8 26 0 26-16.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
             </svg>
           </a>
-          <a href="https://linkedin.com" class="text-gray-400 hover:text-white">
+          <a href="https://ng.linkedin.com/in/eucharia" class="text-gray-400 hover:text-white">
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
               <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-4 0v7h-4v-7a6 6 0 016-6zM2 9h4v12H2zM4 4a2 2 0 110 4 2 2 0 010-4z"></path>
             </svg>
@@ -63,7 +63,7 @@
       </div>
     </div>
     <div class="border-t border-gray-700 mt-2 pt-2 text-center text-gray-500">
-      &copy; 2024 Professor [Name]. All rights reserved.
+      &copy; 2024 Professor NWAICHI, Eucharia Oluchi . All rights reserved.
     </div>
   </footer>
 </template>
