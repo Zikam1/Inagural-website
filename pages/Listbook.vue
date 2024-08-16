@@ -2,20 +2,22 @@
     <div class="container mx-auto px-4 py-8">
       <h1 class="text-3xl font-bold mb-6"> List of Publications</h1>
       <div class="flex justify-between items-center mb-6">
+        <button 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
+          @click="router.goBack()"
+        >
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>Back</span>
+        </button>
         <nuxt-link 
-        to="javascript:history.back()" 
-        class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
-        <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M15 19l-7-7 7-7"></path>
-        </svg>
-        <span>Back</span></nuxt-link>
-        <nuxt-link 
-          to="/Listbook" 
+          to="/listbook" 
           class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">
          Book Chapter
         </nuxt-link>
         <nuxt-link 
-          to="/nextpage" 
+          to="/" 
           class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors">
           <span class="mr-2">Next</span>
           <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -39,7 +41,7 @@
     </div>
   </template>
   
-  <script setup>
+  <script setup lang="ts">
   const publications = [
     {
       title: "The Book of Proceedings from the 6th Biennial International Conference for the Organization for Women in Science for the Developing World Nigeria (OWSD 2023)",
@@ -120,6 +122,8 @@
       year: 2002,
       journal: "Afaide & Co publishers. 4 Abak road, Uyo Akwa Ibom State Nigeria",
     },
-  ];
+  ]
+
+  const router = useRouter()
   </script>
   

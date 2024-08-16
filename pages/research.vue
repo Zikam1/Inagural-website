@@ -12,18 +12,18 @@
             
             <!-- Text Section -->
             <div class="w-full lg:w-2/3">
-              <h3 class="text-3xl font-semibold mb-4">Research Area 1</h3>
-              <p class="text-lg text-gray-700 mb-4">
-                Description of research area 1, detailing the focus of the research, methodologies used, and any significant findings or contributions to the field.
+              <h3 class="text-3xl font-bold mb-4">191ST INAGURAL LECTURE SERIES</h3>
+              <p class="text-lg text-gray-700 font-semibold mb-4">
+                Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Methods:</span> Outline the research methods or approaches used in this area, such as qualitative analysis, quantitative experiments, etc.
+                <span class="font-semibold">TIme</span> 3PM.
               </p>
               <p class="text-lg text-gray-700">
-                <span class="font-semibold">Publications:</span> Include references to key publications related to this research area, with links to the articles if available.
+                <span class="font-semibold">Date:</span> 29TH AUGUST, 2024
               </p>
             </div>
           </li>
@@ -37,18 +37,18 @@
             
             <!-- Text Section -->
             <div class="w-full lg:w-2/3">
-              <h3 class="text-3xl font-semibold mb-4">Research Area 2</h3>
-              <p class="text-lg text-gray-700 mb-4">
-                Description of research area 2, detailing the focus of the research, methodologies used, and any significant findings or contributions to the field.
+              <h3 class="text-3xl font-bold  mb-4">191ST INAGURAL LECTURE SERIES</h3>
+              <p class="text-lg text-gray-700 font-semibold mb-4">
+                Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Methods:</span> Outline the research methods or approaches used in this area, such as qualitative analysis, quantitative experiments, etc.
+                <span class="font-semibold">TIme</span> 3PM.
               </p>
               <p class="text-lg text-gray-700">
-                <span class="font-semibold">Publications:</span> Include references to key publications related to this research area, with links to the articles if available.
+                <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
               </p>
             </div>
           </li>
@@ -62,18 +62,18 @@
             
             <!-- Text Section -->
             <div class="w-full lg:w-2/3">
-              <h3 class="text-3xl font-semibold mb-4">Research Area 1</h3>
-              <p class="text-lg text-gray-700 mb-4">
-                Description of research area 1, detailing the focus of the research, methodologies used, and any significant findings or contributions to the field.
+              <h3 class="text-3xl font-bold mb-4">191ST INAGURAL LECTURE SERIES</h3>
+              <p class="text-lg text-gray-700 font-semibold mb-4">
+                Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Methods:</span> Outline the research methods or approaches used in this area, such as qualitative analysis, quantitative experiments, etc.
+                <span class="font-semibold">TIme</span> 3PM.
               </p>
               <p class="text-lg text-gray-700">
-                <span class="font-semibold">Publications:</span> Include references to key publications related to this research area, with links to the articles if available.
+                <span class="font-semibold">Date:</span> 29TH AUGUST, 2024
               </p>
             </div>
           </li>
@@ -87,18 +87,18 @@
             
             <!-- Text Section -->
             <div class="w-full lg:w-2/3">
-              <h3 class="text-3xl font-semibold mb-4">Research Area 2</h3>
-              <p class="text-lg text-gray-700 mb-4">
-                Description of research area 2, detailing the focus of the research, methodologies used, and any significant findings or contributions to the field.
+              <h3 class="text-3xl font-bold  mb-4">191ST INAGURAL LECTURE SERIES</h3>
+              <p class="text-lg text-gray-700 font-semibold mb-4">
+                Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Methods:</span> Outline the research methods or approaches used in this area, such as qualitative analysis, quantitative experiments, etc.
+                <span class="font-semibold">TIme</span> 3PM.
               </p>
               <p class="text-lg text-gray-700">
-                <span class="font-semibold">Publications:</span> Include references to key publications related to this research area, with links to the articles if available.
+                <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
               </p>
             </div>
           </li>
