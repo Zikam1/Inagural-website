@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-8">
-  <div class="flex space-x-4 mb-6">
+  <div class="flex flex-wrap gap-4 mb-6">
     <button class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors @click="currentTab = 'publications'>Publications</button>
     <nuxt-link to="/Listbook" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">List of Publications - Books Chapter</nuxt-link>
     <nuxt-link to="/paperpresent" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Paper Presentations</nuxt-link>

@@ -1,7 +1,12 @@
 <template>
-    <section class="py-20 bg-gray-100">
+  
+  <section class="py-12 bg-gray-100">
       <div class="container mx-auto">
-        <h2 class="text-4xl font-bold mb-12 text-center">Research Interests</h2>
+        <h2 class="text-4xl font-bold text-center text-gray-800">Event Schedule</h2>
+      </div>
+    </section>
+    <section class="py-10 bg-gray-100">
+      <div class="container mx-auto">
         <ul class="space-y-12">
           <!-- Research Area 1 -->
           <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center">
@@ -50,6 +55,7 @@
               <p class="text-lg text-gray-700">
                 <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
               </p>
+              
             </div>
           </li>
   
@@ -105,5 +111,6 @@
         </ul>
       </div>
     </section>
+    
   </template>
   

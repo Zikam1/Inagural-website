@@ -4,7 +4,7 @@
     <div class="flex flex-col md:flex-row items-center md:items-start">
       <!-- Profile Image -->
       <div class="flex-shrink-0 mb-4 md:mb-0 w-24 h-24 sm:w-32 sm:h-32 md:w-64 md:h-64 flex justify-center items-center">
-        <img src="../assests/Eucharia.jpeg" alt="Professor NWAICHI, Eucharia Oluchi" class="rounded-full w-full h-full object-cover">
+        <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="rounded-full w-full h-full object-cover">
       </div>
 
       <!-- Biography -->

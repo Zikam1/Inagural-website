@@ -7,7 +7,7 @@
       <div class="hidden md:flex space-x-6">
         <nuxt-link to="/" class="nav-link">Home</nuxt-link>
         <nuxt-link to="/about" class="nav-link">About</nuxt-link>
-        <nuxt-link to="/research" class="nav-link">Research</nuxt-link>
+        <nuxt-link to="/events" class="nav-link">Events</nuxt-link>
         <nuxt-link to="/Publications" class="nav-link">Publications</nuxt-link>
         <nuxt-link to="/portfolio" class="nav-link">Portfolio</nuxt-link>
         <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
@@ -27,7 +27,7 @@
         <nuxt-link to="/about" class="nav-link block">About</nuxt-link>
         <nuxt-link to="/portfolio" class="nav-link block">Portfolio</nuxt-link>
         <nuxt-link to="/publications" class="nav-link block">Publications</nuxt-link>
-        <nuxt-link to="/research" class="nav-link block">Research</nuxt-link>
+        <nuxt-link to="/events" class="nav-link block">Events</nuxt-link>
         <nuxt-link to="/contact" class="nav-link block">Contact</nuxt-link>
       </div>
     </div>
