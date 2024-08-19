@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto p-6">
+    <div class="container mb-16 mx-auto p-6">
         <nuxt-link 
           to="/publications" 
           class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
@@ -151,7 +151,129 @@
         </div>
       </div>
     </div>
+ 
+
+    <div class="container  mx-auto p-6">
+      <header class="mb-8 text-center">
+        <h1 class="text-4xl font-bold mb-4">Duties & Responsibilities</h1>
+        <p class="text-lg text-gray-700">Here’s a summary of various duties, roles, and events I’ve participated in over the years.</p>
+      </header>
+  
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        <!-- Duty Card Template -->
+        <div v-for="(duty, index) in duties" :key="index" class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold mb-2">{{ duty.duty }}</h3>
+          <p class="text-gray-700 mb-2">{{ duty.description }}</p>
+          <span class="text-gray-500 text-sm">{{ duty.date }}</span>
+        </div>
+      </div>
+    </div>
   </template>
+  
+  <script setup>
+  const duties = [
+    {
+      duty: 'Speaker',
+      description: 'Sharing my UK experience as a Commonwealth Fellow. Pre-Departure Networking event at British Council Office. Port Harcourt.',
+      date: '17 August 2018',
+    },
+    {
+      duty: 'Chief Judge',
+      description: 'Beauty pageant organised by Brainfield Academy. Off EastWest road Eliogbolo Port Harcourt',
+      date: '8 December 2017',
+    },
+    {
+      duty: 'Radio guest',
+      description: 'Discussing the Impact of my Recognition as “One of the 10 Female Scientists pulling weight in Nigeria”. BBC London at 7:40am.',
+      date: '16 November 2017',
+    },
+    {
+      duty: 'Resource Person',
+      description: 'Discussing World Science Day at the national Radio in Port Harcourt, Treasure FM 98.5 at 9am.',
+      date: '10 November 2017',
+    },
+    {
+      duty: 'Guest Facilitator',
+      description: 'AuthorAID Grant Proposal Writing & Research Writing Course',
+      date: '18 April to June 12, 2017',
+    },
+    {
+      duty: 'Guest Facilitator',
+      description: 'AuthorAID e - Research Writing Course',
+      date: '4 October to 14 November 2016',
+    },
+    {
+      duty: 'Director of Information',
+      description: 'Chapel of Annunciation Catholic Chaplaincy, University of Port Harcourt',
+      date: 'Ongoing',
+    },
+    {
+      duty: 'Judge',
+      description: 'The Queen’s Commonwealth Essay competition',
+      date: '16 May to 10 June 2016',
+    },
+    {
+      duty: 'Guest Facilitator',
+      description: 'AuthorAID e - Research Writing Course',
+      date: '1 April to 12 May 2016',
+    },
+    {
+      duty: 'Facilitator',
+      description: 'Host community (Akala olu Ahoada West Local Government Area Rivers Nigeria) Engagement on research output and uptake at the paramount ruler’s Palace',
+      date: '8 October 2014',
+    },
+    {
+      duty: 'Facilitator',
+      description: 'A session with Polish students from Polish Noblists School (Gimnazjum nr 3 im. Noblistów) Polskich w Świdnik, East Poland and their UNESCO club.',
+      date: '18 December 2013',
+    },
+    {
+      duty: 'Trainer',
+      description: 'Case Management training for members of Child Protection Networks in Abia, Rivers, Cross river, Bayelsa, and Akwaibom states of Nigeria. EEM JM Hotels and suites Uyo. Sponsored by UNICEF.',
+      date: '26th – 31st August 2013',
+    },
+    {
+      duty: 'Facilitator',
+      description: 'Establishment of Child protection vanguards in Ahoada communities (Post Flood response) in Rivers state. A project sponsored by UNICEF.',
+      date: '3rd – 10th August 2013',
+    },
+    {
+      duty: 'Facilitator',
+      description: 'Cohort study on the prevalence of substance abuse among children at the Bundu Waterside municipality in Rivers state. A study sponsored by UNICEF',
+      date: '3rd – 7th September 2012',
+    },
+    {
+      duty: 'Co-Facilitator',
+      description: '2012 CPN flood intervention (Response) funded by UNICEF Nigeria',
+      date: 'April 2010',
+    },
+    {
+      duty: 'Resource person',
+      description: 'Vision Nigeria Live Radio Programme to discuss “Child Labour and National Development”. Radio Rivers Port Harcourt Nigeria.',
+      date: '25th August 2011',
+    },
+    {
+      duty: 'Co- Facilitator/ Anchor',
+      description: 'UNICEF awarded project to monitor and engender protection on Children during all phases of the Nigerian electioneering period/ “Talk Show” on “Engendering a Protective Environment for Children, EPEC 2011” in the electioneering period on popular WAZOBIA FM radio in Port Harcourt, Nigeria.',
+      date: 'January to June 2011',
+    },
+    {
+      duty: 'Supervisor',
+      description: 'Voter’s Registration for Independent Electoral Commission INEC in Rivers state, Nigeria',
+      date: 'Jan to Feb 2011',
+    },
+    {
+      duty: 'Facilitator',
+      description: 'Public awareness / rally on child trafficking in Port Harcourt Rivers state',
+      date: '25th September 2012',
+    },
+  ];
+  </script>
+  
+  <style scoped>
+  /* Custom styles can be added here */
+  </style>
+  
   
   <style scoped>
   /* Custom styles can be added here */
