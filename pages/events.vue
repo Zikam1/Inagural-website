@@ -22,7 +22,8 @@
                 Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
+                <span class="font-semibold">Key Findings:</span> Join us for an insightful lecture on "Science and Sustainability,<br>
+                " exploring cutting-edge research and innovations driving a greener future..
               </p>
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">TIme</span> 3PM.
@@ -46,9 +47,7 @@
               <p class="text-lg text-gray-700 font-semibold mb-4">
                 Science and Substainability: Pioneering a Greener Pasture.
               </p>
-              <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
-              </p>
+              
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">TIme</span> 3PM.
               </p>
@@ -72,9 +71,7 @@
               <p class="text-lg text-gray-700 font-semibold mb-4">
                 Science and Substainability: Pioneering a Greener Pasture.
               </p>
-              <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
-              </p>
+              
               <p class="text-lg text-gray-700 mb-4">
                 <span class="font-semibold">TIme</span> 3PM.
               </p>
@@ -98,11 +95,11 @@
                 Science and Substainability: Pioneering a Greener Pasture.
               </p>
               <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">Key Findings:</span> Briefly list or describe the most impactful findings from this research area.
+                <span class="font-semibold">Key Findings:</span> <p>Join us to explore how cutting-edge science is shaping sustainable
+                 practices <br>and driving progress toward a greener world. This is an excellent opportunity </p>
+                 to engage with experts and be part of the dialogue on sustainable development.
               </p>
-              <p class="text-lg text-gray-700 mb-4">
-                <span class="font-semibold">TIme</span> 3PM.
-              </p>
+              
               <p class="text-lg text-gray-700">
                 <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
               </p>

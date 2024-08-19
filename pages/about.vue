@@ -3,10 +3,9 @@
     <!-- Profile Section -->
     <div class="flex flex-col md:flex-row items-center md:items-start">
       <!-- Profile Image -->
-      <div class="flex-shrink-0 mb-4 md:mb-0 w-24 h-24 sm:w-32 sm:h-32 md:w-64 md:h-64 flex justify-center items-center">
-        <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="rounded-full w-full h-full object-cover">
-      </div>
-
+      <div class="flex-shrink-0 mb-4 md:mb-0 w-24 h-24 sm:w-32 sm:h-32 md:w-64 md:h-64 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
+  <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-contain">
+</div>
       <!-- Biography -->
       <div class="md:ml-8 flex-1 text-center md:text-left">
         <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2>
