@@ -4,7 +4,8 @@
     <button class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors @click="currentTab = 'publications'>Publications</button>
     <nuxt-link to="/Listbook" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">List of Publications - Books Chapter</nuxt-link>
     <nuxt-link to="/paperpresent" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Paper Presentations</nuxt-link>
-    <nuxt-link to="/workshop" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">WorkShop</nuxt-link> 
+    <nuxt-link to="/workshop" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">WorkShop</nuxt-link>
+    <nuxt-link to="/professional-info" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">professional-info</nuxt-link>  
     <nuxt-link 
           to="/" 
           class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors">
