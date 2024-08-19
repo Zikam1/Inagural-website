@@ -378,4 +378,52 @@
     </div>
   </div>
 </div>
+<div class="container mx-auto p-6">
+    <header class="mb-8 text-center">
+      <h1 class="text-4xl font-bold mb-4">Badges & Recognition</h1>
+      <p class="text-lg text-gray-700">Explore the various badges and recognition I've received for my contributions and facilitation in research and proposal writing.</p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Cohort Facilitator</h3>
+        <p class="text-gray-700">Research and Proposal Writing in the Sciences (2022). One of the most active facilitators! INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">Facilitating Events and Courses in an Online World (2022). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator (Star)</h3>
+        <p class="text-gray-700">Research and Proposal Writing in the Sciences (2022). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">Facilitating Events and Courses in an Online World (2021). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">Research Writing in the Sciences (2019). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">AuthorAID Proposal Writing and Research Writing Online Course (April to June 2017). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">AuthorAID Research Writing Online Course (November 2016). INASP AuthorAID.</p>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow">
+        <h3 class="text-xl font-semibold mb-2">Guest Facilitator</h3>
+        <p class="text-gray-700">AuthorAID Online Course in Research Writing (May 2016). INASP AuthorAID.</p>
+      </div>
+    </div>
+  </div>
   </template>

@@ -1,10 +1,19 @@
 <template>
     <div class="container mx-auto p-6">
+        <nuxt-link 
+          to="/publications" 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>Back</span>
+          </nuxt-link>
       <header class="mb-8 text-center">
+        
         <h1 class="text-4xl font-bold mb-4">Professional Information</h1>
         <p class="text-lg text-gray-700">Explore my professional affiliations, board memberships, degree theses, and reviewer roles in detailed sections below.</p>
       </header>
-  
+     
       <div class="space-y-8">
         <!-- First Section: Professional Affiliations -->
         <div class="bg-gray-50 p-6 rounded-lg shadow-md">
