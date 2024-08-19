@@ -1,6 +1,14 @@
 <template>
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <h2 class="text-4xl font-extrabold text-gray-800 mb-12 text-center">Paper Presentations</h2>
+    <nuxt-link 
+          to="/publications" 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>Back</span>
+          </nuxt-link>
+    <h2 class="text-3xl font-bold mb-6">Paper Presentations</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       <div
         v-for="(presentation, index) in presentations"

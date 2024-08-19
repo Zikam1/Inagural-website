@@ -1,11 +1,20 @@
 <template>
   <div class="container mx-auto px-4 py-8">
-  <div class="flex flex-wrap gap-4 mb-6">
+  <div class="flex justify-between items-center mb-6">
     <button class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors @click="currentTab = 'publications'>Publications</button>
     <nuxt-link to="/Listbook" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">List of Publications - Books Chapter</nuxt-link>
     <nuxt-link to="/paperpresent" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Paper Presentations</nuxt-link>
-    <nuxt-link to="/workshop" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">WorkShop</nuxt-link>
+    <nuxt-link to="/workshop" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">WorkShop</nuxt-link> 
+    <nuxt-link 
+          to="/" 
+          class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors">
+          <span class="mr-2">Next</span>
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M9 5l7 7-7 7"></path>
+          </svg>
+        </nuxt-link>
     </div>
+    
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       <div v-for="(publication, index) in publications" :key="index" class="p-4 border border-gray-200 rounded-lg shadow-md">
         <h2 class="text-xl font-semibold mb-2">{{ publication.title }}</h2>

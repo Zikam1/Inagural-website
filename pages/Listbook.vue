@@ -1,30 +1,15 @@
 <template>
     <div class="container mx-auto px-4 py-8">
-      <h1 class="text-3xl font-bold mb-6"> List of Publications</h1>
-      <div class="flex justify-between items-center mb-6">
-        <button 
-          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
-          @click="router.goBack()"
-        >
+      <nuxt-link 
+          to="/publications" 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
           <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M15 19l-7-7 7-7"></path>
+          <path d="M15 19l-7-7 7-7"></path>
           </svg>
           <span>Back</span>
-        </button>
-        <nuxt-link 
-          to="/listbook" 
-          class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">
-         Book Chapter
-        </nuxt-link>
-        <nuxt-link 
-          to="/" 
-          class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors">
-          <span class="mr-2">Next</span>
-          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M9 5l7 7-7 7"></path>
-          </svg>
-        </nuxt-link>
-      </div>
+          </nuxt-link>
+      <h1 class="text-3xl font-bold mb-6"> List of Publications</h1>
+      
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <div v-for="(publication, index) in publications" :key="index" class="p-4 border border-gray-200 rounded-lg shadow-md">
           <h2 class="text-xl font-semibold mb-2">{{ publication.title }}</h2>

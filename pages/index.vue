@@ -109,7 +109,7 @@
           src="../assests/lec0.jpg"
           alt="Gallery Image 1"
           class="w-full h-64 object-cover rounded-lg shadow-lg"
-        />
+        /><div class="mt-6 text-gray-800 font-bold">Speaking at CUGH 2024, <br>Los Angeles California USA</br></div>
       </div>
       <!-- Image 2 -->
       <div class="relative">
@@ -132,6 +132,21 @@
   </div>
 </section>
 
+
+<section class="bg-gradient-to-r from-blue-500 to-teal-500 text-white py-24">
+  <div class="container mx-auto text-center">
+    <h2 class="text-4xl font-bold mb-4">Upcoming Inaugural Lecture: A Scholarly Event</h2>
+    <p class="text-lg mb-8">
+      Engage with us in a distinguished event that celebrates academic excellence and innovative research.
+    </p>
+    <a
+      href="#"
+      class="bg-white  text-blue-700 py-3 px-8 rounded-lg shadow-lg text-lg font-semibold  hover:bg-gray-100 transition duration-300"
+    >
+      Register Now
+    </a>
+  </div>
+</section>
 
     <!-- Latest News Section -->
     <section class="py-24 bg-gray-100">
@@ -156,8 +171,7 @@
           <div class="bg-white shadow-lg rounded-lg p-6">
             <h3 class="text-2xl font-bold text-gray-800">Paper Presentations</h3>
             <p class="text-gray-600 mt-4">
-              Discover our latest publication addressing key climate change 
-              challenges and potential solutions through interdisciplinary research.
+              Showcasing pioneering research and thought leadership across diverse academic fields.
             </p>
             <nuxt-link
               href="/paperpresent" 
@@ -173,7 +187,7 @@
               participants' skills and understanding in their respective areas of interest..
             </p>
             <nuxt-link
-              href="/publications" 
+              href="/workshop" 
               class="mt-4 inline-block text-blue-600 hover:underline"
               >Read More</nuxt-link
             >
@@ -183,30 +197,11 @@
     </section>
 
     <!-- Call to Action Section -->
-    <section class="bg-gradient-to-r from-blue-500 to-teal-500 text-white py-24">
-  <div class="container mx-auto text-center">
-    <h2 class="text-4xl font-bold mb-4">Don't Miss Our Next Inaugural Lecture</h2>
-    <p class="text-lg mb-4">
-      Join us for an inspiring event that highlights academic excellence and groundbreaking innovation.
-    </p>
-    <a
-      href="#"
-      class="bg-white text-blue-700 py-3 px-8 rounded-lg shadow-lg text-lg font-semibold hover:bg-gray-100 transition duration-300"
-    >
-      Register Now
-    </a>
-  </div>
-</section>
+    
+
 
 </template>
 
 <script setup>
-const recentWorks = [
-  { id: 1, title: 'AI in Healthcare', description: 'Exploring AI applications in the healthcare industry.' },
-  { id: 2, title: 'Ethics of AI', description: 'A deep dive into the ethical considerations of AI development.' },
-  { id: 3, title: 'Machine Learning Advances', description: 'Recent advancements in machine learning technologies.' },
-];
-
-
 
 </script>

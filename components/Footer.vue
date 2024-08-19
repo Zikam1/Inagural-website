@@ -6,7 +6,7 @@
         <div>
           <h3 class="text-xl font-bold">About</h3>
           <p class="mt-4 text-gray-400">
-            Prof. Eucharia Nwaichi is a seasoned academic with over 13 years of expertise in environmental management, leveraging her industry experience to drive student success and build strong university-industry collaborations.
+            Prof. Eucharia Nwaichi, an expert in environmental management, has over 13 years of experience driving student achievement and enhancing university-industry ties.
           </p>
         </div>
 

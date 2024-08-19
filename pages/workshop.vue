@@ -1,9 +1,19 @@
 <template>
-<div class="container mx-auto px-4 py-16 ">
+  
+<div class="container mx-auto px-4 py-8 ">
+  <nuxt-link 
+          to="/publications" 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>Back</span>
+          </nuxt-link>
   <!-- Workshops/ Summer School/ Exhibitions/ Summit/ Scientific Meetings Section -->
-  <div class="mb-8">
+  <div class="mb-24">
     <h1 class="text-3xl font-bold mb-6">Workshops / Summer School / Exhibitions / Summit / Scientific Meetings</h1>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      
       <!-- Event Card -->
       <div class="bg-white p-4 border border-gray-200 rounded-lg shadow-md">
         <h2 class="text-xl font-semibold mb-2">1. Regional Workshop on the Development of a Graduate Employability Framework</h2>
