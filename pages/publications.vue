@@ -50,9 +50,9 @@
       <nuxt-link
         exact-active-class="bg-blue-600 text-white"
         class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
-        to="/awards"
+        to="/dws"
       >
-        AWARDS
+      DevWomenScience
       </nuxt-link>
       
       <!-- Next Tab -->

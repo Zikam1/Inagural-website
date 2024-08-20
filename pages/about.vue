@@ -3,9 +3,9 @@
     <!-- Profile Section -->
     <div class="flex flex-col md:flex-row items-center md:items-start">
       <!-- Profile Image -->
-      <div class="flex-shrink-0 mb-4 md:mb-0 w-24 h-24 sm:w-32 sm:h-32 md:w-64 md:h-64 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
-  <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-contain">
-</div>
+      <div class="flex-shrink-0 mb-4 md:mb-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
+        <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
+      </div>
       <!-- Biography -->
       <div class="md:ml-8 flex-1 text-center md:text-left">
         <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2>
@@ -42,174 +42,158 @@
 
         <!-- Work Experience -->
         <div class="mt-8 sm:mt-16">
-          <h3 class="text-xl sm:text-2xl font-semibold">Work Experience</h3>
-          <div class="overflow-x-auto">
-  <table class="min-w-full divide-y divide-gray-200 border border-gray-300">
-    <thead class="bg-gray-100">
-      <tr>
-        <th class="px-4 sm:px-6 py-2 sm:py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">ESTABLISHMENT</th>
-        <th class="px-4 sm:px-6 py-2 sm:py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">POSITION</th>
-        <th class="px-4 sm:px-6 py-2 sm:py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">RESPONSIBILITIES</th>
-        <th class="px-4 sm:px-6 py-2 sm:py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">YEAR</th>
-      </tr>
-    </thead>
-    <tbody class="bg-white divide-y divide-gray-200">
-      <!-- Row 1 -->
-      <tr>
-        <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">CypherCrescent Ltd</td>
-        <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Consultant</td>
-        <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Driving corporate communication and strategy</td>
-        <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Nov 2023 to Apr 2024</td>
-      </tr>
-                <!-- Row 2 -->
-                <tr>
-                  <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Institute of Petroleum Studies Port Harcourt Nigeria</td>
-                  <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Visiting Lecturer</td>
-                  <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Teaching Health, Safety and Environment (HSE)</td>
-                  <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">January 2018 to date</td>
-                </tr>
-                <!-- Add additional rows as needed -->
-                <!-- The remaining rows will follow a similar pattern to those above -->
-                <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">CypherCrescent Ltd</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Consultant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Driving corporate communication and strategy</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Nov 2023 to Apr 2024</td>
-  </tr>
+          <h3 class="text-xl sm:text-2xl  text-center  font-bold">WORK EXPERIENCE</h3>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">          
+  <!-- Card 1 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">CypherCrescent Ltd</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Consultant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Driving corporate communication and strategy</p>
+    <p class="text-gray-500"><strong>Year:</strong> Nov 2023 to Apr 2024</p>
+  </div>
+
+  <!-- Card 2 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Institute of Petroleum Studies Port Harcourt Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Visiting Lecturer</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Teaching Health, Safety and Environment (HSE)</p>
+    <p class="text-gray-500"><strong>Year:</strong> January 2018 to date</p>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">University of Port Harcourt Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Senior Lecturer</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Supervising students, and conducting research in Biochemistry</p>
+    <p class="text-gray-500"><strong>Year:</strong> Sept 2013 to date</p>
+  </div>
+
+  <!-- Card 4 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Ministry of Environment, Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Consultant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Advising on environmental policies and sustainable practices</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jul 2010 to Aug 2013</p>
+  </div>
+
+  <!-- Card 5 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Nigeria LNG Limited</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Health and Safety Officer</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Implementing HSE protocols and safety training</p>
+    <p class="text-gray-500"><strong>Year:</strong> Mar 2007 to Jun 2010</p>
+  </div>
+
+  <!-- Card 6 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">University of Port Harcourt Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Lecturer II</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Lecturing Biochemistry and supervising undergraduate projects</p>
+    <p class="text-gray-500"><strong>Year:</strong> Sept 2005 to Mar 2007</p>
+  </div>
+
+  <!-- Card 7 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Shell Petroleum Development Company</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Analyst</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Conducting environmental impact assessments</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jan 2003 to Aug 2005</p>
+  </div>
+
+  <!-- Card 8 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Chevron Nigeria Limited</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Research Assistant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Assisting in environmental research projects</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jun 2000 to Dec 2002</p>
+  </div>
+
+  <!-- Card 9 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">University of Port Harcourt Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Graduate Assistant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Assisting in lectures and research in the Department of Biochemistry</p>
+    <p class="text-gray-500"><strong>Year:</strong> Mar 2000 to May 2000</p>
+  </div>
+
+  <!-- Card 10 -->
+  
+</div>
+  <div class="grid grid-cols-1 md:grid-cols-2 mt-4 lg:grid-cols-3 gap-4">
+  <!-- Card 1 -->
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Rivers State Ministry of Environment</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Consultant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Providing consultancy on environmental policies</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jan 1998 to Feb 2000</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Environmental Consultancy Associates</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Analyst</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Analyzing environmental data for project development</p>
+    <p class="text-gray-500"><strong>Year:</strong> Apr 1995 to Feb 2000</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">University of Port Harcourt Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Research Assistant</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Supporting biochemistry research projects</p>
+    <p class="text-gray-500"><strong>Year:</strong> Sept 1994 to Mar 1995</p>
+  </div>
+
   <!-- Row 2 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Institute of Petroleum Studies Port Harcourt Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Visiting Lecturer</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Teaching Health, Safety and Environment (HSE)</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">January 2018 to date</td>
-  </tr>
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Shell Nigeria Exploration and Production Company</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Trainee Analyst</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Training in environmental impact analysis</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jun 1993 to Aug 1994</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Chevron Nigeria Limited</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Project Supervisor</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Supervising environmental assessment projects</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jan 1992 to May 1993</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Rivers State Environmental Protection Agency (RSEPA)</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Officer</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Monitoring and enforcing environmental regulations</p>
+    <p class="text-gray-500"><strong>Year:</strong> Feb 1990 to Dec 1991</p>
+  </div>
+
   <!-- Row 3 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">University of Port Harcourt Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Senior Lecturer</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Supervising students, and conducting research in Biochemistry</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Sept 2013 to date</td>
-  </tr>
-  <!-- Row 4 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Ministry of Environment, Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Consultant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Advising on environmental policies and sustainable practices</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jul 2010 to Aug 2013</td>
-  </tr>
-  <!-- Row 5 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Nigeria LNG Limited</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Health and Safety Officer</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Implementing HSE protocols and safety training</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Mar 2007 to Jun 2010</td>
-  </tr>
-  <!-- Row 6 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">University of Port Harcourt Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Lecturer II</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Lecturing Biochemistry and supervising undergraduate projects</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Sept 2005 to Mar 2007</td>
-  </tr>
-  <!-- Row 7 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Shell Petroleum Development Company</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Analyst</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Conducting environmental impact assessments</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jan 2003 to Aug 2005</td>
-  </tr>
-  <!-- Row 8 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Chevron Nigeria Limited</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Research Assistant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Assisting in environmental research projects</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jun 2000 to Dec 2002</td>
-  </tr>
-  <!-- Row 9 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">University of Port Harcourt Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Graduate Assistant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Assisting in lectures and research in the Department of Biochemistry</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Mar 2000 to May 2000</td>
-  </tr>
-  <!-- Row 10 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Rivers State Ministry of Environment</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Consultant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Providing consultancy on environmental policies</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jan 1998 to Feb 2000</td>
-  </tr>
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Niger Delta Development Commission (NDDC)</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Consultant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Advising on environmental protection strategies</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Mar 2000 to Jan 2002</td>
-  </tr>
-  <!-- Row 12 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Environmental Consultancy Associates</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Analyst</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Analyzing environmental data for project development</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Apr 1995 to Feb 2000</td>
-  </tr>
-  <!-- Row 13 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">University of Port Harcourt Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Research Assistant</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Supporting biochemistry research projects</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Sept 1994 to Mar 1995</td>
-  </tr>
-  <!-- Row 14 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Shell Nigeria Exploration and Production Company</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Trainee Analyst</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Training in environmental impact analysis</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jun 1993 to Aug 1994</td>
-  </tr>
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Chevron Nigeria Limited</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Project Supervisor</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Supervising environmental assessment projects</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jan 1992 to May 1993</td>
-  </tr>
-  <!-- Row 16 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Rivers State Environmental Protection Agency (RSEPA)</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Officer</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Monitoring and enforcing environmental regulations</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Feb 1990 to Dec 1991</td>
-  </tr>
-  <!-- Row 17 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Mobil Producing Nigeria</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Assistant Environmental Analyst</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Supporting environmental analysis and reporting</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jul 1987 to Jan 1990</td>
-  </tr>
-  <!-- Row 18 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Port Harcourt Refining Company (PHRC)</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Environmental Technician</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Conducting fieldwork for environmental studies</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Oct 1985 to Jun 1987</td>
-  </tr>
-  <!-- Row 19 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Nigerian National Petroleum Corporation (NNPC)</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Junior Environmental Scientist</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Assisting in environmental data collection</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Apr 1983 to Sept 1985</td>
-  </tr>
-  <!-- Row 20 -->
-  <tr>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm font-medium text-gray-900 truncate" style="max-width: 120px;">Petroleum Training Institute (PTI), Effurun</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 100px;">Intern Environmental Scientist</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500 truncate" style="max-width: 200px;">Conducting lab and field tests</td>
-    <td class="px-4 sm:px-6 py-2 sm:py-4 text-sm text-gray-500">Jan 1982 to Mar 1983</td>
-  </tr>
-              </tbody>
-            </table>
-          </div>
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Mobil Producing Nigeria</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Assistant Environmental Analyst</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Supporting environmental analysis and reporting</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jul 1987 to Jan 1990</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Port Harcourt Refining Company (PHRC)</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Environmental Technician</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Conducting fieldwork for environmental studies</p>
+    <p class="text-gray-500"><strong>Year:</strong> Oct 1985 to Jun 1987</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Nigerian National Petroleum Corporation (NNPC)</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Junior Environmental Scientist</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Assisting in environmental data collection</p>
+    <p class="text-gray-500"><strong>Year:</strong> Apr 1983 to Sept 1985</p>
+  </div>
+
+  <div class="bg-white border border-gray-300 rounded-lg p-4 shadow-sm">
+    <h3 class="text-lg font-semibold text-gray-900">Petroleum Training Institute (PTI), Effurun</h3>
+    <p class="text-gray-500"><strong>Position:</strong> Intern Environmental Scientist</p>
+    <p class="text-gray-500"><strong>Responsibilities:</strong> Conducting lab and field tests</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jan 1982 to Mar 1983</p>
+  </div>
+</div>
+          
         </div>
       </div>
     </div>
@@ -233,7 +217,7 @@
     <div class="relative w-full h-64 mb-6">
       <img src="../assests/aw1.jpg" alt="International Awards" class="absolute inset-0 w-full h-full object-cover rounded-lg shadow-lg">
     </div>
-    <h3 class="text-2xl font-semibold text-gray-800 mb-6">INTERNATIONAL</h3>
+    <h3 class="text-2xl font-semibold text-gray-800 mb-6">INTERNATIONAL AWARDS</h3>
     <div v-for="(group, index) in internationalGrouped" :key="index" class="rounded-lg bg-white p-6 shadow-lg mb-6">
       <ul class="space-y-4">
         <li v-for="(item, idx) in group" :key="idx" class="flex items-start space-x-2">
@@ -249,7 +233,7 @@
     <div class="relative w-full h-64 mb-6">
       <img src="../assests/aw2.jpg" alt="National Awards" class="absolute inset-0 w-full h-full object-cover rounded-lg shadow-lg">
     </div>
-    <h3 class="text-2xl font-semibold text-gray-800 mb-6">NATIONAL</h3>
+    <h3 class="text-2xl font-semibold text-gray-800 mb-6">NATIONAL AWARDS</h3>
     <div v-for="(group, index) in nationalGrouped" :key="index" class="rounded-lg bg-white p-6 shadow-lg mb-6">
       <ul class="space-y-4">
         <li v-for="(item, idx) in group" :key="idx" class="flex items-start space-x-2">
