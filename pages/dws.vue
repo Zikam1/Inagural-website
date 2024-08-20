@@ -10,7 +10,10 @@
           </svg>
           <span>Back</span>
           </nuxt-link>
-      <h2 class="text-4xl font-bold text-center mb-12">Development for the course of Women in Science:</h2>
+          <header class="bg-blue-900 text-white p-6 text-center">
+        <h1 class="text-2xl font-bold">Development for the course of Women in Science:</h1>
+        <p class="text-xl mt-2"> | Researcher | Educator</p>
+      </header>
       <div class="space-y-12">
         <div v-for="lecture in lectures" :key="lecture.id" class="bg-white p-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300">
           <h3 class="text-2xl font-semibold mb-4">{{ lecture.title }}</h3>

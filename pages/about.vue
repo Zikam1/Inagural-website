@@ -6,8 +6,10 @@
       <div class="flex-shrink-0 mb-4 md:mb-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
         <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
       </div>
+      
       <!-- Biography -->
       <div class="md:ml-8 flex-1 text-center md:text-left">
+        
         <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2>
         <p class="mt-2 sm:mt-4 text-sm sm:text-base md:text-lg text-gray-700">
           A well-traveled academic with 13+ years of teaching and research experience and poised with strong
@@ -23,17 +25,31 @@
           </ul>
         </div>
 
-        <div class="mt-4 sm:mt-8">
-          <h4 class="text-xl sm:text-2xl font-semibold">Certification URL for Verified International Academic Qualifications:</h4>
-          <a 
-            href="https://t.cred.ly/ujDZXOg01r_mKmTClCtI7w,,$$$fyI82w8zIdOsTk6_8NRIRQtGeeUjP2CHdc1FiEJ1dGyRMgxBCdoSXj1kI7cUEhwz32p2Za0b4mMLLxhFbYFEXmferXCtGD4-yPxb6imywXk,?r=https%3A%2F%2Fwes.credly.com%2Fmember-badges%2F18039751&t=1558038296" 
-            target="_blank" 
-            rel="noopener noreferrer" 
-            class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 sm:mt-8 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            View Certification
-          </a>
-        </div>
+        <div class="flex flex-col sm:flex-row gap-4 mt-4 sm:mt-8">
+  <!-- Certification Section -->
+  <div class="flex-1">
+    <h4 class="text-xl sm:text-2xl font-semibold">Certification URL for Verified International Academic Qualifications:</h4>
+    <a 
+      href="https://t.cred.ly/ujDZXOg01r_mKmTClCtI7w,,$$$fyI82w8zIdOsTk6_8NRIRQtGeeUjP2CHdc1FiEJ1dGyRMgxBCdoSXj1kI7cUEhwz32p2Za0b4mMLLxhFbYFEXmferXCtGD4-yPxb6imywXk,?r=https%3A%2F%2Fwes.credly.com%2Fmember-badges%2F18039751&t=1558038296" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+    >
+      View Certification
+    </a>
+  </div>
+  
+  <!-- Skills Section -->
+  <div class="flex-1">
+    <h4 class="text-xl sm:text-2xl font-semibold">SKILLS SET:</h4>
+    <NuxtLink 
+      to="/skills" 
+      class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+    >
+      click to view
+    </NuxtLink>
+  </div>
+</div>
 
         <!-- Full-Width Image -->
         <div class="mt-8 sm:mt-16">
