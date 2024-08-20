@@ -123,7 +123,7 @@
       <!-- Image 3 -->
       <div class="relative">
         <img
-          src="../assests/lec3.jpg"
+          src="../assests/lec4.JPG"
           alt="Gallery Image 3"
           class="w-full h-64 object-cover rounded-lg shadow-lg"
         /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>

@@ -1,44 +1,100 @@
 <template>
-    <div class="bg-gray-100 min-h-screen">
-      <!-- Header Section -->
-      <header class="bg-blue-600 text-white py-6">
-        <div class="container mx-auto text-center">
-          <h1 class="text-3xl font-bold">Grants, Awards, Honors, and Academies</h1>
-          <p class="mt-2">A showcase of my professional recognitions and achievements.</p>
-        </div>
-      </header>
-  
-      <!-- Main Content -->
-      <main class="py-12">
-        <div class="container mx-auto px-4">
-          <!-- International Awards -->
-          <section id="international" class="mb-12">
-            <h2 class="text-2xl font-semibold mb-6">International Awards</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              <!-- Award Item -->
-              <div class="bg-white p-6 rounded-lg shadow-md">
-                <!-- <img src="your-image-url.jpg" alt="Award Image" class="w-full h-40 object-cover rounded-md mb-4"> -->
-                <h3 class="text-xl font-semibold">Co-Investigator</h3>
-                <p class="text-gray-700">International Network for Advancing Science and Policy Limited, INASP/ Association of Commonwealth Universities, ACU Ocean Country Partnership Programme, OCPP Scholarships training project. 2024.</p>
-              </div>
-              <!-- Add more award items here -->
-            </div>
-          </section>
-  
-          <!-- National Awards -->
-          <section id="national">
-            <h2 class="text-2xl font-semibold mb-6">National Awards</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              <!-- Award Item -->
-              <div class="bg-white p-6 rounded-lg shadow-md">
-                <!-- <img src="your-image-url.jpg" alt="Award Image" class="w-full h-40 object-cover rounded-md mb-4"> -->
-                <h3 class="text-xl font-semibold">Research Icon</h3>
-                <p class="text-gray-700">University of Port Harcourt recognition for research efforts that have grown the university locally and internationally. January 2023.</p>
-              </div>
-              <!-- Add more award items here -->
-            </div>
-          </section>
-        </div>
-      </main>
+  <section class="bg-gray-100 py-16">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <h2 class="text-lg font-semibold text-indigo-600">Grants / Awards / Honors / Academies</h2>
+        <p class="mt-2 text-4xl font-bold text-gray-900">Achievements at a Glance</p>
+        <p class="mt-4 text-lg text-gray-600">A showcase of recognitions received on both international and national levels</p>
       </div>
-      </template>
+
+     <!-- Grid layout for the two sections -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+  <!-- International Awards Section -->
+  <div class="col-span-1">
+    <div class="relative w-full h-64 mb-6">
+      <img src="../assests/aw1.jpg" alt="International Awards" class="absolute inset-0 w-full h-full object-cover rounded-lg shadow-lg">
+    </div>
+    <h3 class="text-2xl font-semibold text-gray-800 mb-6">International</h3>
+    <div v-for="(group, index) in internationalGrouped" :key="index" class="rounded-lg bg-white p-6 shadow-lg mb-6">
+      <ul class="space-y-4">
+        <li v-for="(item, idx) in group" :key="idx" class="flex items-start space-x-2">
+          <span class="text-indigo-600 font-bold">{{ idx + 1 + index * 4 }}.</span>
+          <p class="text-lg text-gray-700">{{ item }}</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- National Awards Section -->
+  <div class="col-span-1">
+    <div class="relative w-full h-64 mb-6">
+      <img src="../assests/aw2.jpg" alt="National Awards" class="absolute inset-0 w-full h-full object-cover rounded-lg shadow-lg">
+    </div>
+    <h3 class="text-2xl font-semibold text-gray-800 mb-6">National</h3>
+    <div v-for="(group, index) in nationalGrouped" :key="index" class="rounded-lg bg-white p-6 shadow-lg mb-6">
+      <ul class="space-y-4">
+        <li v-for="(item, idx) in group" :key="idx" class="flex items-start space-x-2">
+          <span class="text-indigo-600 font-bold">{{ idx + 1 + index * 4 + internationalAwards.length }}.</span>
+          <p class="text-lg text-gray-700">{{ item }}</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+    </div>
+  </section>
+</template>
+
+<script setup>
+const internationalAwards = [
+  "Co-Investigator. International Network for Advancing Science and Policy Limited, INASP/Association of Commonwealth Universities, ACU Ocean Country Partnership Programme, OCPP Scholarships training project. 2024.",
+  "Fellow. Science by Women Foundation. Fundacion Mujeres por Africa. Spain. April 2023.",
+  "Co-Investigator. UNESCO/OWSD grant to build capacity for Organization for Women in Science for the Developing World, OWSD Nigeria National Chapter themed 'Leadership for Organizational Growth'. November 2022.",
+  "Winner, John Maddox Prize 2022 Edition. Sense about Science and Nature. London UK. October 2022.",
+  "Winner, 2022 Africa Evidence Leadership Award on the Evidence Producers category. Africa Evidence Network (AEN). April 2022.",
+  "ACU Gender Grant 2021. Association of Commonwealth Universities. March 2022.",
+  "Emerging EIDM champion. Africa Centre for Evidence. 2021.",
+  "Evidence Leader. African Academy of Sciences (AAS) and the African Institute for Development Policy (AFIDEP). 4 November 2020.",
+  "Principal Investigator. Inclusion and Diversity Grant. Royal Society of Chemistry. August 2020.",
+  "Principal Investigator. Seed Grant to Institutionalize Evidence-Informed Decision-Making (EIDM) within Governments in Africa. Evidence Leaders Africa project funded by toxicity evalua. Grant number is #2018-8189. January 2020.",
+  "Holder, 10 undergraduate scholarships into British University in Egypt (BUE). 2018. Awarded by the Chairman, BUE Board of Directors.",
+  "Affiliate Member, African Academy of Science (AAS). 2016 – 2020 cycle.",
+  "International Fellow, Commonwealth International Academic Fellowship. Commonwealth Scholarship Commission, United Kingdom. April 2015.",
+  "Holder, The Royal Society Grant – Commonwealth Science Conference Follow on Grants Scheme. The Royal Society, London United Kingdom. March 2015.",
+  "Fellow, African Scientific Institute. 2013.",
+  "Second place. Lublin Science Festival Lublin Poland. 15 – 20 September 2013.",
+  "International Fellow. UNESCO-L’ORÉAL International Fellowships for Young Women in Life Sciences – 2013 cycle. 28th March 2013. Paris.",
+  "Guest Investigator. Risk and benefits of application of exogenous organic matter to soil. Number: CZ.3.22/1.2.00/12.03445. Source of funding: Poland-Czech Republic Cross-Border Operational Programme 2007-2013.",
+  "Co-Principal Investigator. CPN flood intervention. funded by UNICEF. April 2012.",
+  "Phyto Scholar Award. International Phytotechnologies Society US. September 2011, Oregon US.",
+  "Phyto Scholar Award. International Phytotechnologies Society US. September 2010, Parma Italy."
+];
+
+const nationalAwards = [
+  "Research Icon. University of Port Harcourt recognition for research efforts that have grown the university locally and internationally. January 2023.",
+  "Winner, Professor Kayode Adebowale National Young Scientists’ Prize for Women in Chemical Sciences. Nigerian Young Academy. 2022.",
+  "Principal Investigator. Optimization of compost and locally available waste materials for remediation of petroleum hydrocarbon polluted soil. BW Offshore. January 2022.",
+  "Hall of Fame honour. Faculty of Science University of Port Harcourt. 29th July 2016.",
+  "2015 University of Port Harcourt Distinguished Merit Award for diligent and meritorious service to the University. June 2015.",
+  "Teacher / student performance award by Students Union Government (SUG) University of Port Harcourt Chapter for significant contributions towards students’ growth and wellbeing. August 2014.",
+  "Teacher / student performance award by National Association of Science Students, University of Port Harcourt Chapter for landmark contributions in the growth of the association. March 2014.",
+  "Most student friendly lecturer award by National Association of Biochemistry Students, University of Port Harcourt Chapter. 2013.",
+  "Scholar, Petroleum Technology Development Fund (PTDF), Local (Doctorate Degree) Scholarship Scheme. 2010.",
+  "Female Star Swimming (25m) Prize from Graduate Students Association, University of Port Harcourt Nigeria, October 2007.",
+  "Uyo Local Government Chairman Award for excellent contributions to the development of the local government in Akwa Ibom State, December 2002.",
+  "State Governor’s award for Outstanding Corps member (NYSC) in Akwa Ibom State Nigeria, for outstanding contributions to State Development, December 2002.",
+  "Dean of Faculty of Science Award for Best Graduating student in Biochemistry (1999/2000 session). 2001.",
+  "Late Omogbai Memorial Subject prize for Best Graduating student in Biochemistry (1999/2000 session). 2001."
+];
+
+const groupByFour = (array) => {
+  const groupedArray = [];
+  for (let i = 0; i < array.length; i += 4) {
+    groupedArray.push(array.slice(i, i + 4));
+  }
+  return groupedArray;
+};
+
+const internationalGrouped = groupByFour(internationalAwards);
+const nationalGrouped = groupByFour(nationalAwards);
+</script>
