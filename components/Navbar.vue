@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-white shadow-md">
+  <!-- <nav class="bg-white shadow-md">
     <div class="container mx-auto px-4 py-2 flex justify-between items-center">
       <div class="text-2xl font-bold text-blue-600">
         <nuxt-link to="/">Prof. [Name]</nuxt-link>
@@ -31,7 +31,7 @@
         <nuxt-link to="/contact" class="nav-link block">Contact</nuxt-link>
       </div>
     </div>
-  </nav>
+  </nav> -->
 </template>
 
 <script setup>

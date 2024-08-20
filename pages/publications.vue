@@ -1,22 +1,72 @@
 <template>
   <div class="container mx-auto px-4 py-8">
-  <div class="flex justify-between items-center mb-6">
-    <button class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors @click="currentTab = 'publications'>Publications</button>
-    <nuxt-link to="/Listbook" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">List of Publications - Books Chapter</nuxt-link>
-    <nuxt-link to="/paperpresent" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Paper Presentations</nuxt-link>
-    <nuxt-link to="/workshop" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">WorkShop</nuxt-link>
-    <nuxt-link to="/professional-info" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">professional-info</nuxt-link> 
-    <nuxt-link to="/awards" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">awards</nuxt-link>   
-    <nuxt-link 
-          to="/" 
-          class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors">
-          <span class="mr-2">Next</span>
-          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M9 5l7 7-7 7"></path>
-          </svg>
-        </nuxt-link>
+    <div class="flex flex-wrap justify-between items-center mb-6">
+      <!-- Publications Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-600 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-600 transition-colors mb-2 w-full sm:w-auto"
+        to="/publications"
+      >
+        PUBLICATIONS
+      </nuxt-link>
+      
+      <!-- Books Chapter Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-400 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/Listbook"
+      >
+        LIST OF PUBLICATIONS - Books Chapter
+      </nuxt-link>
+      
+      <!-- Paper Presentations Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-400 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/paperpresent"
+      >
+        PAPER PRESENTATIONS
+      </nuxt-link>
+      
+      <!-- Workshop Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-400 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/workshop"
+      >
+        WORKSHOP
+      </nuxt-link>
+      
+      <!-- Professional Info Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-600 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/professional-info"
+      >
+        PROFESSIONAL INFO
+      </nuxt-link>
+      
+      <!-- Awards Tab -->
+      <nuxt-link
+        exact-active-class="bg-blue-600 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/awards"
+      >
+        AWARDS
+      </nuxt-link>
+      
+      <!-- Next Tab -->
+      <nuxt-link 
+        to="/" 
+        class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors w-full sm:w-auto">
+        <span class="mr-2">Next</span>
+        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M9 5l7 7-7 7"></path>
+        </svg>
+      </nuxt-link>
     </div>
     
+    <!-- Publications Grid -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       <div v-for="(publication, index) in publications" :key="index" class="p-4 border border-gray-200 rounded-lg shadow-md">
         <h2 class="text-xl font-semibold mb-2">{{ publication.title }}</h2>
@@ -33,7 +83,9 @@
   </div>
 </template>
 
+
 <script setup>
+
 const publications = [
   {
     title: "Evaluation of Research Progress and Trends on Cement Retarders Application in Oilwells: A Bibliometric Analysis of Literature and Stakeholders",
