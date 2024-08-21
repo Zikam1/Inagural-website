@@ -28,59 +28,100 @@
                   src="../assests/lec6.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">Attending a conference with<br> Prof. Bene Abbey</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec7.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita,<br> and her daughter, Noni at Amherst USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec8.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">Speaking at CUGH 2024<br> Los Angeles California USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec9.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">Skiing after a hard day's work at<br> Boston, USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec10.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">Skiing after a hard day's work at<br>Boston, USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec11.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">With tmy assigned undergraduate supervisee at<br>UNMASS Amherst, USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec12.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64 object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                /><div class="mt-6 text-gray-800 font-bold">A lavish welcome as a visiting Faculty to<br> UMASS Ahmert, USA</br></div>
+              </div>
+              
+              <div class="relative">
+                <img
+                  src="../assests/lec14.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">Ceremony with members</div>
+              </div>
+              <div class="relative">
+                <img
+                  src="../assests/lec15.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">Full Panel Session with members</div>
+              </div>
+              <div class="relative">
+                <img
+                  src="../assests/lec16.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">Presenting an Invited Paper at<br> Philadelphia, USA</br></div>
+              </div>
+              <div class="relative">
+                <img
+                  src="../assests/lec17.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">Learning the USA culture and food under the auspices of round the World Women, USA</div>
+              </div>
+              <div class="relative">
+                <img
+                  src="../assests/lec18.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">Researcher is enjoying some snowy weather at Detroit,USA</div>
+              </div>
+              <div class="relative">
+                <img
+                  src="../assests/lec19.JPG"
+                  alt="Gallery Image 3"
+                  class="w-full h-64  object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita and her daughter,<br> Noni at Amherst USA</br></div>
               </div>
               <div class="relative">
                 <img
                   src="../assests/lec13.JPG"
                   alt="Gallery Image 3"
-                  class="w-full  object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+                  class="w-full   object-cover rounded-lg shadow-lg"
+                /><div class="mt-6 text-gray-800 font-bold">With Lab memebers at UMass Amherst</div>
               </div>
-              
-    
             </div>
         </div>
       </section>

@@ -89,7 +89,7 @@
           class="w-full h-64 object-cover rounded-lg shadow-lg"
         />
         <div class="mt-6 text-gray-800 font-bold">
-          Speaking at CUGH 2024, <br />Los Angeles California USA
+          Conference at <br />Los Angeles California USA
         </div>
       </div>
       <!-- Image 2 -->
