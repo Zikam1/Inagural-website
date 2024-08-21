@@ -54,16 +54,6 @@
       >
       DevWomenScience
       </nuxt-link>
-      
-      <!-- Next Tab -->
-      <nuxt-link 
-        to="/" 
-        class="inline-flex items-center ml-4 text-blue-600 hover:text-blue-800 transition-colors w-full sm:w-auto">
-        <span class="mr-2">Next</span>
-        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M9 5l7 7-7 7"></path>
-        </svg>
-      </nuxt-link>
     </div>
     
     <!-- Publications Grid -->

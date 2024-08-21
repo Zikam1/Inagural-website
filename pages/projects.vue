@@ -1,13 +1,23 @@
 <template>
     <div class="bg-gray-100 min-h-screen">
+        
       <!-- Big Picture Projects -->
       <section id="projects" class="py-12 bg-white">
+       
         <div class="container mx-auto px-4">
+            <nuxt-link 
+          to="/" 
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>Back</span>
+          </nuxt-link>
           <h2 class="text-3xl font-bold mb-6 text-center">BIG PICTURE PROJECTS</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
             <div class="bg-white shadow-lg rounded-lg overflow-hidden">
               <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
-                <img src="../assests/tree.PNG" alt="All Nigeria Universities Debate Championship" class="w-full"/>
+                <img src="../assests/treee.jpg" alt="All Nigeria Universities Debate Championship" class="w-full"/>
               </a>
               <div class="p-6">
                 <h3 class="text-xl font-semibold mb-2">All Nigeria Universities Debate Championship</h3>
@@ -18,7 +28,7 @@
             <!-- Add more projects similarly -->
             <div class="bg-white shadow-lg rounded-lg overflow-hidden">
               <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
-                <img src="../assests/tre.PNG"  alt="3-Day Coding and Robotics Bootcamp for STEM Girls" class="w-full"/>
+                <img src="../assests/treeee.jpg"  alt="3-Day Coding and Robotics Bootcamp for STEM Girls" class="w-full"/>
               </a>
               <div class="p-6">
                 <h3 class="text-xl font-semibold mb-2">3-Day Coding and Robotics Bootcamp for STEM Girls. </h3>
