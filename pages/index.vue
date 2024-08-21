@@ -5,28 +5,6 @@
     <p class="text-xl mb-8">Explore the research, publications, and more.</p>
     <NuxtLink to="/publications" class="bg-blue-900 text-white py-2 px-4 rounded hover:bg-blue-800">Learn More</NuxtLink>
   </section>
-  <!-- <section class="bg-gray-100 p-8">
-    <div class="container mx-auto text-center">
-      <h1 class="text-5xl font-bold">Professor [Name]</h1>
-      <p class="mt-4 text-xl text-gray-700">Leading Innovations in [Field/Discipline]</p>
-      <div class="mt-8">
-        <nuxt-link to="/about" class="bg-blue-600 text-white font-bold py-2 px-4 rounded hover:bg-blue-700">About Me</nuxt-link>
-        <nuxt-link to="/portfolio" class="bg-gray-600 text-white font-bold py-2 px-4 rounded hover:bg-gray-700 ml-4">View Portfolio</nuxt-link>
-      </div>
-    </div>
-  </section> -->
-
-  <!-- <section class="container mx-auto p-8">
-    <h2 class="text-3xl font-semibold text-center">Recent Work</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
-      <div v-for="item in recentWorks" :key="item.id" class="bg-white shadow-md rounded p-4">
-        <h3 class="text-xl font-bold">{{ item.title }}</h3>
-        <p class="mt-2">{{ item.description }}</p>
-        <nuxt-link :to="`/portfolio/${item.id}`" class="text-blue-500 hover:underline mt-4 block">Read more</nuxt-link>
-      </div>
-    </div>
-  </section> -->
-  
     <!-- About Us Section -->
     <section class="py-24 bg-white">
   <div class="container mx-auto flex flex-col md:flex-row items-center px-4 md:px-8">
@@ -98,7 +76,7 @@
     <!-- Gallery Section -->
     <section class="py-24 bg-white">
   <div class="container mx-auto text-center">
-    <h2 class="text-4xl font-bold text-gray-800"> Gallery</h2>
+    <h2 class="text-4xl font-bold text-gray-800">Gallery</h2>
     <p class="text-lg text-gray-600 mt-4">
       Browse through the highlights of our previous inaugural lectures.
     </p>
@@ -109,7 +87,10 @@
           src="../assests/lec0.jpg"
           alt="Gallery Image 1"
           class="w-full h-64 object-cover rounded-lg shadow-lg"
-        /><div class="mt-6 text-gray-800 font-bold">Speaking at CUGH 2024, <br>Los Angeles California USA</br></div>
+        />
+        <div class="mt-6 text-gray-800 font-bold">
+          Speaking at CUGH 2024, <br />Los Angeles California USA
+        </div>
       </div>
       <!-- Image 2 -->
       <div class="relative">
@@ -117,8 +98,10 @@
           src="../assests/lec1.jpg"
           alt="Gallery Image 2"
           class="w-full h-64 object-cover rounded-lg shadow-lg"
-        /><div class="mt-6 text-gray-800 font-bold">Speaking at CUGH 2024, <br>Los Angeles California USA</br></div>
-        
+        />
+        <div class="mt-6 text-gray-800 font-bold">
+          Speaking at CUGH 2024, <br />Los Angeles California USA
+        </div>
       </div>
       <!-- Image 3 -->
       <div class="relative">
@@ -126,11 +109,48 @@
           src="../assests/lec4.JPG"
           alt="Gallery Image 3"
           class="w-full h-64 object-cover rounded-lg shadow-lg"
-        /><div class="mt-6 text-gray-800 font-bold">With the Chairman and fellow members of the<br> HYPREP Technical Committee, Federal Ministry of Environment</br></div>
+        />
+        <div class="mt-6 text-gray-800 font-bold">
+          With the Chairman and fellow members of the<br />HYPREP Technical Committee, Federal Ministry of Environment
+        </div>
       </div>
+    </div>
+    <!-- Centralized NuxtLink -->
+    <div class="mt-12 flex justify-center">
+      <NuxtLink 
+        to="/gallery" 
+        class="bg-white text-blue-700 py-3 px-8 rounded-lg shadow-lg text-lg font-semibold hover:bg-gray-100 transition duration-300"
+      >
+      Click to view more images
+      </NuxtLink>
     </div>
   </div>
 </section>
+
+<section class="py-24 bg-white">
+    <div class="container mx-auto flex flex-col md:flex-row-reverse items-center px-4 md:px-8">
+      <!-- Image on the right -->
+      <div class="md:w-1/2 flex justify-center md:justify-end">
+        <img src="../assests/project-.webp" alt="About Us" class="rounded-lg shadow-lg">
+      </div>
+      <!-- Text on the left -->
+      <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
+        <h2 class="text-3xl font-bold text-gray-800 mb-4">Victory at Debate Championship:</h2>
+        <p class="text-lg text-gray-600 mb-4">
+          Led the University of Port Harcourt to win the Gold Trophy at the All Nigeria Universities Debate Championship.
+        </p>
+        <NuxtLink 
+          to="/projects" 
+          class="inline-block bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300"
+        >
+          See More
+        </NuxtLink>
+      </div>
+    </div>
+  </section>
+
+
+
 
 
 <section class="bg-gradient-to-r from-blue-500 to-teal-500 text-white py-24">
