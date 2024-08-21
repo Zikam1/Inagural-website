@@ -106,7 +106,7 @@
                   src="../assests/lec18.JPG"
                   alt="Gallery Image 3"
                   class="w-full h-64  object-cover rounded-lg shadow-lg"
-                /><div class="mt-6 text-gray-800 font-bold">Researcher is enjoying some snowy weather at Detroit,USA</div>
+                /><div class="mt-6 text-gray-800 font-bold">Enjoying some snowy weather at Detroit, USA</div>
               </div>
               <div class="relative">
                 <img
