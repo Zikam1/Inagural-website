@@ -19,12 +19,8 @@
 </section>
 
 
-
-
-
-
     <!-- About Us Section -->
-    <section class="py-24 bg-gray-100">
+    <section class="py-24 bg-gray-50">
   <div class="container mx-auto flex flex-col md:flex-row items-center px-4 md:px-8">
     <div class="md:w-1/2">
       <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
