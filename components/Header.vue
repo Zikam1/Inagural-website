@@ -24,12 +24,14 @@
       </button>
 
       <!-- Navigation Links -->
-      <ul :class="{'hidden': !isMenuOpen, 'flex': isMenuOpen, 'flex-col': isMenuOpen}" class="absolute md:static top-16 left-0 w-full md:w-auto md:flex md:flex-row bg-white md:bg-transparent md:ml-auto z-30 space-y-4 md:space-y-0 md:space-x-4">
-        <li class="md:ml-auto"><NuxtLink to="/" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Home</NuxtLink></li>
-        <li><NuxtLink to="/about" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">About</NuxtLink></li>
-        <li><NuxtLink to="/publications" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Publications</NuxtLink></li>
-        <li><NuxtLink to="/events" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Events</NuxtLink></li>
-        <li><NuxtLink to="/contact" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Contact</NuxtLink></li>
+      <ul :class="{'hidden': !isMenuOpen, 'flex': isMenuOpen, 'flex-col': isMenuOpen}" 
+          class="absolute md:static top-16 left-0 w-full md:w-auto md:flex md:flex-row bg-white md:bg-transparent md:ml-auto z-30 space-y-4 md:space-y-0 md:space-x-4"
+      >
+        <li @click="closeMenu"><NuxtLink to="/" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Home</NuxtLink></li>
+        <li @click="closeMenu"><NuxtLink to="/about" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">About</NuxtLink></li>
+        <li @click="closeMenu"><NuxtLink to="/publications" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Publications</NuxtLink></li>
+        <li @click="closeMenu"><NuxtLink to="/events" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Events</NuxtLink></li>
+        <li @click="closeMenu"><NuxtLink to="/contact" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Contact</NuxtLink></li>
       </ul>
     </nav>
   </header>
@@ -42,6 +44,10 @@ const isMenuOpen = ref(false)
 
 const toggleMenu = () => {
   isMenuOpen.value = !isMenuOpen.value
+}
+
+const closeMenu = () => {
+  isMenuOpen.value = false
 }
 </script>
 

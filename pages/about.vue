@@ -55,7 +55,7 @@
   </div>
   
   <!-- Skills Section -->
-  <div class="flex-1 mt-6">
+  <div class="flex-1 md:mt-6">
     <h4 class="text-xl sm:text-2xl font-semibold">Skill Sets:</h4>
     <NuxtLink 
       to="/skills" 
