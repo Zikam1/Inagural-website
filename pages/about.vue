@@ -1,16 +1,36 @@
 <template>
+ 
+  <!-- <header class="bg-blue-900 text-white p-6 text-center">
+        <h1 class="text-4xl font-bold">NWAICHI, Eucharia Oluchi</h1>
+        <p class="text-xl mt-2"> | Researcher | Educator</p>
+      </header> -->
+      <header class="relative text-center py-16 bg-gray-100 overflow-hidden">
+  <!-- Subtle Geometric Overlay -->
+  <div class="absolute inset-0 flex justify-center items-center opacity-20">
+    <div class="w-2/3 h-2/3 bg-blue-400 rounded-full transform scale-110"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="relative z-10 text-gray-900">
+    <h1 class="text-4xl font-bold mb-2">NWAICHI, Eucharia Oluchi</h1>
+    <p class="text-lg text-gray-700">| Researcher | Educator</p>
+  </div>
+</header>
   <section class="container mx-auto p-4 md:p-8">
+    
     <!-- Profile Section -->
     <div class="flex flex-col md:flex-row items-center md:items-start">
+      
       <!-- Profile Image -->
       <div class="flex-shrink-0 mb-4 md:mb-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
+        
         <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
       </div>
       
       <!-- Biography -->
       <div class="md:ml-8 flex-1 text-center md:text-left">
         
-        <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2>
+        <!-- <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2> -->
         <p class="mt-2 sm:mt-4 text-sm sm:text-base md:text-lg text-gray-700">
           A well-traveled academic with 13+ years of teaching and research experience and poised with strong
           initiatives, interpersonal and organizational skills to increase students’ performance...
@@ -40,7 +60,7 @@
   </div>
   
   <!-- Skills Section -->
-  <div class="flex-1">
+  <div class="flex-1 mt-6">
     <h4 class="text-xl sm:text-2xl font-semibold">SKILLS SET:</h4>
     <NuxtLink 
       to="/skills" 
