@@ -4,7 +4,7 @@
       <main class="p-6 md:p-12 lg:p-24">
         <header class="p-6">
         <nuxt-link 
-          to="/publications" 
+          to="/about" 
           class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
           <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
             <path d="M15 19l-7-7 7-7"></path>

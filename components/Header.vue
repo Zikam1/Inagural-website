@@ -1,6 +1,6 @@
 <template>
   <header class="bg-blue-600 text-white p-4">
-    <nav class="container mx-auto flex justify-between items-center">
+    <nav class="container mx-auto flex justify-between items-center relative">
       <!-- Logo and Name -->
       <NuxtLink 
         to="/" 
@@ -14,7 +14,7 @@
       </NuxtLink>
 
       <!-- Hamburger Menu Button for Mobile -->
-      <button @click="toggleMenu" class="md:hidden focus:outline-none relative">
+      <button @click="toggleMenu" class="md:hidden focus:outline-none relative z-50">
         <svg v-if="!isMenuOpen" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
         </svg>
@@ -24,8 +24,8 @@
       </button>
 
       <!-- Navigation Links -->
-      <ul :class="{'hidden': !isMenuOpen, 'block': isMenuOpen}" class="absolute md:static top-16 right-0 w-full md:w-auto md:flex md:space-x-4 bg-white md:bg-transparent md:ml-auto">
-        <li><NuxtLink to="/" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Home</NuxtLink></li>
+      <ul :class="{'hidden': !isMenuOpen, 'flex': isMenuOpen, 'flex-col': isMenuOpen}" class="absolute md:static top-16 left-0 w-full md:w-auto md:flex md:flex-row bg-transparent-300 md:bg-transparent md:ml-auto z-40 space-y-4 md:space-y-0 md:space-x-4">
+        <li class="md:ml-auto"><NuxtLink to="/" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Home</NuxtLink></li>
         <li><NuxtLink to="/about" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">About</NuxtLink></li>
         <li><NuxtLink to="/publications" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Publications</NuxtLink></li>
         <li><NuxtLink to="/events" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Events</NuxtLink></li>

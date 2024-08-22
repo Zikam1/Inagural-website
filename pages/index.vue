@@ -91,40 +91,40 @@
       Browse through the highlights of our previous inaugural lectures.
     </p>
     <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-8">
-      <!-- Image 1 -->
-      <div class="relative">
-        <img
-          src="../assests/lec0.jpg"
-          alt="Gallery Image 1"
-          class="w-full h-64 object-cover rounded-lg shadow-lg"
-        />
-        <div class="mt-6 text-gray-800 font-bold">
-          Conference at <br />Los Angeles California USA
-        </div>
-      </div>
-      <!-- Image 2 -->
-      <div class="relative">
-        <img
-          src="../assests/lec1.jpg"
-          alt="Gallery Image 2"
-          class="w-full h-64 object-cover rounded-lg shadow-lg"
-        />
-        <div class="mt-6 text-gray-800 font-bold">
-          Speaking at CUGH 2024, <br />Los Angeles California USA
-        </div>
-      </div>
-      <!-- Image 3 -->
-      <div class="relative">
-        <img
-          src="../assests/lec4.JPG"
-          alt="Gallery Image 3"
-          class="w-full h-64 object-cover rounded-lg shadow-lg"
-        />
-        <div class="mt-6 text-gray-800 font-bold">
-          With the Chairman and fellow members of the<br />HYPREP Technical Committee, Federal Ministry of Environment
-        </div>
-      </div>
+  <!-- Image 1 -->
+  <div class="relative animate-slide-left">
+    <img
+      src="../assests/lec0.jpg"
+      alt="Gallery Image 1"
+      class="w-full h-64 object-cover rounded-lg shadow-lg"
+    />
+    <div class="mt-6 text-gray-800 font-bold">
+      Conference at <br />Los Angeles California USA
     </div>
+  </div>
+  <!-- Image 2 -->
+  <div class="relative animate-slide-left">
+    <img
+      src="../assests/lec1.jpg"
+      alt="Gallery Image 2"
+      class="w-full h-64 object-cover rounded-lg shadow-lg"
+    />
+    <div class="mt-6 text-gray-800 font-bold">
+      Speaking at CUGH 2024, <br />Los Angeles California USA
+    </div>
+  </div>
+  <!-- Image 3 -->
+  <div class="relative animate-slide-left">
+    <img
+      src="../assests/lec4.JPG"
+      alt="Gallery Image 3"
+      class="w-full h-64 object-cover rounded-lg shadow-lg"
+    />
+    <div class="mt-6 text-gray-800 font-bold">
+      With the Chairman and fellow members of the<br />HYPREP Technical Committee, Federal Ministry of Environment
+    </div>
+  </div>
+</div>
     <!-- Centralized NuxtLink -->
     <div class="mt-12 flex justify-center">
       <NuxtLink 

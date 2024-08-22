@@ -1,10 +1,5 @@
 <template>
- 
-  <!-- <header class="bg-blue-900 text-white p-6 text-center">
-        <h1 class="text-4xl font-bold">NWAICHI, Eucharia Oluchi</h1>
-        <p class="text-xl mt-2"> | Researcher | Educator</p>
-      </header> -->
-      <header class="relative text-center py-16 bg-gray-100 overflow-hidden">
+     <header class="relative text-center py-16 bg-gray-100 overflow-hidden">
   <!-- Subtle Geometric Overlay -->
   <div class="absolute inset-0 flex justify-center items-center opacity-20">
     <div class="w-2/3 h-2/3 bg-blue-400 rounded-full transform scale-110"></div>
@@ -61,7 +56,7 @@
   
   <!-- Skills Section -->
   <div class="flex-1 mt-6">
-    <h4 class="text-xl sm:text-2xl font-semibold">SKILLS SET:</h4>
+    <h4 class="text-xl sm:text-2xl font-semibold">Skill Sets:</h4>
     <NuxtLink 
       to="/skills" 
       class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
