@@ -1,22 +1,30 @@
 <template>
-  <section class="text-center py-20 bg-gradient-to-r from-blue-50 to-gray-100 relative overflow-hidden">
-  <!-- Layered Background -->
-  <div class="absolute inset-0 flex justify-center items-center opacity-30">
-    <div class="w-3/4 h-3/4 bg-blue-200 rounded-full transform scale-15"></div>
-    <div class="w-2/4 h-2/4 bg-blue-400 rounded-full transform scale-150"></div>
-    <div class="w-1/4 h-1/4 bg-blue-600 rounded-full"></div>
+<section class="relative py-5 bg-gradient-to-r from-indigo-50 to-blue-100 text-center overflow-hidden">
+  <!-- Rhombus Patterns -->
+  <div class="absolute inset-0 grid grid-cols-4 gap-4">
+    <div class="bg-indigo-200 h-full w-full transform rotate-45"></div>
+    <div class="bg-blue-200 h-full w-full transform rotate-45"></div>
+    <div class="bg-indigo-200 h-full w-full transform rotate-45"></div>
+    <div class="bg-blue-200 h-full w-full transform rotate-45"></div>
   </div>
 
   <!-- Content -->
-  <div class="relative z-10">
+  <div class="relative z-10 bg-white bg-opacity-90 p-5 rounded-lg shadow-lg">
     <h2 class="text-4xl font-bold mb-6 text-gray-900">PROF. NWAICHI, Eucharia Oluchi</h2>
-    <p class="text-xl mb-8 text-gray-700">Explore the research, publications, and more.</p>
-    <NuxtLink to="/publications" class="bg-blue-900 text-white py-3 px-6 rounded-lg hover:bg-blue-800 shadow-lg transform transition-transform duration-300 ease-in-out hover:translate-y-1 hover:scale-105">Learn More</NuxtLink>
+    <p class="text-xl mb-8 text-gray-700">Research that shapes the future of science.</p>
+    <NuxtLink to="/publications" class="inline-block bg-indigo-700 text-white py-3 px-8 rounded-lg hover:bg-indigo-600 transition-transform transform duration-300 ease-in-out hover:-translate-y-1 hover:scale-105">
+      Discover More
+    </NuxtLink>
   </div>
 </section>
 
+
+
+
+
+
     <!-- About Us Section -->
-    <section class="py-24 bg-white">
+    <section class="py-24 bg-gray-100">
   <div class="container mx-auto flex flex-col md:flex-row items-center px-4 md:px-8">
     <div class="md:w-1/2">
       <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
@@ -137,7 +145,7 @@
   </div>
 </section>
 
-<section class="py-24 bg-white">
+<section class="py-24 bg-gray-100">
     <div class="container mx-auto flex flex-col md:flex-row-reverse items-center px-4 md:px-8">
       <!-- Image on the right -->
       <div class="md:w-1/2 flex justify-center md:justify-end">
