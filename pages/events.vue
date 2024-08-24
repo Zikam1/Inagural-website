@@ -12,7 +12,7 @@
         <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center">
   <!-- Image Section -->
   <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
-    <img src="../assests/PIB.jpg" alt="Research Area 1" class="w-full h-auto rounded-lg shadow-sm">
+    <img src="../assests/PIPA.jpg" alt="Research Area 1" class="w-full h-auto rounded-lg shadow-sm">
   </div>
   
   <!-- Text Section -->
@@ -22,7 +22,7 @@
       Science and Sustainability: Pioneering a Greener Pasture.
     </p>
     <p class="text-lg text-gray-700 mb-4">
-      <span class="font-semibold">Key Findings:</span> Join us for an insightful lecture on "Science and Sustainability," exploring cutting-edge research and innovations driving a greener future.
+      <span class="font-semibold">Key Findings:</span> Join us for an insightful lecture on "Science and Sustainability," exploring cutting-edge research and innovations driving a greener future. 
     </p>
     <p class="text-lg text-gray-700 mb-4">
       <span class="font-semibold">Time:</span> 3PM.
@@ -32,52 +32,7 @@
     </p>
   </div>
 </li>
-        
-        <!-- Research Area 2 -->
-        <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center">
-  <!-- Image Section -->
-  <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
-    <img src="../assests/PIG.jpg" alt="Research Area 2" class="w-full h-auto rounded-lg shadow-sm">
-  </div>
-
-  <!-- Text Section -->
-  <div class="w-full lg:w-2/3">
-    <h3 class="text-3xl font-bold mb-4">191ST INAGURAL LECTURE SERIES</h3>
-    <p class="text-lg text-gray-700 font-semibold mb-4">
-      Science and Sustainability: Pioneering a Greener Pasture.
-    </p>
-    <p class="text-lg text-gray-700 mb-4">
-      <span class="font-semibold">Time:</span> 3PM.
-    </p>
-    <p class="text-lg text-gray-700">
-      <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
-    </p>
-  </div>
-</li>
-
-
-        <!-- Research Area 3 -->
-        <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center">
-          <!-- Image Section -->
-          <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
-            <img src="../assests/PIPA.jpg" alt="Research Area 4" class="w-full h-auto rounded-lg shadow-sm">
-          </div>
-          
-          <!-- Text Section -->
-          <div class="w-full lg:w-2/3">
-            <h3 class="text-3xl font-bold mb-4">191ST INAGURAL LECTURE SERIES</h3>
-            <p class="text-lg text-gray-700 font-semibold mb-4">
-              Science and Sustainability: Pioneering a Greener Pasture.
-            </p>
-            <p class="text-lg text-gray-700 mb-4">
-              <span class="font-semibold">Key Findings:</span> Join us to explore how cutting-edge science is shaping sustainable practices and driving progress toward a greener world. This is an excellent opportunity to engage with experts and be part of the dialogue on sustainable development.
-            </p>
-            <p class="text-lg text-gray-700">
-              <span class="font-semibold">Date:</span> 29TH AUGUST, 2024.
-            </p>
-          </div>
-        </li>
-          <!-- Research Area 3 -->
+      
           <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center">
   <!-- Image Section -->
   <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
