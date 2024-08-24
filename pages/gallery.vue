@@ -182,6 +182,215 @@
           </div>
           <div class="relative">
             <img 
+              src="../assests/lec30.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Relaxing at a Park in Spain</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec31.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Celeberating the End of year 2024 in Cordoba, Spain</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec32.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Members of Board</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec33.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Sharing in Research to Policy Symposium in Kumasi Ghana</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec34.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">After delivering a STEM inspirational lecture to girls in science</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec35.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Receiving University of PortHarcourt Merit Award 2023</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec36.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">End of year celeberations at the University of Port Harcourt 2022</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec37.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Giving a Lecture on  Online presence of a Scholar in the 21st Century</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec39.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Receiving the prestigious John Maddox Prize in London</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec47.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Discussion on weather conditions due to Climate change</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec40.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Receiving the prestigious John Maddox Prize in London</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec41.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Celeberating John Maddox Prize with some Nigerian in the Uk an delegates from the Nigerian High Commission, London</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec42.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Speaking in Kenya</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec43.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Ready for my interview at BBC London Headquarters</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec44.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">With the King of Finima in Bonny Island and some dignitaries after working with them</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec45.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Triple Helix Conference in Brazil 2023</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec48.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">I became first Cohort Affiliate of Africa of African Academy of Science in 2016 at Botswana</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec49.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Responding to children during flood emergency in Ahoada, 2012</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec50.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Serving as a Resource person for a Retreat for the Committee of Vice Chancellors in Nigeria, Abuja 2016</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec51.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">After my presentation at EUROSOIL 2012 in Italy</div>
+          </div>
+           <div class="relative">
+            <img 
+              src="../assests/lec52.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">At IPS Conference in France, 2010</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec53.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Receiving Award in 2022 as the Winner, Evidence Leader (Producer Category) in South Africa</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec54.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Admiring UNESCO Heriatage Lavaux in SwitzerLand</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec56.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Mentoring outing with First Class Graduands of Uniport in 2019</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec57.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">In a workshop in SanFrancisco, USA 2014</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec55.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Speaking at the 2023 Biennial COnference for Organization for Women in Science in the Developing World, Nigeria Chapter</div>
+          </div>
+          
+          <div class="relative">
+            <img 
               src="../assests/lec13.JPG" 
               alt="With Lab members at UMass Amherst" 
               class="w-full object-cover rounded-lg shadow-lg"
