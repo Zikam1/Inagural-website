@@ -93,8 +93,8 @@
     </div>
     
     <!-- Text Section (Right) -->
-    <div class="md:w-1/2">
-      <h2 class="text-4xl font-bold text-gray-800 mb-8">Upcoming Event</h2>
+    <div class="md:w-1/2 m-8">
+      <h2 class="text-4xl font-bold text-gray-800 mb-4">Upcoming Event</h2>
       <p class="text-lg text-gray-600 mb-4">
         <strong>Webinar Invitation</strong><br>
         Join us for a transformative webinar on <strong>"Leveraging Networks for Research and Innovation"</strong> with Professor Eucharia Nwaichi.<br><br>
@@ -119,7 +119,7 @@
   <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
     <h2 class="text-4xl font-bold text-gray-800">Gallery</h2>
     <p class="text-lg text-gray-600 mt-4">
-      Browse through the highlights of our previous inaugural lectures.
+      Browse through photo sessions and see activities.
     </p>
     <div class="mt-10 overflow-hidden relative">
       <div class="whitespace-nowrap animate-slide-left flex items-center">
