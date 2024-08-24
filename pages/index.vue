@@ -116,46 +116,68 @@
 
   <!-- Gallery Section -->
   <section class="py-24 bg-white">
-    <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
-      <h2 class="text-4xl font-bold text-gray-800">Gallery</h2>
-      <p class="text-lg text-gray-600 mt-4">
-        Browse through the highlights of our previous inaugural lectures.
-      </p>
-      <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-8">
+  <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
+    <h2 class="text-4xl font-bold text-gray-800">Gallery</h2>
+    <p class="text-lg text-gray-600 mt-4">
+      Browse through the highlights of our previous inaugural lectures.
+    </p>
+    <div class="mt-10 overflow-hidden relative">
+      <div class="whitespace-nowrap animate-slide-left flex items-center">
         <!-- Image 1 -->
-        <div class="relative animate-slide-left">
+        <div class="inline-block mx-4">
           <img
             src="../assests/lec0.jpg"
             alt="Gallery Image 1"
-            class="w-full h-64 object-cover rounded-lg shadow-lg"
+            class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
-          <div class="mt-6 text-gray-800 font-bold">
+          <div class="mt-4 text-gray-800 font-bold text-center">
             Conference at <br />Los Angeles California USA
           </div>
         </div>
         <!-- Image 2 -->
-        <div class="relative animate-slide-left">
+        <div class="inline-block mx-4">
           <img
             src="../assests/lec1.jpg"
             alt="Gallery Image 2"
-            class="w-full h-64 object-cover rounded-lg shadow-lg"
+            class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
-          <div class="mt-6 text-gray-800 font-bold">
+          <div class="mt-4 text-gray-800 font-bold text-center">
             Speaking at CUGH 2024, <br />Los Angeles California USA
           </div>
         </div>
-        <!-- Image 3 -->
-        <div class="relative animate-slide-left">
+      
+        <!-- Repeat images for seamless sliding -->
+        <div class="inline-block mx-4">
+          <img
+            src="../assests/lec58.jpg"
+            alt="Gallery Image 1"
+            class="w-64 h-64 object-cover rounded-lg shadow-lg"
+          />
+          <div class="mt-4 text-gray-800 font-bold text-center">
+            Conducting training foe the Academic <br />Staff at Military University Biu
+          </div>
+        </div>
+        <div class="inline-block mx-4">
+          <img
+            src="../assests/lec1.jpg"
+            alt="Gallery Image 2"
+            class="w-64 h-64 object-cover rounded-lg shadow-lg"
+          />
+          <div class="mt-4 text-gray-800 font-bold text-center">
+            Speaking at CUGH 2024, <br />Los Angeles California USA
+          </div>
+        </div>
+        <div class="inline-block mx-4">
           <img
             src="../assests/lec4.JPG"
             alt="Gallery Image 3"
-            class="w-full h-64 object-cover rounded-lg shadow-lg"
+            class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
-          <div class="mt-6 text-gray-800 font-bold">
-            With the Chairman and fellow members of the<br />HYPREP Technical Committee, Federal Ministry of Environment
+          <div class="mt-4 text-gray-800 font-bold text-center">
+            With HYPREP Technical Committee,<br /> Federal Ministry of Environment
           </div>
         </div>
-      </div>
+      </div></div>
       <!-- Centralized NuxtLink -->
       <div class="mt-12 flex justify-center">
         <NuxtLink 
@@ -208,3 +230,19 @@
 
 <script setup>
 </script>
+
+<style>
+  @keyframes slide-left {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-slide-left {
+    display: inline-block;
+    animation: slide-left 50s linear infinite;
+  }
+</style>
