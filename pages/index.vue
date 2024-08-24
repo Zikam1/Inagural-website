@@ -65,8 +65,8 @@
           <p class="text-gray-600 italic">
             "The only African that has grapped the extremely revered John mddox prie for outing impact in Science."
           </p>
-          <p class="mt-8 font-bold text-gray-800">Andrew Johnson</p>
-          <p class="text-gray-600">Professor</p>
+          <p class="mt-8 font-bold text-gray-800">Dr. Clara C. Ifeanyi obi</p>
+          <p class="text-gray-600">(Head of Department of Agric Extension, Uniport)</p>
         </div>
         <!-- Testimonial 3 -->
         <div class="bg-white shadow-lg rounded-lg p-6">
@@ -154,7 +154,7 @@
             class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
           <div class="mt-4 text-gray-800 font-bold text-center">
-            Conducting training foe the Academic <br />Staff at Military University Biu
+            Conducting training for the Academic <br />Staff at Military University Biu
           </div>
         </div>
         <div class="inline-block mx-4">
