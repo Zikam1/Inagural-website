@@ -1,50 +1,52 @@
 <template>
-    <div class="bg-gray-100 min-h-screen">
-        
-      <!-- Big Picture Projects -->
-      <section id="projects" class="py-12 bg-white">
-       
-        <div class="container mx-auto px-4">
-            <nuxt-link 
+  <div class="bg-gray-100 min-h-screen">
+    
+    <!-- Big Picture Projects -->
+    <section id="projects" class="py-12 bg-white">
+      <div class="container mx-auto px-6 md:px-8 lg:px-12">
+        <nuxt-link 
           to="/" 
-          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors">
+          class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-6">
           <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M15 19l-7-7 7-7"></path>
+            <path d="M15 19l-7-7 7-7"></path>
           </svg>
           <span>Back</span>
-          </nuxt-link>
-          <h2 class="text-3xl font-bold mb-6 text-center">BIG PICTURE PROJECTS</h2>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
-            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-              <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
-                <img src="../assests/treee.jpg" alt="All Nigeria Universities Debate Championship" class="w-full"/>
-              </a>
-              <div class="p-6">
-                <h3 class="text-xl font-semibold mb-2">All Nigeria Universities Debate Championship</h3>
-                <p class="text-gray-700 mb-4">Prepared, led the students of the University of Port Harcourt and won (Gold Trophy) the 9th Edition of All Nigeria Universities Debate Championship. February 2022.</p>
-                <a href="https://youtu.be/T1fe2BimbBU" target="_blank" class="text-blue-500 hover:underline">Watch Video</a>
-              </div>
+        </nuxt-link>
+        
+        <h2 class="text-3xl font-bold mb-10 text-center">BIG PICTURE PROJECTS</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+          <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+            <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
+              <img src="../assests/treee.jpg" alt="All Nigeria Universities Debate Championship" class="w-full"/>
+            </a>
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-2">All Nigeria Universities Debate Championship</h3>
+              <p class="text-gray-700 mb-4">Prepared, led the students of the University of Port Harcourt and won (Gold Trophy) the 9th Edition of All Nigeria Universities Debate Championship. February 2022.</p>
+              <a href="https://youtu.be/T1fe2BimbBU" target="_blank" class="text-blue-500 hover:underline">Watch Video</a>
             </div>
-            <!-- Add more projects similarly -->
-            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-              <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
-                <img src="../assests/treeee.jpg"  alt="3-Day Coding and Robotics Bootcamp for STEM Girls" class="w-full"/>
-              </a>
-              <div class="p-6">
-                <h3 class="text-xl font-semibold mb-2">3-Day Coding and Robotics Bootcamp for STEM Girls. </h3>
-                <p class="text-gray-700 mb-4">Led Organization for Women in Science for the Developing World (OWSD) University of Port Harcourt (UNIPORT).</p>
-                <a href="https://youtu.be/t5JajB1S0ck" target="_blank" class="text-blue-500 hover:underline">Watch Video</a>
-              </div>
+          </div>
+          
+          <!-- Add more projects similarly -->
+          <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+            <a href="https://youtu.be/t5JajB1S0ck" target="_blank">
+              <img src="../assests/treeee.jpg" alt="3-Day Coding and Robotics Bootcamp for STEM Girls" class="w-full"/>
+            </a>
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-2">3-Day Coding and Robotics Bootcamp for STEM Girls</h3>
+              <p class="text-gray-700 mb-4">Led Organization for Women in Science for the Developing World (OWSD) University of Port Harcourt (UNIPORT).</p>
+              <a href="https://youtu.be/t5JajB1S0ck" target="_blank" class="text-blue-500 hover:underline">Watch Video</a>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
   
       <div class="bg-gray-100 min-h-screen">
 
     <!-- Lectures / Contents Online -->
     <section id="lectures" class="py-12 bg-gray-50">
-      <div class="container mx-auto px-4">
+      <div class="container mx-auto px-6 md:px-12">
         <h2 class="text-3xl font-bold mb-6 text-center">Lectures / Contents Online</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
           <!-- Example entry -->
@@ -190,7 +192,7 @@
   
       <!-- Creative Work of Arts -->
       <section id="arts" class="py-12 bg-white">
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-6 md:px-12 ">
     <h2 class="text-3xl font-bold mb-6 text-center">Creative Work of Arts</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
       <div class="bg-white shadow-lg rounded-lg p-6">
@@ -229,7 +231,7 @@
   
       <!-- Movies -->
       <section id="movies" class="py-12 bg-gray-50">
-        <div class="container mx-auto px-4">
+        <div class="container mx-auto px-6 md:px-12">
           <h2 class="text-3xl font-bold mb-6 text-center">Produced and/ or Featured in the following movies</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
             <div class="bg-white shadow-lg rounded-lg p-6">
@@ -248,7 +250,7 @@
   
       <!-- Facilitations -->
       <section id="facilitations" class="py-12 bg-white">
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-6 md:px-12">
     <h2 class="text-3xl font-bold mb-6 text-center">Facilitated for Organizations</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
       <div class="bg-white shadow-lg rounded-lg p-6">
@@ -277,7 +279,7 @@
   
       <!-- Referees -->
       <section id="referees" class="py-12 bg-gray-50">
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-6 md:px-12">
     <h2 class="text-3xl font-bold mb-6 text-center">Referees</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="space-y-6">

@@ -8,7 +8,7 @@
   <!-- Content -->
   <div class="relative z-10 text-gray-900">
     <h1 class="text-4xl font-bold mb-2">NWAICHI, Eucharia Oluchi</h1>
-    <p class="text-lg text-gray-700">| Researcher | Educator</p>
+    <p class="text-lg text-gray-700">Scholar | Researcher | Educator</p>
   </div>
 </header>
   <section class="container mx-auto p-4 md:p-8">

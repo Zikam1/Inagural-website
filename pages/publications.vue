@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 py-8">
+  <div class="container mx-auto px-4 py-8 lg:px-8 xl:px-16">
     <div class="flex flex-wrap justify-between items-center mb-6">
       <!-- Publications Tab -->
       <nuxt-link
@@ -9,7 +9,7 @@
       >
         PUBLICATIONS
       </nuxt-link>
-      
+
       <!-- Books Chapter Tab -->
       <nuxt-link
         exact-active-class="bg-blue-400 text-white"
@@ -18,7 +18,7 @@
       >
         LIST OF PUBLICATIONS - Books Chapter
       </nuxt-link>
-      
+
       <!-- Paper Presentations Tab -->
       <nuxt-link
         exact-active-class="bg-blue-400 text-white"
@@ -27,7 +27,7 @@
       >
         PAPER PRESENTATIONS
       </nuxt-link>
-      
+
       <!-- Workshop Tab -->
       <nuxt-link
         exact-active-class="bg-blue-400 text-white"
@@ -36,7 +36,7 @@
       >
         WORKSHOP
       </nuxt-link>
-      
+
       <!-- Professional Info Tab -->
       <nuxt-link
         exact-active-class="bg-blue-600 text-white"
@@ -45,17 +45,17 @@
       >
         PROFESSIONAL INFO
       </nuxt-link>
-      
+
       <!-- Awards Tab -->
       <nuxt-link
         exact-active-class="bg-blue-600 text-white"
         class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
         to="/dws"
       >
-      DevWomenScience
+        DevWomenScience
       </nuxt-link>
     </div>
-    
+
     <!-- Publications Grid -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       <div v-for="(publication, index) in publications" :key="index" class="p-4 border border-gray-200 rounded-lg shadow-md">

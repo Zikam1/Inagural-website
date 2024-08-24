@@ -17,8 +17,8 @@
 
     <!-- Gallery Section -->
     <section class="py-6 bg-white">
-      <div class="container mx-auto text-center">
-        <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="container mx-auto px-4 md:px-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <!-- Gallery Items -->
           <div class="relative">
             <img 
@@ -26,7 +26,7 @@
               alt="Presenting a paper at WARIMA Conference" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Presenting a paper at WARIMA Conference</div>
+            <div class="mt-4 text-gray-800 font-bold">Presenting a paper at WARIMA Conference</div>
           </div>
           <div class="relative">
             <img 
@@ -34,7 +34,7 @@
               alt="Attending a conference with Prof. Bene Abbey" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Attending a conference with<br> Prof. Bene Abbey</br></div>
+            <div class="mt-4 text-gray-800 font-bold">Attending a conference with<br> Prof. Bene Abbey</div>
           </div>
           <div class="relative">
             <img 
@@ -42,7 +42,7 @@
               alt="With fellow Visiting Faculty, Prof. Vinita, and her daughter, Noni at Amherst USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita,<br> and her daughter, Noni at Amherst USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita,<br> and her daughter, Noni at Amherst USA</div>
           </div>
           <div class="relative">
             <img 
@@ -50,7 +50,7 @@
               alt="Speaking at CUGH 2024 Los Angeles California USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Speaking at CUGH 2024<br> Los Angeles California USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">Speaking at CUGH 2024<br> Los Angeles California USA</div>
           </div>
           <div class="relative">
             <img 
@@ -58,7 +58,7 @@
               alt="Skiing after a hard day's work at Boston, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Skiing after a hard day's work at<br> Boston, USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">Skiing after a hard day's work at<br> Boston, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -66,7 +66,7 @@
               alt="Skiing after a hard day's work at Boston, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Skiing after a hard day's work at<br> Boston, USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">Skiing after a hard day's work at<br> Boston, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -74,7 +74,7 @@
               alt="With assigned undergraduate supervisee at UNMASS Amherst, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">With my assigned undergraduate supervisee at<br> UNMASS Amherst, USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">With my assigned undergraduate supervisee at<br> UNMASS Amherst, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -82,7 +82,7 @@
               alt="A lavish welcome as a visiting Faculty to UMASS Amherst, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">A lavish welcome as a visiting Faculty to<br> UMASS Amherst, USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">A lavish welcome as a visiting Faculty to<br> UMASS Amherst, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -90,7 +90,7 @@
               alt="Ceremony with members" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Ceremony with members</div>
+            <div class="mt-4 text-gray-800 font-bold">Ceremony with members</div>
           </div>
           <div class="relative">
             <img 
@@ -98,7 +98,7 @@
               alt="Full Panel Session with members" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Full Panel Session with members</div>
+            <div class="mt-4 text-gray-800 font-bold">Full Panel Session with members</div>
           </div>
           <div class="relative">
             <img 
@@ -106,7 +106,7 @@
               alt="Presenting an Invited Paper at Philadelphia, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Presenting an Invited Paper at<br> Philadelphia, USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">Presenting an Invited Paper at<br> Philadelphia, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -114,7 +114,7 @@
               alt="Learning the USA culture and food under the auspices of round the World Women, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Learning the USA culture and food under the auspices of round the World Women, USA</div>
+            <div class="mt-4 text-gray-800 font-bold">Learning the USA culture and food under the auspices of round the World Women, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -122,7 +122,7 @@
               alt="Enjoying some snowy weather at Detroit, USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">Enjoying some snowy weather at Detroit, USA</div>
+            <div class="mt-4 text-gray-800 font-bold">Enjoying some snowy weather at Detroit, USA</div>
           </div>
           <div class="relative">
             <img 
@@ -130,7 +130,55 @@
               alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita and her daughter,<br> Noni at Amherst USA</br></div>
+            <div class="mt-4 text-gray-800 font-bold">With fellow Visiting Faculty, Prof. Vinita and her daughter,<br> Noni at Amherst USA</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec20.JPG" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Received Award from College of Health, Sciences, Rivers State University4 </div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec26.JPG" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Walk for life</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec22.JPG" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800  text-center  font-bold">Received Award from College of Health, Sciences, Rivers State University</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec27.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Working out</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec24.JPG" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Posing with Session colleagues at Triple Helix Conference Sao Paulo,I moderated the Session </div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/lec28.jpg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Birthday Girl 2024</div>
           </div>
           <div class="relative">
             <img 
@@ -138,7 +186,7 @@
               alt="With Lab members at UMass Amherst" 
               class="w-full object-cover rounded-lg shadow-lg"
             />
-            <div class="mt-6 text-gray-800 font-bold">With Lab members at UMass Amherst</div>
+            <div class="mt-4 text-center  text-gray-800 font-bold">With Lab members at UMass Amherst</div>
           </div>
         </div>
       </div>

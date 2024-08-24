@@ -7,7 +7,7 @@
         class="flex items-center space-x-2 px-4 py-2 bg-gradient-to-r from-blue-400 to-blue-600 text-white font-bold text-xl rounded-lg shadow-md hover:shadow-lg transition duration-300"
       >
         <!-- Logo Icon (Optional) -->
-        <svg class="w-8 h-8 text-white mt-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <svg class="w-6 h-6 text-white mt-3 ml-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v12l7-7 7 7V3H5z" />
         </svg>
         <span>Prof. Nwaichi</span>

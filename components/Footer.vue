@@ -1,22 +1,19 @@
 <template>
   <footer class="bg-gray-800 text-white py-8">
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-8 lg:px-16">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <!-- About Section -->
         <div>
           <h3 class="text-xl font-bold">About</h3>
           <p class="mt-4 text-gray-400">
-            With 13 years of expertise in teaching, 
-            research, and environmental management, I leverage 
-            advanced degrees and industry experience to enhance 
-            student outcomes and address complex environmental challenges..
+            With 13 years of expertise in teaching, research, and environmental management, I leverage advanced degrees and industry experience to enhance student outcomes and address complex environmental challenges.
           </p>
         </div>
 
         <!-- Navigation Links -->
         <div>
           <h3 class="text-xl font-bold">Quick Links</h3>
-          <ul class="mt-4 space-y-2">
+          <ul class="mt-4 space-y-4">
             <li>
               <nuxt-link to="/" class="text-gray-400 hover:text-white">Home</nuxt-link>
             </li>
