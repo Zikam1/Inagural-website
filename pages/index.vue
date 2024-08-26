@@ -20,69 +20,86 @@
 
   <!-- About Us Section -->
   <section class="py-24 bg-gray-50">
-    <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
-      <div class="md:w-1/2">
-        <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
-      </div>
-      <div class="md:w-1/2 mt-8 md:mt-0 md:ml-10">
-        <h2 class="text-3xl font-bold text-gray-800 mb-4">About the Inaugural Lecture</h2>
-        <p class="text-lg text-gray-600 mb-4">
-          I am honored to announce that my inaugural lecture, entitled "Science
-          and Sustainability: Pioneering a Greener Future," is scheduled for Thursday,
-          August 29, 2024, at 3:00 PM. The lecture will be held at the esteemed
-          CBN Centre of Excellence Auditorium, University of Port Harcourt.
-        </p>
-         <p class="text-lg text-gray-600">
-          This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability..
-        </p> 
-      </div>
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
+    <div class="md:w-1/2">
+      <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
     </div>
-  </section>
+    <div class="md:w-1/2 mt-8 md:mt-0 md:ml-10">
+      <h2 class="text-3xl font-bold text-gray-800 mb-4">About the Inaugural Lecture</h2>
+      <p class="text-lg text-gray-600 mb-4">
+        I am honored to announce that my inaugural lecture, entitled "Science
+        and Sustainability: Pioneering a Greener Future," is scheduled for Thursday,
+        August 29, 2024, at 3:00 PM. The lecture will be held at the esteemed
+        CBN Centre of Excellence Auditorium, University of Port Harcourt.
+      </p>
+      <p class="text-lg text-gray-600 mb-6">
+        This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability.
+      </p>
+      <!-- Zoom Link Button -->
+      <a href="https://us06web.zoom.us/j/86896769009?pwd=mE0utiEMJIR6UTHZbfVygAqOjcJaJW.1" target="_blank" class="inline-flex items-center justify-center bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-white text-lg font-semibold py-3 px-5 rounded-full shadow-lg hover:from-green-500 hover:via-blue-600 hover:to-purple-700 transition duration-300 ease-in-out transform hover:-translate-y-1">
+        <i class="fas fa-video mr-2 text-white"></i> 
+        Join via Zoom
+      </a>
+    </div>
+  </div>
+</section>
+
 
   <!-- Testimonials Section -->
   <section class="py-24 bg-gray-100">
-    <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
-      <h2 class="text-4xl font-bold text-gray-800">AUDIENCE INSIGHTS</h2>
-      <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-8">
-        <!-- Testimonial 1 -->
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          <p class="text-gray-600 italic">
-            "Prof's work is not only a credit to herself, but also an inspiration to her peers and students who aspire to follow in her distinguished footsteps.
-          </p>
-          
-          <div class="mt-4 text-blue-600">
-            <i class="fas fa-user-circle text-4xl"></i>
-          </div>
-          <p class="mt-2 font-bold text-gray-800">Prof. Paul Iroh </p>
-          <p class="text-gray-600">Educationist, Uniport</p>
+  <div class="container mx-auto text-center max-w-7xl px-4 md:px-9">
+    <h2 class="text-4xl font-bold text-gray-800">AUDIENCE INSIGHTS</h2>
+    <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <!-- Testimonial 1 -->
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <p class="text-gray-600 italic">
+          "Prof's work is not only a credit to herself, but also an inspiration to her peers and students who aspire to follow in her distinguished footsteps."
+        </p>
+        <div class="mt-4 text-blue-600">
+          <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <!-- Testimonial 2 -->
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          
-          <div class="mt-4 text-blue-600">
-            <i class="fas fa-user-circle text-4xl"></i>
-          </div>
-          <p class="text-gray-600 italic">
-            "The only African that has grapped the extremely revered John mddox prie for outing impact in Science."
-          </p>
-          <p class="mt-8 font-bold text-gray-800">Dr. Clara C. Ifeanyi obi</p>
-          <p class="text-gray-600">(Head of Department of Agric Extension, Uniport)</p>
-        </div>
-        <!-- Testimonial 3 -->
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          <p class="text-gray-600 italic">
-            "I am beyond excited to invite you to her inagural lecture, where her groundbreaking work in science and sustainability will inspire and shape the future
-            of sustainable practices for generations to come."
-          </p>
-          <div class="mt-4 text-blue-600">
-            <i class="fas fa-user-circle text-4xl"></i>
-          </div>
-          <p class="mt-2 font-bold text-gray-800">Abuta JaneFrancis</p>
-          <p class="text-gray-600">Mentee</p>
-        </div>
+        <p class="mt-2 font-bold text-gray-800">Prof. Paul Iroh</p>
+        <p class="text-gray-600">Educationist, Uniport</p>
       </div>
+      <!-- Testimonial 2 -->
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <p class="text-gray-600 italic">
+          "She is a dedicated, brilliant, and hardworking scholar, and as Vice Chancellor, I am extremely proud of her accomplishments."
+        </p>
+        <div class="mt-4 text-blue-600">
+          <i class="fas fa-user-circle text-4xl"></i>
+        </div>
+        <p class="mt-10 font-bold text-gray-800">Prof Georgewill Owunari</p>
+        <p class="text-gray-600">Vice Chancellor, University of Portharcourt</p>
+      </div>
+       <!-- Testimonial 3 -->
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <p class="text-gray-600 italic">
+          "The only African that has grapped the extremely revered John mddox prie for outing impact in Science."
+        </p>
+        <div class="mt-4 text-blue-600">
+          <i class="fas fa-user-circle text-4xl"></i>
+        </div>
+        <p class="mt-10 font-bold  text-gray-800">Dr. Clara C. Ifeanyi obi</p>
+        <p class="text-gray-600">(Head of Department of Agric Extension, Uniport)</p>
+      </div>
+      <!-- Testimonial 4 -->
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <p class="text-gray-600 italic">
+          "My girl has grown. To God be the glory. It will be awesome. You are a gifted public presenter. Wishing you more grace and success. Congrats in advance."
+        </p>
+        <div class="mt-4 text-blue-600">
+          <i class="fas fa-user-circle text-4xl"></i>
+        </div>
+        <p class="mt-2 font-bold text-gray-800">Prof. Bene Willie Abbey</p>
+        <p class="text-gray-600"></p>
+      </div> 
     </div>
-  </section>
+  </div>
+</section>
+
+
+
 
   <section class="py-24 bg-gray-50">
   <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
@@ -245,4 +262,5 @@
     display: inline-block;
     animation: slide-left 50s linear infinite;
   }
+  
 </style>
