@@ -76,7 +76,7 @@
        <!-- Testimonial 3 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
         <p class="text-gray-600 italic">
-          "The only African that has grapped the extremely revered John mddox prie for outstanding impact in Science."
+          "The only African that has grapped the extremely revered John Maddox Prize for outstanding impact in Science."
         </p>
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>

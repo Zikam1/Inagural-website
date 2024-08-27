@@ -80,7 +80,7 @@
     <h3 class="text-lg font-semibold text-gray-900">CypherCrescent Ltd</h3>
     <p class="text-gray-500"><strong>Position:</strong> Consultant</p>
     <p class="text-gray-500"><strong>Responsibilities:</strong> Driving corporate communication and strategy</p>
-    <p class="text-gray-500"><strong>Year:</strong> Nov 2023 to Apr 2024</p>
+    <p class="text-gray-500"><strong>Year:</strong> Nov 2023 to Date</p>
   </div>
 
   <!-- Card 2 -->
