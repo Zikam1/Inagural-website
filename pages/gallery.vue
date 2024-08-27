@@ -132,14 +132,7 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">With fellow Visiting Faculty, Prof. Vinita and her daughter,<br> Noni at Amherst USA</div>
           </div>
-          <div class="relative">
-            <img 
-              src="../assests/lec20.JPG" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Received Award from College of Health, Sciences, Rivers State University4 </div>
-          </div>
+          
           <div class="relative">
             <img 
               src="../assests/lec26.JPG" 
@@ -244,14 +237,7 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">Giving a Lecture on  Online presence of a Scholar in the 21st Century</div>
           </div>
-          <div class="relative">
-            <img 
-              src="../assests/lec39.jpg" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Receiving the prestigious John Maddox Prize in London</div>
-          </div>
+          
           <div class="relative">
             <img 
               src="../assests/lec47.jpg" 
@@ -260,22 +246,7 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">Discussion on weather conditions due to Climate change</div>
           </div>
-          <div class="relative">
-            <img 
-              src="../assests/lec40.jpg" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Receiving the prestigious John Maddox Prize in London</div>
-          </div>
-          <div class="relative">
-            <img 
-              src="../assests/lec41.jpg" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Celeberating John Maddox Prize with some Nigerian in the Uk an delegates from the Nigerian High Commission, London</div>
-          </div>
+         
           <div class="relative">
             <img 
               src="../assests/lec42.jpg" 
@@ -348,14 +319,7 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">At IPS Conference in France, 2010</div>
           </div>
-          <div class="relative">
-            <img 
-              src="../assests/lec53.jpg" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Receiving Award in 2022 as the Winner, Evidence Leader (Producer Category) in South Africa</div>
-          </div>
+          
           <div class="relative">
             <img 
               src="../assests/lec54.jpg" 
