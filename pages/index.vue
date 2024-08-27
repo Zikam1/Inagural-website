@@ -48,7 +48,7 @@
   <!-- Testimonials Section -->
   <section class="py-24 bg-gray-100">
   <div class="container mx-auto text-center max-w-7xl px-4 md:px-9">
-    <h2 class="text-4xl font-bold text-gray-800">AUDIENCE INSIGHTS</h2>
+    <h2 class="text-4xl font-bold text-gray-800">DISTINGUISHED TESTIOMONIALS</h2>
     <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <!-- Testimonial 1 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
@@ -58,7 +58,7 @@
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <p class="mt-10 font-bold text-gray-800">Prof Georgewill Owunari</p>
+        <p class="mt-14 font-bold text-gray-800">Prof. Georgewill Owunari</p>
         <p class="text-gray-600">Vice Chancellor, University of Portharcourt</p>
       </div>
       <div class="bg-white shadow-lg rounded-lg p-6">
@@ -68,7 +68,7 @@
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <p class="mt-2 font-bold text-gray-800">Prof. Paul Iroh</p>
+        <p class="mt-8 font-bold text-gray-800">Prof. Paul Iroh</p>
         <p class="text-gray-600">Educationist, Uniport</p>
       </div>
       <!-- Testimonial 2 -->
@@ -81,7 +81,7 @@
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <p class="mt-10 font-bold  text-gray-800">Dr. Clara C. Ifeanyi Obi</p>
+        <p class="mt-12 font-bold  text-gray-800">Dr. Clara C. Ifeanyi Obi</p>
         <p class="text-gray-600">Head of Department of Agric Extension, Uniport</p>
       </div>
       <!-- Testimonial 4 -->
@@ -93,7 +93,7 @@
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
         <p class="mt-2 font-bold text-gray-800">Prof. Dr. Rafael Popper </p>
-        <p class="text-gray-600">Director of Centre for Foresight and Internationalisation(CFI), Technology Partners Foundation, Poland</p>
+        <p class="text-gray-600">Director of Centre for Foresight and Internationalisation(CFI),  Poland</p>
       </div> 
     </div>
   </div>
