@@ -115,10 +115,10 @@
 
 <script setup>
 const internationalAwards = [
+   "Winner, John Maddox Prize 2022 Edition. Sense about Science and Nature. London UK. October 2022.",
   "Co-Investigator. International Network for Advancing Science and Policy Limited, INASP/Association of Commonwealth Universities, ACU Ocean Country Partnership Programme, OCPP Scholarships training project. 2024.",
   "Fellow. Science by Women Foundation. Fundacion Mujeres por Africa. Spain. April 2023.",
   "Co-Investigator. UNESCO/OWSD grant to build capacity for Organization for Women in Science for the Developing World, OWSD Nigeria National Chapter themed 'Leadership for Organizational Growth'. November 2022.",
-  "Winner, John Maddox Prize 2022 Edition. Sense about Science and Nature. London UK. October 2022.",
   "Winner, 2022 Africa Evidence Leadership Award on the Evidence Producers category. Africa Evidence Network (AEN). April 2022.",
   "ACU Gender Grant 2021. Association of Commonwealth Universities. March 2022.",
   "Emerging EIDM champion. Africa Centre for Evidence. 2021.",

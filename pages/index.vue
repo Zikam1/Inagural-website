@@ -53,6 +53,16 @@
       <!-- Testimonial 1 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
         <p class="text-gray-600 italic">
+          "She is a dedicated, brilliant, and hardworking scholar, and as Vice Chancellor, I am extremely proud of her accomplishments."
+        </p>
+        <div class="mt-4 text-blue-600">
+          <i class="fas fa-user-circle text-4xl"></i>
+        </div>
+        <p class="mt-10 font-bold text-gray-800">Prof Georgewill Owunari</p>
+        <p class="text-gray-600">Vice Chancellor, University of Portharcourt</p>
+      </div>
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <p class="text-gray-600 italic">
           "Prof's work is not only a credit to herself, but also an inspiration to her peers and students who aspire to follow in her distinguished footsteps."
         </p>
         <div class="mt-4 text-blue-600">
@@ -62,37 +72,28 @@
         <p class="text-gray-600">Educationist, Uniport</p>
       </div>
       <!-- Testimonial 2 -->
-      <div class="bg-white shadow-lg rounded-lg p-6">
-        <p class="text-gray-600 italic">
-          "She is a dedicated, brilliant, and hardworking scholar, and as Vice Chancellor, I am extremely proud of her accomplishments."
-        </p>
-        <div class="mt-4 text-blue-600">
-          <i class="fas fa-user-circle text-4xl"></i>
-        </div>
-        <p class="mt-10 font-bold text-gray-800">Prof Georgewill Owunari</p>
-        <p class="text-gray-600">Vice Chancellor, University of Portharcourt</p>
-      </div>
+      
        <!-- Testimonial 3 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
         <p class="text-gray-600 italic">
-          "The only African that has grapped the extremely revered John mddox prie for outing impact in Science."
+          "The only African that has grapped the extremely revered John mddox prie for outstanding impact in Science."
         </p>
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <p class="mt-10 font-bold  text-gray-800">Dr. Clara C. Ifeanyi obi</p>
-        <p class="text-gray-600">(Head of Department of Agric Extension, Uniport)</p>
+        <p class="mt-10 font-bold  text-gray-800">Dr. Clara C. Ifeanyi Obi</p>
+        <p class="text-gray-600">Head of Department of Agric Extension, Uniport</p>
       </div>
       <!-- Testimonial 4 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
         <p class="text-gray-600 italic">
-          "My girl has grown. To God be the glory. It will be awesome. You are a gifted public presenter. Wishing you more grace and success. Congrats in advance."
+          "Prof. Eucharia's research in environmental toxicology and pollution control has advanced science and influenced Nigerian policies, benefiting communities and industries."
         </p>
-        <div class="mt-4 text-blue-600">
+        <div class="mt-0 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        <p class="mt-2 font-bold text-gray-800">Prof. Bene Willie Abbey</p>
-        <p class="text-gray-600"></p>
+        <p class="mt-2 font-bold text-gray-800">Prof. Dr. Rafael Popper </p>
+        <p class="text-gray-600">Director of Centre for Foresight and Internationalisation(CFI), Technology Partners Foundation, Poland</p>
       </div> 
     </div>
   </div>
