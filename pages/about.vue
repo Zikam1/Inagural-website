@@ -43,25 +43,12 @@
         <div class="flex flex-col sm:flex-row gap-4 mt-4 sm:mt-8">
   <!-- Certification Section -->
   <div class="flex-1">
-    <h4 class="text-xl sm:text-2xl font-semibold">Certification URL for Verified International Academic Qualifications:</h4>
-    <a 
-      href="https://t.cred.ly/ujDZXOg01r_mKmTClCtI7w,,$$$fyI82w8zIdOsTk6_8NRIRQtGeeUjP2CHdc1FiEJ1dGyRMgxBCdoSXj1kI7cUEhwz32p2Za0b4mMLLxhFbYFEXmferXCtGD4-yPxb6imywXk,?r=https%3A%2F%2Fwes.credly.com%2Fmember-badges%2F18039751&t=1558038296" 
-      target="_blank" 
-      rel="noopener noreferrer" 
-      class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
-    >
-      View Certification
-    </a>
-  </div>
-  
-  <!-- Skills Section -->
-  <div class="flex-1 md:mt-6">
     <h4 class="text-xl sm:text-2xl font-semibold">Skill Sets:</h4>
     <NuxtLink 
       to="/skills" 
       class="inline-block px-4 py-2 sm:px-6 sm:py-3 mt-4 bg-blue-600 text-white font-semibold rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
     >
-      click to view
+      Click to View
     </NuxtLink>
   </div>
 </div>
