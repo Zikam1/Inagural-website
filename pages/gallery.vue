@@ -346,15 +346,6 @@
           </div>
           <div class="relative">
             <img 
-              src="../assests/lec55.jpg" 
-              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
-              class="w-full h-64 object-cover rounded-lg shadow-lg"
-            />
-            <div class="mt-4 text-gray-800 text-center font-bold">Speaking at the 2023 Biennial COnference for Organization for Women in Science in the Developing World, Nigeria Chapter</div>
-          </div>
-          
-          <div class="relative">
-            <img 
               src="../assests/lec13.JPG" 
               alt="With Lab members at UMass Amherst" 
               class="w-full object-cover rounded-lg shadow-lg"

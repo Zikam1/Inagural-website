@@ -19,7 +19,7 @@
       <!-- Profile Image -->
       <div class="flex-shrink-0 mb-4 md:mb-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
         
-        <img src="../assests/lec2.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
+        <img src="../assests/lec55.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
       </div>
       
       <!-- Biography -->
@@ -75,7 +75,7 @@
     <h3 class="text-lg font-semibold text-gray-900">Institute of Petroleum Studies Port Harcourt Nigeria</h3>
     <p class="text-gray-500"><strong>Position:</strong> Visiting Lecturer</p>
     <p class="text-gray-500"><strong>Responsibilities:</strong> Teaching Health, Safety and Environment (HSE)</p>
-    <p class="text-gray-500"><strong>Year:</strong> January 2018 to date</p>
+    <p class="text-gray-500"><strong>Year:</strong> Jan 2018 to Date</p>
   </div>
 
   <!-- Card 3 -->
@@ -83,7 +83,7 @@
     <h3 class="text-lg font-semibold text-gray-900">University of Port Harcourt Nigeria</h3>
     <p class="text-gray-500"><strong>Position:</strong> Senior Lecturer</p>
     <p class="text-gray-500"><strong>Responsibilities:</strong> Supervising students, and conducting research in Biochemistry</p>
-    <p class="text-gray-500"><strong>Year:</strong> Sept 2013 to date</p>
+    <p class="text-gray-500"><strong>Year:</strong> Sept 2013 to Date</p>
   </div>
 
   <!-- Card 4 -->
