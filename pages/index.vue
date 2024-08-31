@@ -48,7 +48,7 @@
   <!-- Testimonials Section -->
   <section class="py-24 bg-gray-100">
   <div class="container mx-auto text-center max-w-7xl px-4 md:px-9">
-    <h2 class="text-4xl font-bold text-gray-800">DISTINGUISHED TESTIOMONIALS</h2>
+    <h2 class="text-4xl font-bold text-gray-800">DISTINGUISHED TESTIMONIALS</h2>
     <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <!-- Testimonial 1 -->
       <div class="bg-white shadow-lg rounded-lg p-6">
