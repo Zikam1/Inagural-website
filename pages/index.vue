@@ -230,6 +230,7 @@
     </div>
   </section>
 
+
   <section class="bg-gradient-to-r from-blue-500 to-teal-500 text-white py-24">
     <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
       <h2 class="text-4xl font-bold mb-4">Upcoming Inaugural Lecture: Science and Sustainability:</h2>
@@ -244,6 +245,54 @@
       </NuxtLink>
     </div>
   </section>
+
+
+ 
+  <section class="py-24 bg-gray-100">
+    <!-- Section Title -->
+    <div class="container mx-auto px-16 md:px-24 text-center">
+      <h1 class="text-4xl font-bold mb-6">Recent Event</h1>
+    </div>
+
+    <!-- Gallery Grid -->
+    <div class="container mx-auto px-4 md:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Gallery Item 1 -->
+        <div class="relative">
+          <img src="https://zikama.sirv.com/Prof/DSC_0912.jpg"
+            width="6016" height="4016" 
+            alt=""
+            class="w-full h-64 object-cover rounded-lg shadow-lg">
+        </div>
+
+        <!-- Gallery Item 2 -->
+        <div class="relative">
+          <img src="https://zikama.sirv.com/Prof/DSC_0933.jpg"
+            width="6016" height="4016" 
+            alt=""
+            class="w-full h-64 object-cover rounded-lg shadow-lg">
+        </div>
+
+        <!-- Gallery Item 3 -->
+        <div class="relative">
+          <img src="https://zikama.sirv.com/Prof/DSC_0938%20(1).jpg"
+            width="2625" height="1857"
+            alt=""
+            class="w-full h-64 object-cover rounded-lg shadow-lg">
+        </div>
+      </div>
+
+      <!-- "View More" Nuxt Link -->
+      <div class="text-center mt-8">
+        <NuxtLink to="/recent" class="inline-block bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-600 transition duration-300">
+          View More Images
+        </NuxtLink>
+      </div>
+    </div>
+</section>
+
+
+  
 </template>
 
 <script setup>
