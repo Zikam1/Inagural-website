@@ -12,7 +12,7 @@
         </nuxt-link>
         
         <h2 class="text-3xl font-bold text-center text-gray-800 mb-4">
-          Watch Our Featured YouTube Video
+         YouTube Video
         </h2>
         
         <!-- YouTube Embed Section -->
