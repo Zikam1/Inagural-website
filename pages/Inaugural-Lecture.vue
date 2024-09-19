@@ -5,7 +5,7 @@
       <nuxt-link
         exact-active-class="bg-blue-600 text-white"
         class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-600 transition-colors mb-2 mr-2 w-full sm:w-auto"
-        to="/Inagural-Lecture"
+        to="/Inaugural-Lecture"
       >
         EVENTS
       </nuxt-link>
@@ -50,7 +50,7 @@
             
             <!-- Text Section -->
             <div class="w-full lg:w-2/3">
-              <h3 class="text-3xl font-bold mb-4">191ST INAGURAL LECTURE SERIES</h3>
+              <h3 class="text-3xl font-bold mb-4">191ST INAUGURAL LECTURE SERIES</h3>
               <p class="text-lg text-gray-700 font-semibold mb-4">
                 Science and Sustainability: Pioneering a Greener Pasture.
               </p>
