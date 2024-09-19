@@ -2,7 +2,7 @@
     <section class="bg-gray-100 pt-4 pb-4 min-h-screen flex flex-col items-center justify-start">
       <div class="container mx-auto px-4">
         <nuxt-link 
-          to="/Inaugural-Lecture" 
+          to="/Inaugural Lecture" 
           class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
         >
           <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
