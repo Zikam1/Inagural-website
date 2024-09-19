@@ -11,13 +11,13 @@
     
       <div class="container mx-auto px-4 md:px-8">
         <nuxt-link 
-          to="/" 
+          to="/Inagural-Lecture" 
           class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
         >
           <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
             <path d="M15 19l-7-7 7-7"></path>
           </svg>
-          <span class="text-sm md:text-base">Back to Home</span>
+          <span class="text-sm md:text-base">Back</span>
         </nuxt-link>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <!-- Loop through the images array -->
@@ -29,20 +29,7 @@
         </div>
       </div>
 
-      <div class="mt-8 flex justify-center">
-        <div class="text-center">
-          <h2 class="text-3xl text-center font-semibold mb-4">  Award of Recognition After Her Inaugural Lecture</h2>
-          <iframe 
-            width="560" 
-            height="315" 
-            :src="youtubeLink" 
-            title="YouTube video player" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen>
-          </iframe>
-        </div>
-      </div>
+     
 
     </section>
   </template>
