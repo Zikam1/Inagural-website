@@ -5,7 +5,7 @@
          Testimonials
         </h2>
         <nuxt-link 
-          to="/Inaugural Lecture" 
+          to="/Inaugural-Lecture" 
           class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
         >
           <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
