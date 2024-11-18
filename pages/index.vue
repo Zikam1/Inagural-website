@@ -238,7 +238,7 @@
         "Join me on Thursday, August 29, 2024, as I explore the critical role of science in advancing sustainable practices for a greener future."
       </p>
       <NuxtLink 
-        to="/Inaugural-Lecture" 
+        to="/events" 
         class="inline-block bg-white text-blue-700 py-3 px-8 rounded-lg hover:bg-gray-200 transition-transform transform duration-300 ease-in-out hover:-translate-y-1 hover:scale-105"
       >
         Learn More

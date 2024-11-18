@@ -5,7 +5,7 @@
       <nuxt-link
         exact-active-class="bg-blue-600 text-white"
         class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-600 transition-colors mb-2 mr-2 w-full sm:w-auto"
-        to="/Inaugural-Lecture"
+        to="/events"
       >
         EVENTS
       </nuxt-link>
