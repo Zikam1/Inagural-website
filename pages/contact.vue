@@ -5,7 +5,7 @@
         <div class="flex flex-col lg:flex-row items-center justify-center lg:space-x-8 space-y-8 lg:space-y-0">
           <!-- Image Section -->
           <div class="w-full lg:w-1/3 flex-shrink-0">
-            <img src="../assests/contact.jpg" alt="Contact Us" class="w-full h-auto rounded-lg shadow-lg">
+            <img src="../assests/cctt.png" alt="Contact Us" class="w-full h-auto rounded-lg shadow-lg">
           </div>
   
           <!-- Form Section -->

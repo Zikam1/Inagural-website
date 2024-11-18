@@ -31,8 +31,8 @@
         <li @click="closeMenu"><NuxtLink to="/about" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">About</NuxtLink></li>
         <li @click="closeMenu"><NuxtLink to="/awards" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Awards</NuxtLink></li>
         <li @click="closeMenu"><NuxtLink to="/publications" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Publications</NuxtLink></li>
-        <li @click="closeMenu"><NuxtLink to="/Inaugural-Lecture" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Inaugural Lecture</NuxtLink></li>
         <li @click="closeMenu"><NuxtLink to="/contact" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Contact</NuxtLink></li>
+        <li @click="closeMenu"><NuxtLink to="/events" class="block px-4 py-2 text-blue-600 md:text-white hover:text-gray-300">Events</NuxtLink></li>
       </ul>
     </nav>
   </header>
