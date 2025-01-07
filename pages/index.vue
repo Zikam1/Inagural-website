@@ -20,11 +20,14 @@
 
   <!-- About Us Section -->
   <section class="py-24 bg-gray-50">
-  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8 gap-x-12">
+    <!-- Image Section -->
     <div class="md:w-1/2">
       <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
     </div>
-    <div class="md:w-1/2 mt-8 md:mt-0 md:ml-10">
+
+    <!-- Text Section -->
+    <div class="md:w-1/2 mt-8 md:mt-0 md:ml-12">
       <h2 class="text-3xl font-bold text-gray-800 mb-4">About the Inaugural Lecture</h2>
       <p class="text-lg text-gray-600 mb-4">
         I am honored to announce that my inaugural lecture, entitled "Science
@@ -35,11 +38,6 @@
       <p class="text-lg text-gray-600 mb-6">
         This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability.
       </p>
-      <!-- Zoom Link Button -->
-      <a href="https://us06web.zoom.us/j/86896769009?pwd=mE0utiEMJIR6UTHZbfVygAqOjcJaJW.1" target="_blank" class="inline-flex items-center justify-center bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-white text-lg font-semibold py-3 px-5 rounded-full shadow-lg hover:from-green-500 hover:via-blue-600 hover:to-purple-700 transition duration-300 ease-in-out transform hover:-translate-y-1">
-        <i class="fas fa-video mr-2 text-white"></i> 
-        Join via Zoom
-      </a>
     </div>
   </div>
 </section>
@@ -101,8 +99,40 @@
 
 
 
+<section class="py-24 bg-gray-50">
+  <div class="container mx-auto max-w-5xl px-4 md:px-8">
+    <!-- Centralized Title -->
+    <div class="mb-12">
+      <h2 class="text-4xl font-semibold text-gray-800 text-center">
+        Award Given to me on 30th Dec, 2024 by my community, Nsirimo Amaise
+      </h2>
+    </div>
 
-  <section class="py-24 bg-gray-50">
+    <div class="flex flex-col items-center gap-12">
+      <!-- Text Section -->
+      <div class="md:w-3/4">
+        <p class="text-lg text-gray-600 mb-4 font-bold">
+          I am so honored to have received an Award of Excellence from my hometown, Nsirimo, during the Nsirimo Amaise Day 2024 celebration. The event was a vibrant gathering of traditional rulers, illustrious sons and daughters of Nsirimo, and community leaders, showcasing our rich heritage and unity.
+        </p>
+        <p class="text-lg text-gray-600 mb-6">
+          I extend my sincere gratitude to the President General of the Nsirimo Amaise Development Union, Mr. Ifeanyi Lekwauwa, and his incredible team for their kind nomination and for organizing such a memorable celebration.
+        </p>
+      </div>
+
+      <!-- Image Section -->
+      <div class="flex flex-wrap justify-center gap-4">
+        <img src="../assests/aw.jpeg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
+        <img src="../assests/awe.jpeg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
+        <img src="../assests/loz.jpg" alt="Award Image 3" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+  <section class="py-24 bg-gray-100">
   <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
     
     <!-- Image Section (Left) -->
@@ -112,7 +142,7 @@
     
     <!-- Text Section (Right) -->
     <div class="md:w-1/2 m-8">
-      <h2 class="text-4xl font-bold text-gray-800 mb-4">Upcoming Event</h2>
+      <h2 class="text-4xl font-bold text-gray-800 mb-4">Event</h2>
       <p class="text-lg text-gray-600 mb-4">
         <strong>Webinar Invitation</strong><br>
         Join us for a transformative webinar on <strong>"Leveraging Networks for Research and Innovation"</strong> with Professor Eucharia Nwaichi.<br><br>
@@ -248,16 +278,16 @@
 
 
  
-  <section class="py-24 bg-gray-100">
-    <!-- Section Title -->
+  <!-- <section class="py-24 bg-gray-100">
+    
     <div class="container mx-auto px-16 md:px-24 text-center">
       <h1 class="text-4xl font-bold mb-6">Recent Event</h1>
     </div>
 
-    <!-- Gallery Grid -->
+    
     <div class="container mx-auto px-4 md:px-8">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <!-- Gallery Item 1 -->
+      
         <div class="relative">
           <img src="https://zikama.sirv.com/Prof/DSC_0912.jpg"
             width="6016" height="4016" 
@@ -265,7 +295,7 @@
             class="w-full h-64 object-cover rounded-lg shadow-lg">
         </div>
 
-        <!-- Gallery Item 2 -->
+       
         <div class="relative">
           <img src="https://zikama.sirv.com/Prof/DSC_0933.jpg"
             width="6016" height="4016" 
@@ -273,7 +303,7 @@
             class="w-full h-64 object-cover rounded-lg shadow-lg">
         </div>
 
-        <!-- Gallery Item 3 -->
+      
         <div class="relative">
           <img src="https://zikama.sirv.com/Prof/DSC_0938%20(1).jpg"
             width="2625" height="1857"
@@ -282,14 +312,14 @@
         </div>
       </div>
 
-      <!-- "View More" Nuxt Link -->
+      
       <div class="text-center mt-8">
         <NuxtLink to="/recent" class="inline-block bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-600 transition duration-300">
           View More Images
         </NuxtLink>
       </div>
     </div>
-</section>
+</section> -->
 
 
   
