@@ -104,7 +104,7 @@
     <!-- Centralized Title -->
     <div class="mb-12">
       <h2 class="text-4xl font-semibold text-gray-800 text-center">
-        Award Given to me on 30th Dec, 2024 by my community, Nsirimo Amaise
+        Award Given to me on 30th Dec, 2024 by my Community, Nsirimo Amaise
       </h2>
     </div>
 

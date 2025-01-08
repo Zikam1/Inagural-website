@@ -68,6 +68,39 @@
     </div>
 </div>
 
+<section class="py-24 bg-gray-50">
+  <div class="container mx-auto max-w-5xl px-4 md:px-8">
+    <!-- Centralized Title -->
+    <div class="mb-12">
+      <h2 class="text-4xl font-semibold text-gray-800 text-center">
+        Centre for Environmental Restoration (CEER)
+      </h2>
+    </div>
+
+    <div class="flex flex-col items-center gap-12">
+      <!-- Text Section -->
+      <div class="md:w-3/4">
+        <p class="text-lg text-gray-600 mb-4 font-bold">
+          I contributed to developing the framework for the Centre for Environmental Restoration (CEER) under HYPREP of the Federal Ministry of Environment. 
+        </p>
+        <p class="text-lg text-gray-600 mb-6">
+          This involved drafting sustainable remediation guidelines, proposing innovative restoration strategies, engaging stakeholders, and designing evaluation metrics. It's aimed to address hydrocarbon pollution, restore ecosystems, and promote environmental sustainability in impacted communities.
+        </p>
+      </div>
+
+      <!-- Image Section -->
+      <div class="flex flex-wrap justify-center gap-4">
+        <img src="../assests/dfdd.jpg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/4">
+        <img src="../assests/dfd.jpg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/4">
+        <img src="../assests/df.jpg" alt="Award Image 3" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-1/5">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  
 
      <!-- Grid layout for the two sections -->
 <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
