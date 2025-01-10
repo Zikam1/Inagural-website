@@ -121,9 +121,9 @@
 
       <!-- Image Section -->
       <div class="flex flex-wrap justify-center gap-4">
-        <img src="../assests/aw.jpeg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
-        <img src="../assests/awe.jpeg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
-        <img src="../assests/loz.jpg" alt="Award Image 3" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5">
+        <img src="../assests/aw.jpeg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/5">
+        <img src="../assests/awe.jpeg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-2/5">
+        <!-- <img src="../assests/loz.jpg" alt="Award Image 3" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5"> -->
       </div>
     </div>
   </div>
