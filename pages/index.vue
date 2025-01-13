@@ -20,23 +20,36 @@
 
   <!-- About Us Section -->
   <section class="py-24 bg-gray-50">
-  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8 gap-x-12">
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8 gap-x-6">
     <!-- Image Section -->
-    <div class="md:w-1/2">
-      <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
+    <div class="md:w-1/2 flex flex-col gap-4 items-center md:items-start">
+      <!-- Image 1 -->
+      <img 
+        src="../assests/ti.png" 
+        alt="Award Image 1" 
+        class="rounded-lg shadow-lg w-full max-w-sm">
+      <!-- Image 2 -->
+      <img 
+        src="../assests/rt.jpg" 
+        alt="Award Image 2" 
+        class="rounded-lg shadow-lg w-full max-w-sm">
     </div>
 
     <!-- Text Section -->
-    <div class="md:w-1/2 mt-8 md:mt-0 md:ml-12">
-      <h2 class="text-3xl font-bold text-gray-800 mb-4">About the Inaugural Lecture</h2>
+    <div class="md:w-1/2 mt-8 md:mt-0">
+      <h2 class="text-3xl font-bold text-gray-800 mb-4">Eucharia Nwaichi Prize for Women in Science</h2>
       <p class="text-lg text-gray-600 mb-4">
-        I am honored to announce that my inaugural lecture, entitled "Science
-        and Sustainability: Pioneering a Greener Future," is scheduled for Thursday,
-        August 29, 2024, at 3:00 PM. The lecture will be held at the esteemed
-        CBN Centre of Excellence Auditorium, University of Port Harcourt.
+        The Eucharia Nwaichi Prize for Women in Science was endowed in recognition of Eucharia Nwaichi’s 
+        pioneering contributions to research enterprise and her unwavering commitment to the inclusion 
+        of women in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
+        This prestigious award honors women who have demonstrated exceptional leadership 
+        and innovation in their scientific endeavors, continuing Eucharia's legacy of advocating 
+        for gender equity in the sciences.
       </p>
       <p class="text-lg text-gray-600 mb-6">
-        This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability.
+        The prize celebrates her significant impact in advancing research and creating opportunities for women to 
+        thrive in traditionally underrepresented fields. Each year, the award recognizes a woman who exemplifies 
+        the same dedication to excellence and inclusion that Eucharia championed throughout her career.
       </p>
     </div>
   </div>
@@ -142,9 +155,8 @@
     
     <!-- Text Section (Right) -->
     <div class="md:w-1/2 m-8">
-      <h2 class="text-4xl font-bold text-gray-800 mb-4">Event</h2>
+      <h2 class="text-4xl font-bold text-gray-800 mb-4">WEBINAR INVITATION</h2>
       <p class="text-lg text-gray-600 mb-4">
-        <strong>Webinar Invitation</strong><br>
         Join us for a transformative webinar on <strong>"Leveraging Networks for Research and Innovation"</strong> with Professor Eucharia Nwaichi.<br><br>
         <strong>📅 Date:</strong> September 7, 2024<br>
         <strong>⏰ Time:</strong> 5:00 PM (WAT)<br>
