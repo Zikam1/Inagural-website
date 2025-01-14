@@ -39,35 +39,12 @@
     </div>
 
     <section class="py-10 bg-gray-100">   
+      
   <div class="container mx-auto px-4 lg:px-8 max-w-7xl">   
+    
+     
     <!-- Event Section -->
     <ul class="space-y-12">
-       <!-- Inaugural Lecture 191 -->
-       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
-        <!-- Image Section -->
-        <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
-          <img src="../assests/scibiz.jpg" alt="191st Inaugural Lecture" class="w-full h-auto rounded-lg shadow-sm">
-        </div>
-
-        <!-- Text Section -->
-        <div class="w-full lg:w-2/3">
-          <h3 class="text-3xl font-bold  mb-4">Past Events </h3>
-          <h3 class="text-2xl font-bold mb-4">Scibiz Annual Conference 2024</h3>
-          <p class="text-lg text-gray-700 font-semibold mb-4">
-            Integrating Research, Innovation and Policy:
-          </p>
-          <p class="text-lg text-gray-700 mb-4">
-            <span class="font-semibold">Key Findings:</span> Triple Helix Pathway to Research Commercialisation.
-          </p>
-          <p class="text-lg text-gray-700 mb-4">
-            <span class="font-semibold">Prof. Eucharia O. Nwaichi</span> 
-          </p>
-          <p class="text-lg text-gray-700">
-            <span class="font-semibold">Date:</span> OCT 23 - OCT 25 2024
-          </p>
-        </div>
-      </li>
-      <!-- Upcoming Event 1 -->
       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
         <!-- Image Section -->
         <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
@@ -94,6 +71,33 @@
           
         </div>
       </li>
+      
+       <!-- Inaugural Lecture 191 -->
+       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
+        <!-- Image Section -->
+        <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
+          <img src="../assests/scibiz.jpg" alt="191st Inaugural Lecture" class="w-full h-auto rounded-lg shadow-sm">
+        </div>
+
+        <!-- Text Section -->
+        <div class="w-full lg:w-2/3">
+          <h3 class="text-3xl font-bold  mb-4">Past Events </h3>
+          <h3 class="text-2xl font-bold mb-4">Scibiz Annual Conference 2024</h3>
+          <p class="text-lg text-gray-700 font-semibold mb-4">
+            Integrating Research, Innovation and Policy:
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <span class="font-semibold">Key Findings:</span> Triple Helix Pathway to Research Commercialisation.
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <span class="font-semibold">Prof. Eucharia O. Nwaichi</span> 
+          </p>
+          <p class="text-lg text-gray-700">
+            <span class="font-semibold">Date:</span> OCT 23 - OCT 25 2024
+          </p>
+        </div>
+      </li>
+     
 
       <!-- Inaugural Lecture 191 -->
       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
