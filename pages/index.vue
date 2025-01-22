@@ -29,10 +29,10 @@
         alt="Award Image 1" 
         class="rounded-lg shadow-lg w-full max-w-sm">
       <!-- Image 2 -->
-      <img 
+      <!-- <img 
         src="../assests/rt.jpg" 
         alt="Award Image 2" 
-        class="rounded-lg shadow-lg w-full max-w-sm">
+        class="rounded-lg shadow-lg w-full max-w-sm"> -->
     </div>
 
     <!-- Text Section -->
