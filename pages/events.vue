@@ -42,9 +42,36 @@
       
   <div class="container mx-auto px-4 lg:px-8 max-w-7xl">   
     
+    
+    
      
     <!-- Event Section -->
     <ul class="space-y-12">
+       <!-- Inaugural Lecture 191 -->
+       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
+        <!-- Image Section -->
+        <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
+          <img src="../assests/bv.jpg" alt="191st Inaugural Lecture" class="w-full h-auto rounded-lg shadow-sm">
+        </div>
+
+        <!-- Text Section -->
+        <div class="w-full lg:w-2/3">
+          <h3 class="text-3xl font-bold  mb-4">Past Events </h3>
+          <h3 class="text-2xl font-bold mb-4">RESEARCHMENT ACADEMY</h3>
+          <p class="text-lg text-gray-700 font-semibold md:mb-0">
+            The February 2025 edition of the Researchment Academy Webinar
+          </p>
+          <p class="text-lg text-gray-700 mb-2">
+            <span class="font-semibold">Invites you to</span> 
+          </p>
+          <p class="text-xl text-gray-700 mb-4">
+            <span class="font-bold">Ensuring Consistency in Scientific Terminologies, Unit and Measurements.</span>
+          </p>
+          <p class="text-lg text-gray-700">
+            <span class="font-semibold">Date:</span> FEB 14TH, 2025
+          </p>
+        </div>
+      </li>
       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
         <!-- Image Section -->
         <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
@@ -81,7 +108,7 @@
 
         <!-- Text Section -->
         <div class="w-full lg:w-2/3">
-          <h3 class="text-3xl font-bold  mb-4">Past Events </h3>
+          <h3 class="text-3xl font-bold  mb-4"></h3>
           <h3 class="text-2xl font-bold mb-4">Scibiz Annual Conference 2024</h3>
           <p class="text-lg text-gray-700 font-semibold mb-4">
             Integrating Research, Innovation and Policy:

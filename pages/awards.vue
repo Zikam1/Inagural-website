@@ -93,7 +93,7 @@
         <img src="../assests/dfdd.jpg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/4">
       
         
-      </div>
+a      </div>
     </div>
   </div>
 </section>

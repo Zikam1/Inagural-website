@@ -145,34 +145,42 @@
 
 
 
-  <section class="py-24 bg-gray-100">
-  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
+<section class="py-24 bg-gray-100">
+    <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
     
-    <!-- Image Section (Left) -->
-    <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
-      <img src="../assests/ui.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
-    </div>
-    
-    <!-- Text Section (Right) -->
-    <div class="md:w-1/2 m-8">
-      <h2 class="text-4xl font-bold text-gray-800 mb-4">WEBINAR INVITATION</h2>
-      <p class="text-lg text-gray-600 mb-4">
-        Join us for a transformative webinar on <strong>"Leveraging Networks for Research and Innovation"</strong> with Professor Eucharia Nwaichi.<br><br>
-        <strong>📅 Date:</strong> September 7, 2024<br>
-        <strong>⏰ Time:</strong> 5:00 PM (WAT)<br>
-        <strong>🎓 Facilitator:</strong> Professor Eucharia Nwaichi<br><br>
-        Discover actionable strategies to enhance your research impact through effective networking.<br><br>
-        Secure your spot: <a href="https://bit.ly/AGE-LEVERAGING-NETWORKS" class="text-blue-600 hover:underline">Register here</a><br><br>
-        <em>©AGE</em>
-      </p>
-      <p class="text-lg text-gray-600">
-        This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability.
-      </p>
-    </div>
+        <!-- Image Section (Left) -->
+        <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
+            <img src="../assests/accelerate.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
+        </div>
+        
+        <!-- Text Section (Right) -->
+        <div class="md:w-1/2 m-8">
+          <h2 class="text-2xl font-bold text-gray-800 mb-4">Incoming Event</h2>
+            <h2 class="text-4xl font-bold text-gray-800 mb-4">UNIVERSITY OF ABUJA</h2>        
+            
+            <p class="text-xl font-semibold text-gray-700 mt-4">The University of National Unity, the UofA of Nigeria</p>
+            <h4 class="text-xl font-semibold text-gray-700 mt-4">Center for Gender Security Studies and Youth Advancement</h4>
 
-  </div>
+            <h3 class="text-2xl font-bold text-gray-800 mt-4">2025 International Women's Day Webinar</h3>
+            <p class="text-lg text-gray-600"><strong>Theme:</strong> Accelerating Gender Access to Education for National Development</p>
+
+            <div class="mt-6">
+                <a href="https://us02web.zoom.us/j/84458381016" target="_blank" 
+                   class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md text-lg font-semibold hover:bg-blue-700 transition duration-300">
+                    📺 Join via Zoom
+                </a>
+            </div>
+
+            <p class="text-lg text-gray-600 mt-4">
+                <strong>Meeting ID:</strong> 84458381016
+            </p>
+            <p class="text-lg text-gray-600">
+                <strong>📅 Date:</strong> March 11TH, 2025<br>
+                <strong>⏰ Time:</strong> 10:00 AM - 12 Noon (WAT)<br>
+            </p>
+        </div>
+    </div>
 </section>
-
 
   <!-- Gallery Section -->
   <section class="py-24 bg-white">
