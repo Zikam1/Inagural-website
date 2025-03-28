@@ -150,35 +150,24 @@
     
         <!-- Image Section (Left) -->
         <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
-            <img src="../assests/accelerate.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
+            <img src="../assests/think.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
         </div>
         
         <!-- Text Section (Right) -->
         <div class="md:w-1/2 m-8">
-          <h2 class="text-2xl font-bold text-gray-800 mb-4">Incoming Event</h2>
-            <h2 class="text-4xl font-bold text-gray-800 mb-4">UNIVERSITY OF ABUJA</h2>        
-            
-            <p class="text-xl font-semibold text-gray-700 mt-4">The University of National Unity, the UofA of Nigeria</p>
-            <h4 class="text-xl font-semibold text-gray-700 mt-4">Center for Gender Security Studies and Youth Advancement</h4>
+    <h2 class="text-2xl font-bold text-gray-800 mb-8">Think W; Honoring You . Inspiring Many</h2>
+    <h2 class="text-4xl font-bold text-gray-800 mb-8">Dear Prof. Eucharia Oluchi Nwaichi</h2>
+    
+    <p class="text-xl font-semibold text-gray-700 mt-8">As a distinguished POWER OF 100 HONOREE</p>
+    <h4 class="text-xl font-semibold text-gray-700 mt-8">You are invited to the Access Bank International Women's Day Conference</h4>
+    
+    <h3 class="text-2xl font-bold text-gray-800 mt-8">A gathering to celebrate and drive progress for women</h3>
+    
+    <p class="text-lg text-gray-600 mt-4"><strong>📅 Date:</strong> 28th March 2025</p>
+    <p class="text-lg text-gray-600 mt-4"><strong>📍 Venue:</strong> Harbor Point</p>
+    <p class="text-lg text-gray-600 mt-4"><strong>⏰ Time:</strong> 10:00 AM</p>
+</div>
 
-            <h3 class="text-2xl font-bold text-gray-800 mt-4">2025 International Women's Day Webinar</h3>
-            <p class="text-lg text-gray-600"><strong>Theme:</strong> Accelerating Gender Access to Education for National Development</p>
-
-            <div class="mt-6">
-                <a href="https://us02web.zoom.us/j/84458381016" target="_blank" 
-                   class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md text-lg font-semibold hover:bg-blue-700 transition duration-300">
-                    📺 Join via Zoom
-                </a>
-            </div>
-
-            <p class="text-lg text-gray-600 mt-4">
-                <strong>Meeting ID:</strong> 84458381016
-            </p>
-            <p class="text-lg text-gray-600">
-                <strong>📅 Date:</strong> March 11TH, 2025<br>
-                <strong>⏰ Time:</strong> 10:00 AM - 12 Noon (WAT)<br>
-            </p>
-        </div>
     </div>
 </section>
 

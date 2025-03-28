@@ -181,6 +181,30 @@
           </p>
         </div>
       </li>
+      <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
+        <!-- Image Section -->
+        <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
+          <img src="../assests/accelerate.jpg" alt="191st Inaugural Lecture" class="w-full h-auto rounded-lg shadow-sm">
+        </div>
+
+        <!-- Text Section -->
+        <div class="w-full lg:w-2/3">
+          <h3 class="text-3xl font-bold mb-4">Accelerating Gender Access to Education for National Development</h3>
+          <p class="text-lg text-gray-700 font-semibold mb-4">
+            The University of National Unity, the UofA of Nigeria
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <span class="font-semibold">Key Findings:</span> Center for Gender Security Studies and Youth Advancement
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <span class="font-semibold">Time:</span> 10:00 AM - 12 Noon (WAT)
+          </p>
+          <p class="text-lg text-gray-700">
+            <span class="font-semibold">Date:</span> March 11TH, 2025
+          </p>
+        </div>
+      </li>
+
     </ul>
   </div>
 </section>
