@@ -22,6 +22,38 @@
           <!-- Gallery Items -->
           <div class="relative">
             <img 
+              src="../assests/phh.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Access Bank International Women's Day Conference</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/phhh.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Access Bank International Women's Day Conference</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/fg.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Access Bank International Women's Day Conference</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/phhhh.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Access Bank International Women's Day Conference</div>
+          </div>
+          <div class="relative">
+            <img 
               src="../assests/lec5.JPG" 
               alt="Presenting a paper at WARIMA Conference" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"
