@@ -230,9 +230,10 @@
             alt="Gallery Image 3"
             class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
-          <div class="mt-4 text-gray-800 font-bold text-center">
-            Uniport contingent at the WARIMA conference ,<br /> at Elizade University,  Ilara Mokin Nigeria
-          </div>
+          <div class="mt-4 text-gray-800 font-bold text-center max-w-xs mx-auto">
+              Uniport contingent at the WARIMA <br />
+              Conference at Elizade University, Nigeria
+            </div>
         </div>
       </div></div>
       <!-- Centralized NuxtLink -->
