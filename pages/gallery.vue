@@ -22,6 +22,22 @@
           <!-- Gallery Items -->
           <div class="relative">
             <img 
+              src="../assests/he.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">HYPREP committee</div>
+          </div>
+          <div class="relative">
+            <img 
+              src="../assests/hee.JPG" 
+              alt="Presenting a paper at WARIMA Conference" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Handed our end-of-task Report to HYPREP on the 13th of March 2025</div>
+          </div>
+          <div class="relative">
+            <img 
               src="../assests/phh.JPG" 
               alt="Presenting a paper at WARIMA Conference" 
               class="w-full h-64 object-cover rounded-lg shadow-lg"

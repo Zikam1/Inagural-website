@@ -155,7 +155,7 @@
         
         <!-- Text Section (Right) -->
         <div class="md:w-1/2 m-8">
-    <!-- <h2 class="text-2xl font-bold text-gray-800 mb-8">Think W; Honoring You . Inspiring Many</h2> -->
+
     <h2 class="text-4xl font-bold text-gray-800 mb-8">Dear Prof. Eucharia Oluchi Nwaichi</h2>
     
     <p class="text-xl font-semibold text-gray-700 mt-8">As a distinguished POWER OF 100 HONOREE</p>
@@ -231,7 +231,7 @@
             class="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
           <div class="mt-4 text-gray-800 font-bold text-center">
-            With HYPREP Technical Committee,<br /> Federal Ministry of Environment
+            Uniport contingent at the WARIMA conference ,<br /> at Elizade University,  Ilara Mokin Nigeria
           </div>
         </div>
       </div></div>
