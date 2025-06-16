@@ -143,35 +143,24 @@
 </section>
 
 
-
-
 <section class="py-24 bg-gray-100">
     <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
-    
-        <!-- Image Section (Left) -->
-        <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
-            <img src="../assests/think.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
+      <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
+          <img src="../assests/FDP.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
         </div>
-        
-        <!-- Text Section (Right) -->
         <div class="md:w-1/2 m-8">
-
-    <h2 class="text-4xl font-bold text-gray-800 mb-8">Dear Prof. Eucharia Oluchi Nwaichi</h2>
-    
-    <p class="text-xl font-semibold text-gray-700 mt-8">As a distinguished POWER OF 100 HONOREE</p>
-    <h4 class="text-xl font-semibold text-gray-700 mt-8">You are invited to the Access Bank International Women's Day Conference</h4>
-    
-    <h3 class="text-2xl font-bold text-gray-800 mt-8">A gathering to celebrate and drive progress for women</h3>
-    
-    <p class="text-lg text-gray-600 mt-4"><strong>📅 Date:</strong> 28th March 2025</p>
-    <p class="text-lg text-gray-600 mt-4"><strong>📍 Venue:</strong> Harbor Point</p>
+    <h2 class="text-4xl font-bold text-gray-800 mb-8">FEDERAL UNIVERSITY OF PETROLEUM RESOURCES EFFURUN (FUPRE)</h2>
+    <p class="text-xl font-semibold text-gray-700 mt-8"><strong>Theme:</strong> DRIVING INNOVATION AND FUNDING THROUGH QUALITY RESEARCH: THE TRIPLE HELIX MODEL</p>
+    <p class="text-lg text-gray-600 mt-4"><strong>📅 Date :</strong> 26th JUNE 2025</p>
+    <p class="text-lg text-gray-600 mt-4"><strong>📍 Venue :</strong> University Main Auditorium behind Central Admin building, Federal University of Petroleum Resources, Effurun</p>
     <p class="text-lg text-gray-600 mt-4"><strong>⏰ Time:</strong> 10:00 AM</p>
+    <p class="text-lg text-gray-600 mt-4"><strong>Chief Host :</strong> PROF. EZEKIEL AGBALAGBA (Vice Chancellor)</p>
+    <p class="text-lg text-gray-700 mb-4">Federal University of Petroleum Resources.</p>   
 </div>
-
     </div>
 </section>
 
-  <!-- Gallery Section -->
+ 
   <section class="py-24 bg-white">
   <div class="container mx-auto text-center max-w-5xl px-4 md:px-8">
     <h2 class="text-4xl font-bold text-gray-800">Gallery</h2>
@@ -180,7 +169,7 @@
     </p>
     <div class="mt-10 overflow-hidden relative">
       <div class="whitespace-nowrap animate-slide-left flex items-center">
-        <!-- Image 1 -->
+      
         <div class="inline-block mx-4">
           <img
             src="../assests/lec0.jpg"
@@ -191,7 +180,7 @@
             Conference at <br />Los Angeles California USA
           </div>
         </div>
-        <!-- Image 2 -->
+     
         <div class="inline-block mx-4">
           <img
             src="../assests/lec1.jpg"
@@ -202,8 +191,6 @@
             Speaking at CUGH 2024, <br />Los Angeles California USA
           </div>
         </div>
-      
-        <!-- Repeat images for seamless sliding -->
         <div class="inline-block mx-4">
           <img
             src="../assests/lec58.jpg"
@@ -236,7 +223,7 @@
             </div>
         </div>
       </div></div>
-      <!-- Centralized NuxtLink -->
+   
       <div class="mt-12 flex justify-center">
         <NuxtLink 
           to="/gallery" 
@@ -285,53 +272,6 @@
       </NuxtLink>
     </div>
   </section>
-
-
- 
-  <!-- <section class="py-24 bg-gray-100">
-    
-    <div class="container mx-auto px-16 md:px-24 text-center">
-      <h1 class="text-4xl font-bold mb-6">Recent Event</h1>
-    </div>
-
-    
-    <div class="container mx-auto px-4 md:px-8">
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      
-        <div class="relative">
-          <img src="https://zikama.sirv.com/Prof/DSC_0912.jpg"
-            width="6016" height="4016" 
-            alt=""
-            class="w-full h-64 object-cover rounded-lg shadow-lg">
-        </div>
-
-       
-        <div class="relative">
-          <img src="https://zikama.sirv.com/Prof/DSC_0933.jpg"
-            width="6016" height="4016" 
-            alt=""
-            class="w-full h-64 object-cover rounded-lg shadow-lg">
-        </div>
-
-      
-        <div class="relative">
-          <img src="https://zikama.sirv.com/Prof/DSC_0938%20(1).jpg"
-            width="2625" height="1857"
-            alt=""
-            class="w-full h-64 object-cover rounded-lg shadow-lg">
-        </div>
-      </div>
-
-      
-      <div class="text-center mt-8">
-        <NuxtLink to="/recent" class="inline-block bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-600 transition duration-300">
-          View More Images
-        </NuxtLink>
-      </div>
-    </div>
-</section> -->
-
-
   
 </template>
 

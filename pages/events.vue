@@ -204,9 +204,37 @@
           </p>
         </div>
       </li>
+       <li class="bg-white p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
+        <!-- Image Section -->
+        <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
+          <img src="../assests/think.jpg" alt="Webinar Event" class="w-full h-auto rounded-lg shadow-sm">
+        </div>
 
+        <!-- Text Section -->
+        <div class="w-full lg:w-2/3">
+          <h3 class="text-3xl font-bold mb-4"></h3>
+          <p class="text-xl text-gray-700 mb-4">
+            <strong>Dear Prof. Eucharia Oluchi Nwaichi</strong><br>
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            As a distinguished POWER OF 100 HONOREE 
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <strong>🗓 Date:</strong> 28th March 2025<br>
+            <strong>⏰ Time:</strong> 10:00 AM (WAT)<br>
+            <strong>Venue</strong> Harbor Point
+          </p>
+          <p class="text-lg text-gray-700 mb-4">
+            Don’t miss this opportunity to learn how to turn your network into a powerful asset for research.
+          </p>
+          <p class="text-lg text-gray-700">
+            Secure your spot now via: <a href="https://bit.ly/AGE-LEVERAGING-NETWORKS" class="text-blue-500 hover:underline">https://bit.ly/AGE-LEVERAGING-NETWORKS</a>
+          </p>
+        </div>
+      </li>
     </ul>
   </div>
+ 
 </section>
 
   </div>

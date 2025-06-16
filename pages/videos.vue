@@ -14,10 +14,8 @@
       <h2 class="text-3xl font-bold text-center text-gray-800 mb-4">
         YouTube Videos
       </h2>
-      
-      <!-- YouTube Embed Section -->
       <div class="flex flex-wrap justify-center gap-6">
-        <!-- First Video -->
+   
         <div class="w-full md:w-1/2 lg:w-1/3">
           <iframe 
             src="https://www.youtube.com/embed/LdfgCzOFzco"
@@ -27,8 +25,7 @@
             allowfullscreen>
           </iframe>
         </div>
-        
-        <!-- Second Video -->
+ 
         <div class="w-full md:w-1/2 lg:w-1/3">
           <iframe 
             src="https://www.youtube.com/embed/9cm367S1df0" 
@@ -39,7 +36,7 @@
           </iframe>
         </div>
         
-                <div class="w-full md:w-1/2 lg:w-1/3">
+          <div class="w-full md:w-1/2 lg:w-1/3">
           <iframe 
             src="https://www.youtube.com/embed/eCY5o_T1oSs" 
             class="w-full h-48 md:h-96" 
@@ -50,14 +47,34 @@
         </div>
 
         <div class="w-full md:w-1/2 lg:w-1/3">
-  <iframe 
-    src="https://www.youtube.com/embed/ADovNWsf03M" 
-    class="w-full h-48 md:h-96" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+        <iframe 
+          src="https://www.youtube.com/embed/ADovNWsf03M" 
+          class="w-full h-48 md:h-96" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+        
+      <div class="w-full md:w-1/2 lg:w-1/3">
+          <iframe 
+            src="https://www.youtube.com/embed/HS_a_OlGCJQ?start=1" 
+            class="w-full h-48 md:h-96" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+          </iframe>
+        </div>
+
+        <div class="w-full md:w-1/2 lg:w-1/3">
+        <iframe 
+          src="https://www.youtube.com/embed/hl8DTqRul1I?start=5" 
+          class="w-full h-48 md:h-96" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
       </div>
     </div>
   </section>
