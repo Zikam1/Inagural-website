@@ -136,7 +136,7 @@
       <div class="flex flex-wrap justify-center gap-4">
         <img src="../assests/aw.jpeg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/5">
         <img src="../assests/awe.jpeg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-2/5">
-        <!-- <img src="../assests/loz.jpg" alt="Award Image 3" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-1/5"> -->
+       >
       </div>
     </div>
   </div>
@@ -144,20 +144,158 @@
 
 
 <section class="py-24 bg-gray-100">
-    <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
-      <div class="md:w-1/2 mt-8 md:mt-0 md:mr-10">
-          <img src="../assests/FDP.jpg" alt="Upcoming Event" class="rounded-lg shadow-lg">
+  <div class="container mx-auto max-w-6xl px-4 md:px-8">
+    
+    
+    <h2 class="text-center text-4xl md:text-4xl font-bold text-gray-800 md:mb-12">
+      Incoming Events
+    </h2>
+
+    <div class="flex flex-col md:flex-row items-center">
+      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
+        <img src="../assests/FDP.jpg" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
+      </div>
+      <div class="md:w-1/2 space-y-6">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
+          Federal University of Petroleum Resources Effurun (FUPRE)
+        </h2>
+        <h3 class="text-2xl font-semibold text-yellow-500">
+          Maiden Annual Lecture Series
+        </h3>
+
+        <div class="space-y-3">
+          <p class="text-lg md:text-xl font-semibold text-gray-700">
+            <span class="font-bold">Theme:</span> Driving Innovation and Funding Through Quality Research: The Triple Helix Model
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📅 Date:</span> 26th June 2025
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📍 Venue:</span> University Main Auditorium, behind Central Admin Building, FUPRE
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">⏰ Time:</span> 10:00 AM
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">Chief Host:</span> Prof. Ezekiel Agbalagba (Vice Chancellor)
+          </p>
+          <p class="text-lg text-gray-700 italic">Federal University of Petroleum Resources</p>
         </div>
-        <div class="md:w-1/2 m-8">
-    <h2 class="text-4xl font-bold text-gray-800 mb-8">FEDERAL UNIVERSITY OF PETROLEUM RESOURCES EFFURUN (FUPRE)</h2>
-    <p class="text-xl font-semibold text-gray-700 mt-8"><strong>Theme:</strong> DRIVING INNOVATION AND FUNDING THROUGH QUALITY RESEARCH: THE TRIPLE HELIX MODEL</p>
-    <p class="text-lg text-gray-600 mt-4"><strong>📅 Date :</strong> 26th JUNE 2025</p>
-    <p class="text-lg text-gray-600 mt-4"><strong>📍 Venue :</strong> University Main Auditorium behind Central Admin building, Federal University of Petroleum Resources, Effurun</p>
-    <p class="text-lg text-gray-600 mt-4"><strong>⏰ Time:</strong> 10:00 AM</p>
-    <p class="text-lg text-gray-600 mt-4"><strong>Chief Host :</strong> PROF. EZEKIEL AGBALAGBA (Vice Chancellor)</p>
-    <p class="text-lg text-gray-700 mb-4">Federal University of Petroleum Resources.</p>   
-</div>
+      </div>
+      
     </div>
+  </div>
+</section>
+
+<section class="py-24 bg-gray-100">
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
+    
+    
+    <div class="md:w-1/2 mb-12 md:mb-0 md:mr-10 order-2 md:order-1">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
+        University of Port Harcourt<br><span class="text-base font-medium text-gray-600">(Faculty of Agriculture)</span>
+      </h2>
+      <h3 class="text-xl font-semibold text-yellow-600 mb-6">
+        Departmental Quarterly Webinar Series (5th Edition)
+      </h3>
+
+      <p class="text-lg font-semibold text-gray-700 mb-3">
+        <strong>Theme:</strong> Securing Grants and Advancing Research: Key Strategies
+      </p>
+      <p class="text-lg font-semibold text-gray-700 mb-3">
+        <strong>Topic:</strong> Budgeting and Financial Planning in Grant Applications
+      </p>
+
+      <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> 26th June 2025</p>
+      <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 2:30 PM WAT</p>
+      <p class="text-base text-gray-600 mb-2">
+        <strong>🔗 Register in advance:</strong>
+        <a href="https://us06web.zoom.us/meeting/register/6E1eTZuYSq-ROXVaZSxNrA" target="_blank" class="text-blue-600 underline">
+          Click here to register
+        </a>
+      </p>
+      <p class="text-base text-gray-600">
+        <strong>📧 Note:</strong> After registering, a confirmation email will be sent to you with details on how to join the meeting.
+      </p>
+    </div>
+
+    <!-- Image Section (Right on Desktop) -->
+    <div class="md:w-1/2 order-1 md:order-2">
+      <img src="../assests/secure.jpg" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
+    </div>
+
+  </div>
+</section>
+
+
+
+<section class="py-24 bg-gray-150">
+  <div class="container mx-auto max-w-6xl px-4 md:px-8">
+    <div class="flex flex-col md:flex-row items-center">
+      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
+        <img src="../assests/ghh.png" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
+      </div>
+      <div class="md:w-1/2 space-y-6">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
+         2025 CODAPNU WORKSHOP
+        </h2>
+        <h3 class="text-2xl font-semibold text-gray-500">
+          The Committee of Directors of Academic Planning of Nigerian Universities (CODAPNU)
+        </h3>
+
+        <div class="space-y-3">
+          <p class="text-lg md:text-xl font-semibold text-gray-700">
+            <span class="font-bold">Theme:</span> Enhancing Academic Excellence & Graduate Employability: Strengthening the Implementation of CCMAS for Sustainable Youth Development in Nigeria
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📅 Date:</span>  22nd – 25th June 2025
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📍 Venue:</span> NUC Secretariat, Abuja
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">⏰ Time:</span> 9:00 AM Daily
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">Workshop : </span> It will equip Academic Planning Directors, Quality Assurance Officers, and curriculum planners with strategies to enhance academic standards and graduate employability
+          </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="py-24 bg-gray-100">
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
+    
+    
+    <div class="md:w-1/2 mb-12 md:mb-0 md:mr-10 order-2 md:order-1">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
+        AFRICAN GAS INNOVATION SUMMIT<br><span class="text-base font-medium text-gray-600">(PTDF Conference Center)</span>
+      </h2>
+      <p class="text-lg font-semibold text-gray-700 mb-3">
+        <strong>Theme : </strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
+      </p>
+      <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> June 18th - June 19th, 2025</p>
+      <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
+      <p class="text-base text-gray-600 mb-2">
+        <strong>🔗 Register : </strong>
+        <a href="https://africagasinnovationsummit.org/attend/" target="_blank" class="text-blue-600 underline">
+          Click here to register
+        </a>
+      </p>
+      <p class="text-base text-gray-600">
+        <strong>Venue : </strong>Hybrid-In-Person (Petroleum Technology Development Fund(PTDF), 2 Memorial Close, Wuse, Abuja, Nigeria) and Online Zoom
+      </p>
+    </div>
+
+    <!-- Image Section (Right on Desktop) -->
+    <div class="md:w-1/2 order-1 md:order-2">
+      <img src="../assests/summit.png" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
+    </div>
+
+  </div>
 </section>
 
  

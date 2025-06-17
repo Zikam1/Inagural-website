@@ -6,7 +6,7 @@
         <div>
           <h3 class="text-xl font-bold">About</h3>
           <p class="mt-4 text-gray-400">
-            With 15 years of expertise in teaching, research, and environmental management, I leverage advanced degrees and industry experience to enhance student outcomes and address complex environmental challenges.
+            With 15 + years of expertise in teaching, research, and environmental management, I leverage advanced degrees and industry experience to enhance student outcomes and address complex environmental challenges.
           </p>
         </div>
 
