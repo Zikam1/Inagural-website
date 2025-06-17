@@ -36,12 +36,7 @@
                 nodullm@yahoo.com
               </a>
             </li>
-            <li>
-              Phone:
-              <a href="tel:+1234567890" class="text-gray-400 hover:text-white">
-                +234 805 603 1989
-              </a>
-            </li>
+            
             <li>
               Department of Biochemistry, Faculty of Science, University of Port Harcourt, P.M.B.5323 Rivers State Nigeria
             </li>

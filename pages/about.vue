@@ -27,7 +27,7 @@
         
         <!-- <h2 class="text-xl sm:text-2xl md:text-3xl font-bold">NWAICHI, Eucharia Oluchi</h2> -->
         <p class="mt-2 sm:mt-4 text-sm sm:text-base md:text-lg text-gray-700">
-          A well-traveled academic with 13+ years of teaching and research experience and poised with strong
+          A well-traveled academic with 15 + years of teaching and research experience and poised with strong
           initiatives, interpersonal and organizational skills to increase students’ performance...
         </p>
 

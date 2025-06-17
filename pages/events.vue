@@ -36,6 +36,13 @@
       >
         VIDEOS
       </nuxt-link>
+       <nuxt-link
+        exact-active-class="bg-blue-400 text-white"
+        class="inline-block px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition-colors mb-2 w-full sm:w-auto"
+        to="/Incoming-events"
+      >
+       INCOMING EVENTS
+      </nuxt-link>
     </div>
 
     <section class="py-10 bg-gray-100">   

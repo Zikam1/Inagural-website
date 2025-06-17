@@ -142,14 +142,85 @@
   </div>
 </section>
 
+<section class="py-24 bg-gray-100">
+  <h2 class="text-center text-4xl md:text-4xl font-bold text-gray-800 md:mb-12">
+      Upcoming Events
+    </h2>
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
+    
+    
+    <div class="md:w-1/2 mb-12 md:mb-0 md:mr-10 order-2 md:order-1">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
+        AFRICAN GAS INNOVATION SUMMIT<br><span class="text-base font-medium text-gray-600">(PTDF Conference Center)</span>
+      </h2>
+      <p class="text-lg font-semibold text-gray-700 mb-3">
+        <strong>Theme : </strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
+      </p>
+      <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> June 18th - June 19th, 2025</p>
+      <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
+      <p class="text-base text-gray-600 mb-2">
+        <strong>🔗 Register : </strong>
+        <a href="https://africagasinnovationsummit.org/attend/" target="_blank" class="text-blue-600 underline">
+          Click here to register
+        </a>
+      </p>
+      <p class="text-base text-gray-600">
+        <strong>Venue : </strong>Hybrid-In-Person (Petroleum Technology Development Fund(PTDF), 2 Memorial Close, Wuse, Abuja, Nigeria) and Online Zoom
+      </p>
+    </div>
+
+    <!-- Image Section (Right on Desktop) -->
+    <div class="md:w-1/2 order-1 md:order-2">
+      <img src="../assests/summit.png" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
+    </div>
+
+  </div>
+</section>
+
+
+<section class="py-24 bg-gray-150">
+  <div class="container mx-auto max-w-6xl px-4 md:px-8">
+    <div class="flex flex-col md:flex-row items-center">
+      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
+        <img src="../assests/ghh.png" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
+      </div>
+      <div class="md:w-1/2 space-y-6">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
+         2025 CODAPNU WORKSHOP
+        </h2>
+        <h3 class="text-2xl font-semibold text-gray-500">
+          The Committee of Directors of Academic Planning of Nigerian Universities (CODAPNU)
+        </h3>
+
+        <div class="space-y-3">
+          <p class="text-lg md:text-xl font-semibold text-gray-700">
+            <span class="font-bold">Theme:</span> Enhancing Academic Excellence & Graduate Employability: Strengthening the Implementation of CCMAS for Sustainable Youth Development in Nigeria
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📅 Date:</span>  22nd – 25th June 2025
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">📍 Venue:</span> NUC Secretariat, Abuja
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">⏰ Time:</span> 9:00 AM Daily
+          </p>
+          <p class="text-lg text-gray-600">
+            <span class="font-bold">Workshop : </span> It will equip Academic Planning Directors, Quality Assurance Officers, and curriculum planners with strategies to enhance academic standards and graduate employability
+          </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
 
 <section class="py-24 bg-gray-100">
   <div class="container mx-auto max-w-6xl px-4 md:px-8">
     
     
-    <h2 class="text-center text-4xl md:text-4xl font-bold text-gray-800 md:mb-12">
-      Incoming Events
-    </h2>
+    
 
     <div class="flex flex-col md:flex-row items-center">
       <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
@@ -229,74 +300,8 @@
 
 
 
-<section class="py-24 bg-gray-150">
-  <div class="container mx-auto max-w-6xl px-4 md:px-8">
-    <div class="flex flex-col md:flex-row items-center">
-      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
-        <img src="../assests/ghh.png" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
-      </div>
-      <div class="md:w-1/2 space-y-6">
-        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
-         2025 CODAPNU WORKSHOP
-        </h2>
-        <h3 class="text-2xl font-semibold text-gray-500">
-          The Committee of Directors of Academic Planning of Nigerian Universities (CODAPNU)
-        </h3>
 
-        <div class="space-y-3">
-          <p class="text-lg md:text-xl font-semibold text-gray-700">
-            <span class="font-bold">Theme:</span> Enhancing Academic Excellence & Graduate Employability: Strengthening the Implementation of CCMAS for Sustainable Youth Development in Nigeria
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📅 Date:</span>  22nd – 25th June 2025
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📍 Venue:</span> NUC Secretariat, Abuja
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">⏰ Time:</span> 9:00 AM Daily
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">Workshop : </span> It will equip Academic Planning Directors, Quality Assurance Officers, and curriculum planners with strategies to enhance academic standards and graduate employability
-          </p>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-</section>
 
-<section class="py-24 bg-gray-100">
-  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
-    
-    
-    <div class="md:w-1/2 mb-12 md:mb-0 md:mr-10 order-2 md:order-1">
-      <h2 class="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
-        AFRICAN GAS INNOVATION SUMMIT<br><span class="text-base font-medium text-gray-600">(PTDF Conference Center)</span>
-      </h2>
-      <p class="text-lg font-semibold text-gray-700 mb-3">
-        <strong>Theme : </strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
-      </p>
-      <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> June 18th - June 19th, 2025</p>
-      <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
-      <p class="text-base text-gray-600 mb-2">
-        <strong>🔗 Register : </strong>
-        <a href="https://africagasinnovationsummit.org/attend/" target="_blank" class="text-blue-600 underline">
-          Click here to register
-        </a>
-      </p>
-      <p class="text-base text-gray-600">
-        <strong>Venue : </strong>Hybrid-In-Person (Petroleum Technology Development Fund(PTDF), 2 Memorial Close, Wuse, Abuja, Nigeria) and Online Zoom
-      </p>
-    </div>
-
-    <!-- Image Section (Right on Desktop) -->
-    <div class="md:w-1/2 order-1 md:order-2">
-      <img src="../assests/summit.png" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
-    </div>
-
-  </div>
-</section>
 
  
   <section class="py-24 bg-white">
