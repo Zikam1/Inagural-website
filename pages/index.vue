@@ -156,6 +156,10 @@
       <p class="text-lg font-semibold text-gray-700 mb-3">
         <strong>Theme : </strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
       </p>
+      <p class="text-lg font-semibold text-gray-700 mb-4">
+      I will be moderating the Interactive Policy Lab Session on the topic
+      <em>“Unleashing Domestic & Regional Gas Trading"</em> at the 2nd edition of the Africa Gas Innovation Summit (AGIS) 2025, Abuja, Nigeria.
+    </p>
       <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> June 18th - June 19th, 2025</p>
       <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
       <p class="text-base text-gray-600 mb-2">
@@ -171,7 +175,7 @@
 
     <!-- Image Section (Right on Desktop) -->
     <div class="md:w-1/2 order-1 md:order-2">
-      <img src="../assests/summit.png" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
+      <img src="../assests/mode.jpg" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
     </div>
 
   </div>

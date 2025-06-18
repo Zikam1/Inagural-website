@@ -39,6 +39,28 @@
             </p>
           </div>
         </li>
+        <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
+  <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8">
+    <img src="../assests/mode.jpg" alt="Gas Innovation Summit" class="w-full h-auto rounded-lg shadow-sm">
+  </div>
+  <div class="w-full lg:w-2/3">
+    <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2">AFRICAN GAS INNOVATION SUMMIT</h3>
+    <p class="text-base font-medium text-gray-600 mb-4">(PTDF Conference Center)</p>
+    <p class="text-lg font-semibold text-gray-700 mb-4">
+      I will be moderating the Interactive Policy Lab Session on the topic
+      <em>“Unleashing Domestic & Regional Gas Trading"</em> at the 2nd edition of the Africa Gas Innovation Summit (AGIS) 2025, Abuja, Nigeria.
+    </p>
+    <p class="text-base text-gray-600 mb-1"><strong>🗓 Date:</strong> June 18th - June 19th, 2025</p>
+    <p class="text-base text-gray-600 mb-1"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
+    <p class="text-base text-gray-600 mb-1">
+      <strong>🔗 Register:</strong>
+      <a href="https://africagasinnovationsummit.org/attend/" class="text-blue-600 underline">Click here to register</a>
+    </p>
+    <p class="text-base text-gray-600">
+      <strong>Venue:</strong> Hybrid-In-Person (PTDF, Wuse, Abuja, Nigeria) & Online Zoom
+    </p>
+  </div>
+</li>
 
         <!-- CODAPNU WORKSHOP -->
         <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
