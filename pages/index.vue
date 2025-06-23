@@ -25,7 +25,7 @@
     <div class="md:w-1/2 flex flex-col gap-4 items-center md:items-start">
       <!-- Image 1 -->
       <img 
-        src="../assests/ti.png" 
+        src="../assests/oluuu.jpg" 
         alt="Award Image 1" 
         class="rounded-lg shadow-lg w-full max-w-sm">
       <!-- Image 2 -->

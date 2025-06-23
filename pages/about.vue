@@ -19,7 +19,7 @@
       <!-- Profile Image -->
       <div class="flex-shrink-0 mb-4 md:mb-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 flex justify-center items-center rounded-lg overflow-hidden bg-gray-200">
         
-        <img src="../assests/lec55.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
+        <img src="../assests/oluu.jpg" alt="Professor NWAICHI, Eucharia Oluchi" class="w-full h-full object-cover">
       </div>
       
       <!-- Biography -->
