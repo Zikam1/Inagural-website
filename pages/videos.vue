@@ -75,15 +75,27 @@
           allowfullscreen>
         </iframe>
       </div>
+
+        <div class="w-full md:w-1/2 lg:w-1/3">
+        <video 
+          src="../assests/video/profnew.mp4" 
+          class="w-full h-48 md:h-96 object-cover" 
+          controls 
+          autoplay 
+          muted 
+          loop>
+          Your browser does not support the video tag.
+        </video>
+      </div>
       </div>
     </div>
   </section>
 </template>
 
 <script setup>
-// No additional logic needed for embedding videos
+
 </script>
 
 <style scoped>
-/* Optional custom styling */
+
 </style>

@@ -11,7 +11,7 @@
     <!-- Content -->
     <div class="relative z-10 bg-white bg-opacity-90 p-5 rounded-lg shadow-lg max-w-5xl mx-auto px-4 md:px-8">
       <h2 class="text-4xl font-bold mb-6 text-gray-900">PROF. Eucharia Oluchi Nwaichi</h2>
-      <p class="text-xl mb-8 text-gray-700">Seasoned Biochemistry Professor with International Expertise in Environmental Monitoring, <br>Assessment, Remediation, Research-to-policy and 15+ Years Of Groundbreaking</br> Teaching Experience.</p>
+      <p class="text-xl mb-8 text-gray-700">Seasoned Biochemistry Professor with International Expertise in Environmental Monitoring, <br>Assessment, Remediation, Research-to-policy and 16+ Years Of Groundbreaking</br> Teaching Experience.</p>
       <NuxtLink to="/publications" class="inline-block bg-indigo-700 text-white py-3 px-8 rounded-lg hover:bg-indigo-600 transition-transform transform duration-300 ease-in-out hover:-translate-y-1 hover:scale-105">
         Discover More
       </NuxtLink>
