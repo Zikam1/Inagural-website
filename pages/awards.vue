@@ -52,6 +52,14 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">Received Award from College of Health, Sciences, Rivers State University </div>
           </div>
+          <div class="relative">
+            <img 
+              src="../assests/sfr.png" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Madonna Senior Secondary School Ekiti State, Nigeria Old Students Association Award of Career Excellence for Outstanding Achievement: 29th December, 2025 </div>
+          </div>
          <div class="bg-white  shadow-lg rounded-lg overflow-hidden">
             <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
               <img src="../assests/pr.jpg" alt="All Nigeria Universities Debate Championship" class="w-full"/>

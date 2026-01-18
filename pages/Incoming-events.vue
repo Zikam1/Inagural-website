@@ -13,7 +13,7 @@
       </nuxt-link>
 
       <h2 class="text-center text-3xl sm:text-4xl font-bold text-gray-800 mb-8 sm:mb-12">
-        Upcoming Events
+         Events
       </h2>
 
       <ul class="space-y-16 max-w-7xl mx-auto">
