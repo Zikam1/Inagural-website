@@ -144,7 +144,7 @@
 
 <section class="py-24 bg-gray-100">
   <h2 class="text-center text-4xl md:text-4xl font-bold text-gray-800 md:mb-12">
-      Upcoming Events
+     
     </h2>
   <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
     
