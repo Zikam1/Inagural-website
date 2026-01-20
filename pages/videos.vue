@@ -76,6 +76,47 @@
         </iframe>
       </div>
 
+       <div class="w-full md:w-1/2 lg:w-1/3">
+          <iframe 
+            src="https://www.youtube.com/embed/X4Gcw8hCb-4" 
+            class="w-full h-48 md:h-96" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+          </iframe>
+        </div>
+
+        <div class="w-full md:w-1/2 lg:w-1/3">
+        <iframe 
+          src="https://www.youtube.com/embed/b7Kc_bhScKg" 
+          class="w-full h-48 md:h-96" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+
+       <div class="w-full md:w-1/2 lg:w-1/3">
+          <iframe 
+            src="https://www.youtube.com/embed/yKSHyFitc0w" 
+            class="w-full h-48 md:h-96" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+          </iframe>
+        </div>
+
+        <div class="w-full md:w-1/2 lg:w-1/3">
+        <iframe 
+          src="https://www.youtube.com/embed/6GAD0yCvPCA" 
+          class="w-full h-48 md:h-96" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+
+
         <div class="w-full md:w-1/2 lg:w-1/3">
         <video 
           src="../assests/video/profnew.mp4" 

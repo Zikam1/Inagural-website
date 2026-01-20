@@ -112,155 +112,139 @@
 
 
 
-<section class="py-24 bg-gray-50">
-  <div class="container mx-auto max-w-5xl px-4 md:px-8">
-    <!-- Centralized Title -->
-    <div class="mb-12">
-      <h2 class="text-4xl font-semibold text-gray-800 text-center">
-        Award Given to me on 30th Dec, 2024 by my Community, Nsirimo Amaise
-      </h2>
-    </div>
-
-    <div class="flex flex-col items-center gap-12">
-      <!-- Text Section -->
-      <div class="md:w-3/4">
-        <p class="text-lg text-gray-600 mb-4 font-bold">
-          I am so honored to have received an Award of Excellence from my hometown, Nsirimo, during the Nsirimo Amaise Day 2024 celebration. The event was a vibrant gathering of traditional rulers, illustrious sons and daughters of Nsirimo, and community leaders, showcasing our rich heritage and unity.
-        </p>
-        <p class="text-lg text-gray-600 mb-6">
-          I extend my sincere gratitude to the President General of the Nsirimo Amaise Development Union, Mr. Ifeanyi Lekwauwa, and his incredible team for their kind nomination and for organizing such a memorable celebration.
-        </p>
-      </div>
-
-      <!-- Image Section -->
-      <div class="flex flex-wrap justify-center gap-4">
-        <img src="../assests/aw.jpeg" alt="Award Image 1" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-2/4 lg:w-2/5">
-        <img src="../assests/awe.jpeg" alt="Award Image 2" class="rounded-lg shadow-lg w-2/5 sm:w-1/3 md:w-1/4 lg:w-2/5">
-       >
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="py-24 bg-gray-100">
-  <h2 class="text-center text-4xl md:text-4xl font-bold text-gray-800 md:mb-12">
-     
-    </h2>
-  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">
-    
-    
-    <div class="md:w-1/2 mb-12 md:mb-0 md:mr-10 order-2 md:order-1">
-      <h2 class="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
-        AFRICAN GAS INNOVATION SUMMIT<br><span class="text-base font-medium text-gray-600">(PTDF Conference Center)</span>
-      </h2>
-      <p class="text-lg font-semibold text-gray-700 mb-3">
-        <strong>Theme : </strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
-      </p>
-      <p class="text-lg font-semibold text-gray-700 mb-4">
-      I will be moderating the Interactive Policy Lab Session on the topic
-      <em>“Unleashing Domestic & Regional Gas Trading"</em> at the 2nd edition of the Africa Gas Innovation Summit (AGIS) 2025, Abuja, Nigeria.
-    </p>
-      <p class="text-base text-gray-600 mb-2"><strong>📅 Date:</strong> June 18th - June 19th, 2025</p>
-      <p class="text-base text-gray-600 mb-2"><strong>⏰ Time:</strong> 8:30 AM - 5:00 PM (WAT)</p>
-      <p class="text-base text-gray-600 mb-2">
-        <strong>🔗 Register : </strong>
-        <a href="https://africagasinnovationsummit.org/attend/" target="_blank" class="text-blue-600 underline">
-          Click here to register
-        </a>
-      </p>
-      <p class="text-base text-gray-600">
-        <strong>Venue : </strong>Hybrid-In-Person (Petroleum Technology Development Fund(PTDF), 2 Memorial Close, Wuse, Abuja, Nigeria) and Online Zoom
-      </p>
-    </div>
-
-    <!-- Image Section (Right on Desktop) -->
-    <div class="md:w-1/2 order-1 md:order-2">
-      <img src="../assests/mode.jpg" alt="Webinar Event Flyer" class="rounded-xl shadow-xl w-full max-w-md mx-auto">
-    </div>
-
-  </div>
-</section>
 
 
-<section class="py-24 bg-gray-150">
-  <div class="container mx-auto max-w-6xl px-4 md:px-8">
-    <div class="flex flex-col md:flex-row items-center">
-      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
-        <img src="../assests/ghh.png" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
-      </div>
-      <div class="md:w-1/2 space-y-6">
-        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
-         2025 CODAPNU WORKSHOP
+
+
+<!-- EVENT 1 -->
+<section class="py-24 bg-gradient-to-b from-gray-50 to-gray-100">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <div class="grid md:grid-cols-2 gap-12 items-center bg-white rounded-3xl shadow-xl p-8 md:p-12">
+
+      <!-- Text -->
+      <div class="space-y-5 order-2 md:order-1">
+        <span class="inline-block px-4 py-1 text-sm font-semibold text-blue-600 bg-blue-100 rounded-full">
+          African Summit
+        </span>
+
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800">
+          African Gas Innovation Summit
         </h2>
-        <h3 class="text-2xl font-semibold text-gray-500">
-          The Committee of Directors of Academic Planning of Nigerian Universities (CODAPNU)
-        </h3>
+        <p class="text-gray-500">(PTDF Conference Center)</p>
 
-        <div class="space-y-3">
-          <p class="text-lg md:text-xl font-semibold text-gray-700">
-            <span class="font-bold">Theme:</span> Enhancing Academic Excellence & Graduate Employability: Strengthening the Implementation of CCMAS for Sustainable Youth Development in Nigeria
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📅 Date:</span>  22nd – 25th June 2025
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📍 Venue:</span> NUC Secretariat, Abuja
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">⏰ Time:</span> 9:00 AM Daily
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">Workshop : </span> It will equip Academic Planning Directors, Quality Assurance Officers, and curriculum planners with strategies to enhance academic standards and graduate employability
-          </p>
+        <p class="text-lg text-gray-700 font-semibold">
+          <strong>Theme:</strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
+        </p>
+
+        <p class="text-gray-600">
+          I will be moderating the Interactive Policy Lab Session on
+          <em class="font-medium">“Unleashing Domestic & Regional Gas Trading”</em>
+          at AGIS 2025 in Abuja.
+        </p>
+
+        <div class="space-y-2 text-gray-600">
+          <p>📅 June 18 – 19, 2025</p>
+          <p>⏰ 8:30 AM – 5:00 PM (WAT)</p>
+          <p>📍 Hybrid (PTDF Abuja & Zoom)</p>
         </div>
+
+        <a
+          href="https://africagasinnovationsummit.org/attend/"
+          target="_blank"
+          class="inline-block mt-4 px-6 py-3 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition"
+        >
+          Register Now
+        </a>
       </div>
-      
+
+      <!-- Image -->
+      <div class="order-1 md:order-2">
+        <img src="../assests/mode.jpg" class="rounded-2xl shadow-lg mx-auto max-w-md" />
+      </div>
     </div>
   </div>
 </section>
 
 
-<section class="py-24 bg-gray-100">
-  <div class="container mx-auto max-w-6xl px-4 md:px-8">
-    
-    
-    
+<!-- EVENT 2 -->
+<section class="py-24 bg-white">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <div class="grid md:grid-cols-2 gap-12 items-center bg-gray-50 rounded-3xl shadow-xl p-8 md:p-12">
 
-    <div class="flex flex-col md:flex-row items-center">
-      <div class="md:w-1/2 mb-10 md:mb-0 md:mr-10">
-        <img src="../assests/FDP.jpg" alt="Upcoming Event" class="w-full h-auto rounded-2xl shadow-xl border border-gray-200">
-      </div>
-      <div class="md:w-1/2 space-y-6">
-        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
-          Federal University of Petroleum Resources Effurun (FUPRE)
+      <img src="../assests/ghh.png" class="rounded-2xl shadow-md" />
+
+      <div class="space-y-5">
+        <span class="inline-block px-4 py-1 text-sm font-semibold text-green-700 bg-green-100 rounded-full">
+          Academic Workshop
+        </span>
+
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800">
+          2025 CODAPNU Workshop
         </h2>
+
+        <p class="text-gray-500 text-lg">
+          Committee of Directors of Academic Planning of Nigerian Universities
+        </p>
+
+        <p class="text-gray-700 font-semibold">
+          <strong>Theme:</strong> Enhancing Academic Excellence & Graduate Employability through CCMAS
+        </p>
+
+        <div class="text-gray-600 space-y-2">
+          <p>📅 June 22 – 25, 2025</p>
+          <p>📍 NUC Secretariat, Abuja</p>
+          <p>⏰ 9:00 AM Daily</p>
+        </div>
+
+        <p class="text-gray-600">
+          This workshop equips academic leaders with strategies to strengthen curriculum quality
+          and graduate employability.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- EVENT 3 -->
+<section class="py-24 bg-gradient-to-b from-gray-50 to-gray-100">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <div class="grid md:grid-cols-2 gap-12 items-center bg-white rounded-3xl shadow-xl p-8 md:p-12">
+
+      <img src="../assests/FDP.jpg" class="rounded-2xl shadow-md" />
+
+      <div class="space-y-5">
+        <span class="inline-block px-4 py-1 text-sm font-semibold text-yellow-700 bg-yellow-100 rounded-full">
+          Public Lecture
+        </span>
+
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800">
+          Federal University of Petroleum Resources, Effurun
+        </h2>
+
         <h3 class="text-2xl font-semibold text-yellow-500">
           Maiden Annual Lecture Series
         </h3>
 
-        <div class="space-y-3">
-          <p class="text-lg md:text-xl font-semibold text-gray-700">
-            <span class="font-bold">Theme:</span> Driving Innovation and Funding Through Quality Research: The Triple Helix Model
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📅 Date:</span> 26th June 2025
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">📍 Venue:</span> University Main Auditorium, behind Central Admin Building, FUPRE
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">⏰ Time:</span> 10:00 AM
-          </p>
-          <p class="text-lg text-gray-600">
-            <span class="font-bold">Chief Host:</span> Prof. Ezekiel Agbalagba (Vice Chancellor)
-          </p>
-          <p class="text-lg text-gray-700 italic">Federal University of Petroleum Resources</p>
+        <p class="text-gray-700 font-semibold">
+          <strong>Theme:</strong> Driving Innovation and Funding Through Quality Research:
+          The Triple Helix Model
+        </p>
+
+        <div class="text-gray-600 space-y-2">
+          <p>📅 June 26, 2025</p>
+          <p>⏰ 10:00 AM</p>
+          <p>📍 Main Auditorium, FUPRE</p>
         </div>
+
+        <p class="text-gray-700">
+          <strong>Chief Host:</strong> Prof. Ezekiel Agbalagba (Vice Chancellor)
+        </p>
       </div>
-      
     </div>
   </div>
 </section>
+
 
 <section class="py-24 bg-gray-100">
   <div class="container mx-auto flex flex-col md:flex-row items-center max-w-6xl px-4 md:px-8">

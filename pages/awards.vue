@@ -60,6 +60,16 @@
             />
             <div class="mt-4 text-gray-800 text-center font-bold">Madonna Senior Secondary School Ekiti State, Nigeria Old Students Association Award of Career Excellence for Outstanding Achievement: 29th December, 2025 </div>
           </div>
+
+           <div class="relative">
+            <img 
+              src="../assests/aw.jpeg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">I am so honored to have received an Award of Excellence from my hometown, Nsirimo, during the Nsirimo Amaise Day 2024 celebration. The event was a vibrant gathering of traditional rulers, illustrious sons and daughters of Nsirimo, and community leaders, showcasing our rich heritage and unity. </div>
+          </div>
+
          <div class="bg-white  shadow-lg rounded-lg overflow-hidden">
             <a href="https://youtu.be/T1fe2BimbBU" target="_blank">
               <img src="../assests/pr.jpg" alt="All Nigeria Universities Debate Championship" class="w-full"/>
