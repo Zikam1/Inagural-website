@@ -116,51 +116,57 @@
 
 
 
-<!-- EVENT 1 -->
-<section class="py-24 bg-gradient-to-b from-gray-50 to-gray-100">
-  <div class="max-w-6xl mx-auto px-4 md:px-8">
-    <div class="grid md:grid-cols-2 gap-12 items-center bg-white rounded-3xl shadow-xl p-8 md:p-12">
+<section class="py-16 md:py-24 bg-gradient-to-b from-gray-50 to-gray-100">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-center 
+                bg-white rounded-2xl md:rounded-3xl shadow-xl 
+                p-6 sm:p-8 md:p-12">
 
       <!-- Text -->
-      <div class="space-y-5 order-2 md:order-1">
-        <span class="inline-block px-4 py-1 text-sm font-semibold text-blue-600 bg-blue-100 rounded-full">
-          African Summit
+      <div class="space-y-4 sm:space-y-5 order-2 md:order-1">
+        <span class="inline-block px-3 py-1 text-xs sm:text-sm font-semibold 
+                     text-blue-600 bg-blue-100 rounded-full">
+          Public Lecture & Interactive Workshop
         </span>
 
-        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800">
-          African Gas Innovation Summit
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
+          Building Innovation Ecosystems in Nigerian Universities
         </h2>
-        <p class="text-gray-500">(PTDF Conference Center)</p>
 
-        <p class="text-lg text-gray-700 font-semibold">
-          <strong>Theme:</strong> Building a Resilient Africa Gas Economy through Innovation and Collaboration
+        <p class="text-sm sm:text-base text-gray-500">
+          Triple Helix Nigeria in collaboration with  
+          Nasarawa State University, Keffi (NSUK)
         </p>
 
-        <p class="text-gray-600">
-          I will be moderating the Interactive Policy Lab Session on
-          <em class="font-medium">“Unleashing Domestic & Regional Gas Trading”</em>
-          at AGIS 2025 in Abuja.
+        <p class="text-base sm:text-lg text-gray-700 font-semibold">
+          <strong>Theme:</strong> Building Innovation Ecosystems in Nigerian Universities:  
+          The Triple Helix Imperative
         </p>
 
-        <div class="space-y-2 text-gray-600">
-          <p>📅 June 18 – 19, 2025</p>
-          <p>⏰ 8:30 AM – 5:00 PM (WAT)</p>
-          <p>📍 Hybrid (PTDF Abuja & Zoom)</p>
+        <p class="text-sm sm:text-base text-gray-600">
+          This Public Lecture and Interactive Workshop brings together academia,
+          industry leaders, policymakers, and innovation stakeholders to explore
+          how the <em class="font-medium">Triple Helix model</em> can strengthen
+          research commercialization, entrepreneurship, and sustainable development
+          within Nigerian universities.
+        </p>
+
+        <div class="space-y-1 sm:space-y-2 text-sm sm:text-base text-gray-600">
+          <p>📅 Date: 26th January 2026</p>
+          <p>⏰ Time: 10:00 AM – 3:00 PM (WAT)</p>
         </div>
-
-        <a
-          href="https://africagasinnovationsummit.org/attend/"
-          target="_blank"
-          class="inline-block mt-4 px-6 py-3 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition"
-        >
-          Register Now
-        </a>
       </div>
 
       <!-- Image -->
-      <div class="order-1 md:order-2">
-        <img src="../assests/mode.jpg" class="rounded-2xl shadow-lg mx-auto max-w-md" />
+      <div class="order-1 md:order-2 flex justify-center">
+        <img 
+          src="../assests/rew.jpeg" 
+          alt="Triple Helix Nigeria Event"
+          class="w-full max-w-xs sm:max-w-sm md:max-w-md 
+                 rounded-xl md:rounded-2xl shadow-lg object-cover"
+        />
       </div>
+
     </div>
   </div>
 </section>

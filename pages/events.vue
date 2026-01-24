@@ -49,6 +49,54 @@
   <div class="container mx-auto px-4 lg:px-8 max-w-7xl">   
     <!-- Event Section -->
     <ul class="space-y-12">
+      <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
+  
+  <!-- Image -->
+  <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:mr-8 flex justify-center">
+    <img 
+      src="../assests/rew.jpeg" 
+      alt="Triple Helix Nigeria Public Lecture"
+      class="w-full max-w-xs sm:max-w-sm lg:max-w-full h-auto rounded-lg shadow-sm object-cover"
+    >
+  </div>
+
+  <!-- Text -->
+  <div class="w-full lg:w-2/3 space-y-3 sm:space-y-4">
+    <span class="inline-block px-3 py-1 text-xs sm:text-sm font-semibold text-blue-600 bg-blue-100 rounded-full">
+      Public Lecture & Interactive Workshop
+    </span>
+
+    <h3 class="text-2xl sm:text-3xl font-bold text-gray-800">
+      Building Innovation Ecosystems in Nigerian Universities
+    </h3>
+
+    <p class="text-sm sm:text-base text-gray-500">
+      Triple Helix Nigeria in collaboration with Nasarawa State University, Keffi (NSUK)
+    </p>
+
+    <p class="text-base sm:text-lg font-semibold text-gray-700">
+      <strong>Theme:</strong> Building Innovation Ecosystems in Nigerian Universities:  
+      The Triple Helix Imperative
+    </p>
+
+    <p class="text-sm sm:text-base text-gray-600">
+      This Public Lecture and Interactive Workshop brings together academia,
+      industry leaders, policymakers, and innovation stakeholders to examine how
+      the <em class="font-medium">Triple Helix model</em> can drive research
+      commercialization, entrepreneurship, and sustainable development in
+      Nigerian universities.
+    </p>
+
+    <p class="text-sm sm:text-base text-gray-600">
+      <strong>🗓 Date:</strong> 26th January 2026
+    </p>
+
+    <p class="text-sm sm:text-base text-gray-600">
+      <strong>⏰ Time:</strong> 10:00 AM – 3:00 PM (WAT)
+    </p>
+
+  </div>
+</li>
        <!-- Inaugural Lecture 191 -->
         <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
           <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
