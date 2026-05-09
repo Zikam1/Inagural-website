@@ -11,7 +11,33 @@
       <div class="py-6 ">
       <div class="container mx-auto px-4 md:px-8">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          
           <!-- Gallery Items -->
+           <div class="relative  overflow-hidden rounded-lg w-full h-64">
+            <img 
+              src="../assests/awd3.jpeg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold"> </div>
+          </div>
+            <div class="relative">
+            <img 
+              src="../assests/vc2.jpeg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold"> </div>
+          </div>
+           <div class="relative">
+            <img 
+              src="../assests/awd.jpeg" 
+              alt="With fellow Visiting Faculty, Prof. Vinita and her daughter, Noni at Amherst USA" 
+              class="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+            <div class="mt-4 text-gray-800 text-center font-bold">Present the essay at the Reflection in Global Health Session which held on  Friday, 10 April 2026 (3:15–4:45 PM EST); and thereafter 
+received the award certificate </div>
+          </div>
           <div class="relative">
             <img 
               src="../assests/lec39.jpg" 

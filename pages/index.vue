@@ -111,7 +111,45 @@
 </section>
 
 
+<section class="py-24 bg-white">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <div class="grid md:grid-cols-2 gap-12 items-center bg-gray-50 rounded-3xl shadow-xl p-8 md:p-12">
 
+      <img src="../assests/vc.jpeg" alt="OWSD Conference" class="rounded-2xl shadow-md w-full object-cover" />
+      
+
+      <div class="space-y-5">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800 leading-tight">
+          5th Biennial South East Zone OWSD Conference
+        </h2>
+
+        <p class="text-gray-500 text-lg">
+          Organization for Women in Science for the Developing World (OWSD), South East Zone
+        </p>
+
+        <p class="text-gray-700 font-semibold leading-relaxed">
+          <strong>Theme:</strong> Women in Science Translating Research into Real Impact Development for Sustainable Development
+        </p>
+
+        <div class="text-gray-600 space-y-2">
+          <p>📅 3rd – 7th May, 2026</p>
+          <p>📍 Senate’s Chamber, Alex Ekwueme Federal University, Ndufu Alike, Ebonyi State</p>
+          <p>⏰ 10:00 AM Daily</p>
+        </div>
+
+        <p class="text-gray-600 leading-relaxed">
+          The conference brings together distinguished women scientists,
+          researchers, academic leaders, and development advocates to promote
+          innovation, collaboration, and impactful research for sustainable development.
+        </p>
+
+       
+
+      </div>
+
+    </div>
+  </div>
+</section>
 
 
 
@@ -173,43 +211,6 @@
 
 
 <!-- EVENT 2 -->
-<section class="py-24 bg-white">
-  <div class="max-w-6xl mx-auto px-4 md:px-8">
-    <div class="grid md:grid-cols-2 gap-12 items-center bg-gray-50 rounded-3xl shadow-xl p-8 md:p-12">
-
-      <img src="../assests/ghh.png" class="rounded-2xl shadow-md" />
-
-      <div class="space-y-5">
-        <span class="inline-block px-4 py-1 text-sm font-semibold text-green-700 bg-green-100 rounded-full">
-          Academic Workshop
-        </span>
-
-        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-800">
-          2025 CODAPNU Workshop
-        </h2>
-
-        <p class="text-gray-500 text-lg">
-          Committee of Directors of Academic Planning of Nigerian Universities
-        </p>
-
-        <p class="text-gray-700 font-semibold">
-          <strong>Theme:</strong> Enhancing Academic Excellence & Graduate Employability through CCMAS
-        </p>
-
-        <div class="text-gray-600 space-y-2">
-          <p>📅 June 22 – 25, 2025</p>
-          <p>📍 NUC Secretariat, Abuja</p>
-          <p>⏰ 9:00 AM Daily</p>
-        </div>
-
-        <p class="text-gray-600">
-          This workshop equips academic leaders with strategies to strengthen curriculum quality
-          and graduate employability.
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
 
 
 <!-- EVENT 3 -->

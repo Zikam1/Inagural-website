@@ -49,6 +49,54 @@
   <div class="container mx-auto px-4 lg:px-8 max-w-7xl">   
     <!-- Event Section -->
     <ul class="space-y-12">
+      <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row-reverse items-center lg:items-start">
+  
+  <div class="w-full lg:w-1/3 mb-6 lg:mb-0 lg:ml-8">
+    <img 
+      src="../assests/vc.jpeg" 
+      alt="5th Biennial South East Zone OWSD Conference" 
+      class="w-full h-auto rounded-lg shadow-sm"
+    >
+  </div>
+
+  <div class="w-full lg:w-2/3">
+    
+    <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2">
+      5TH BIENNIAL SOUTH EAST ZONE OWSD CONFERENCE
+    </h3>
+
+    <p class="text-base font-medium text-gray-600 mb-4">
+      Organization for Women in Science for the Developing World (OWSD), South East Zone
+    </p>
+
+    <p class="text-lg font-semibold text-gray-700 mb-3">
+      <strong>Theme:</strong> Women in Science Translating Research into Real Impact Development for Sustainable Development
+    </p>
+
+    <p class="text-base text-gray-600 mb-2">
+      <strong>🗓 Date:</strong> 3rd – 7th May, 2026
+    </p>
+
+    <p class="text-base text-gray-600 mb-2">
+      <strong>⏰ Time:</strong> 10:00 AM Daily
+    </p>
+
+    <p class="text-base text-gray-600 mb-2">
+      <strong>📍 Venue:</strong> Senate’s Chamber, Alex Ekwueme Federal University,
+      Ndufu Alike, Ebonyi State
+    </p>
+
+    <p class="text-base text-gray-600 leading-relaxed mt-4">
+      The conference brings together distinguished women scientists,
+      researchers, academic leaders, and innovators to promote impactful
+      research, collaboration, leadership, and sustainable development across Africa.
+    </p>
+
+    <div class="mt-5">
+    </div>
+
+  </div>
+</li>
       <li class="bg-white p-6 sm:p-8 rounded-lg shadow-lg flex flex-col lg:flex-row items-center lg:items-start">
   
   <!-- Image -->
